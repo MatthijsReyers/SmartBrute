@@ -49,12 +49,14 @@ SURNAME = 'Simpson'
 ```
 
 ### 1.5 Adding passwords
-Now that SmartBrute is properly set up it is time to start adding passwords to.
+Now that SmartBrute is properly set up it is time to start adding passwords to the list. 
 
 ### 1.6 Stop
 The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare 
 
 ### 1.7 Running and output
-Assuming all went well, the 
+Assuming all went well, our example script should produce the output displayed below. If you experience any errors please ensure that the smartbrute.py file is located in the same directory as the script, and that you are using Python 3.
 
 ## 2. The different functions
+SmartBrute includes a whole bunch of different functions to manipulate and 
+
