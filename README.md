@@ -61,6 +61,7 @@ Assuming all went well, our example script should produce the output displayed b
 SmartBrute includes a whole bunch of different functions to manipulate and 
 
 ### GetFirstN(keys, n)
+| ------------- |:-------------:| -----:|
 | The GetFirstN function takes the first n characters of the given keys. | ```
 test
 return GetFirst()``` |
