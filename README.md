@@ -1,4 +1,6 @@
 # SmartBrute - Bruteforce smarter with Python
+Although password lists like 'rockyou.txt' are pretty good when bruteforcing several passwords from relatively unknown targets, in many situations 
+
 A python library/script for generating passworld lists using information about the target.
 
 ## 1. How to use SmartBrute
