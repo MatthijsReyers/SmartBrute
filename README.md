@@ -62,10 +62,7 @@ SmartBrute includes a whole bunch of different functions to manipulate and
 
 ### GetFirstN(keys, n)
 The GetFirstN function takes the first n characters of the given keys.
-```
-NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
-GetFirst(NAMES, 3)
-```
+
 Produces:
 ```
 Hom
@@ -74,3 +71,11 @@ Bar
 Lis
 Mag
 ```
+| Example       | Output        |
+| ------------- |:-------------:|
+| 
+```
+NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
+GetFirst(NAMES, 3)
+``` 
+| right-aligned |
