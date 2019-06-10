@@ -33,7 +33,23 @@ SB.setFilter({
 ```
 
 ### 1.4 Declaring variables
-The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables to hold that information. 
+The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables to hold that information. Depending on what passwords you want to generate and what information you have you will have to decide what variables to create. For this example we will be trying to crack the wifi password of a imaginary family. 
+```
+from smartbrute import *
+
+SB = SmartBrute('example01.txt')
+SB.setFilter({
+    "max-length": 63,
+    "min-length": 8
+})
+
+NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
+SURNAME = 'Simpson'
+
+```
+
+### 1.5 Adding passwords
+Now that SmartBrute is properly set up it is time to start adding passwords to.
 
 ### 1.6 Stop
 The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare 
