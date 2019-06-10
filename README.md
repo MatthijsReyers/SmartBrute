@@ -21,13 +21,14 @@ SB = SmartBrute('example01.txt')
 ```
 
 ### 1.3 Filtering the generated passwords (optional step)
-If you want to filter the generated passwords to, for example, not include any passwords longer then 63 characters (the maximum length of WPA2-PSK passwords).
+If you want to filter the generated passwords to, for example, not include any passwords longer then 63 characters (the maximum length of WPA2-PSK passwords), you can filter the generated passwords by calling the `setFilter` function with a dictonary. If you do **not** wish to filter the generated passwords in any way, you can skip this step.
 ```
 from smartbrute import *
 
 SB = SmartBrute('example01.txt')
-SB.SetFilter({
-  
+SB.setFilter({
+    "max-length": 63,
+    "min-length": 8
 })
 ```
 
