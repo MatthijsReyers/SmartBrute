@@ -66,6 +66,7 @@ The GetFirstN function takes the first n characters of the given keys.
 NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
 GetFirst(NAMES, 3)
 ```
+Produces:
 ```
 Hom
 Mar
