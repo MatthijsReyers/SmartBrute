@@ -65,4 +65,4 @@ The GetFirstN function takes the first n characters of the given keys.
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| `GetFirst(['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie'], 3)` | `['Hom', 'Mar', 'Bar', 'Lis', 'Mag']` |
+| `GetFirst(['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie'], 2)` | `['Ho', 'Ma', 'Ba', 'Li', 'Ma']` |
