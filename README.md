@@ -32,7 +32,7 @@ SB.SetFilter({
 ```
 
 ### 1.4 Declaring variables
-The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables with that information. 
+The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables to hold that information. 
 
 ### 1.6 Stop
 The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare 
