@@ -1,7 +1,7 @@
 # SmartBrute - Bruteforce smarter with Python
-Although password lists like 'rockyou.txt' are pretty good when bruteforcing several passwords from relatively unknown targets, in many situations 
+Although password lists like 'rockyou.txt' are pretty good when bruteforcing several passwords from relatively unknown targets, in many situations you do know information about the target. And because many people (previously myself included) use passwords that are partially or entirely made out of publicly available information, I decided to create a simple tool in Python that can be used to generate password lists with information about a target.
 
-A python library/script for generating passworld lists using information about the target.
+If you have any suggestions on how to improve the code or want to share any generation scripts that you've come up with, please do contact me.
 
 ## 1. How to use SmartBrute
 Followed underneath are the instructions for using the SmartBrute tool. If you have any problems feel free to ask for under the issues tab or on Twitter. The code used for these instructions can also be found in the 'example01.py' file in the repository.
@@ -20,7 +20,24 @@ from smartbrute import *
 SB = SmartBrute('example01.txt')
 ```
 
-### 1.3 Filtering the generated passwords
-If you want to filter the generated passwords to, for example, not generate any passwords longer then 
+### 1.3 Filtering the generated passwords (optional step)
+If you want to filter the generated passwords to, for example, not include any passwords longer then 63 characters (the maximum length of WPA2-PSK passwords).
+```
+from smartbrute import *
+
+SB = SmartBrute('example01.txt')
+SB.SetFilter({
+  
+})
+```
+
+### 1.4 Declaring variables
+The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables with that information. 
+
+### 1.6 Stop
+The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare 
+
+### 1.7 Running and output
+Assuming all went well, the 
 
 ## 2. The different functions
