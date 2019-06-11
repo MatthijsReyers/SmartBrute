@@ -68,9 +68,8 @@ def GetFirstN(keys, n):
 
 def GenYears(start, stop):
     OutKeys = []
-    for year in range(start, stop):
+    for year in range(int(start), int(stop)+1):
         OutKeys.append(str(year))
-    print('done generating years')
     return OutKeys
 
 def AddString(keys, string):
