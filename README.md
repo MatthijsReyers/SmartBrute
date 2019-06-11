@@ -65,7 +65,7 @@ The GetAllComb function returns all possible combinations based on the length
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| `NAMES = ['One', 'Two', 'Three', 'four']`<br>`GetAllComb(NAMES)` | `['HomerHomerHomer', 'HomerHomerMarge', 'HomerHomerBart', 'HomerMargeHomer', 'Ma']` |
+| `NUMBERS = ['One', 'Two', 'Three', 'four']`<br>`GetAllComb(NUMBERS, 3)` | `['OneTwoThreefour', 'OneTwofourThree', 'OneThreeTwofour', 'OneThreefourTwo', 'OnefourTwoThree', 'OnefourThreeTwo', 'TwoOneThreefour', 'TwoOnefourThree', 'TwoThreeOnefour', 'TwoThreefourOne', 'TwofourOneThree', 'TwofourThreeOne', 'ThreeOneTwofour', 'ThreeOnefourTwo', 'ThreeTwoOnefour', 'ThreeTwofourOne', 'ThreefourOneTwo', 'ThreefourTwoOne', 'fourOneTwoThree', 'fourOneThreeTwo', 'fourTwoOneThree', 'fourTwoThreeOne', 'fourThreeOneTwo', 'fourThreeTwoOne']` |
 
 ### GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys.
