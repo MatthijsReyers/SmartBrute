@@ -15,16 +15,12 @@ from smartbrute import *
 ### 1.2 Initialize the SmartBrute object
 You can then make a SmartBrute object, which I will call `SB`. Please note that the `'example01.txt'` string is the name of the file you want to put the generated password list into and giving the name of a file that already exists will overwrite that file.
 ```
-from smartbrute import *
-
 SB = SmartBrute('example01.txt')
 ```
 
 ### 1.3 Filtering the generated passwords (optional step)
 If you want to filter the generated passwords to, for example, not include any passwords longer then 63 characters (the maximum length of WPA2-PSK passwords), you can filter the generated passwords by calling the `setFilter` function with a dictonary. If you do **not** wish to filter the generated passwords in any way, you can skip this step.
 ```
-from smartbrute import *
-
 SB = SmartBrute('example01.txt')
 SB.setFilter({
     "max-length": 63,
@@ -35,14 +31,6 @@ SB.setFilter({
 ### 1.4 Declaring variables
 The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables to hold that information. Depending on what passwords you want to generate and what information you have you will have to decide what variables to create. For this example we will be trying to crack the wifi password of a imaginary family. 
 ```
-from smartbrute import *
-
-SB = SmartBrute('example01.txt')
-SB.setFilter({
-    "max-length": 63,
-    "min-length": 8
-})
-
 NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
 ```
@@ -52,18 +40,8 @@ Now that SmartBrute is properly set up it is time to generate passwords and add 
 For the first example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names.
 For the second example I will do the same thing as in the first example but this time  th
 For the third exmaple I will simply Combine the surname with the string 'Guest', keep in mind that the `add()` method takes a array/list of strings so when you want to add only one string you should encase it with brackes (`[]`) to make it an array/list.
+Of course these are just a few examples and SmartBrute actually contains many more functions (see chapter 2 below)
 ```
-from new import *
-
-SB = SmartBrute('example01.txt')
-SB.setFilter({
-    "max-length": 63,
-    "min-length": 8
-})
-
-NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
-SURNAME = 'Simpson'
-
 SB.add(GetAllTrueComb(NAMES))
 SB.add(GetAllTrueComb(CapFirstChar(NAMES)))
 SB.add([SURNAME+'Guest'])
@@ -72,21 +50,6 @@ SB.add([SURNAME+'Guest'])
 ### 1.6 Stop
 To tell the SmartBrute object that we are done generating passwords we need to call the `stop()` method. 
 ```
-from new import *
-
-SB = SmartBrute('example01.txt')
-SB.setFilter({
-    "max-length": 63,
-    "min-length": 8
-})
-
-NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
-SURNAME = 'Simpson'
-
-SB.add(GetAllTrueComb(NAMES))
-SB.add(GetAllTrueComb(CapFirstChar(NAMES)))
-SB.add([SURNAME+'Guest'])
-
 SB.stop()
 ```
 
