@@ -47,13 +47,13 @@ NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
 ```
 
-### 1.5 Adding passwords
+### 1.5 Adding and generating passwords
 Now that SmartBrute is properly set up it is time to generate passwords and add them to the list to the outputfile. The basis for this is the `add()` method, which takes in an array/list of passwords and adds them to the output file.
-For the first example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names
-For the second example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names
+For the first example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names.
+For the second example I will do the same thing as in the first example but this time  th
 For the third exmaple I will simply Combine the surname with the string 'Guest', keep in mind that the `add()` method takes a array/list of strings so when you want to add only one string you should encase it with brackes (`[]`) to make it an array/list.
 ```
-from smartbrute import *
+from new import *
 
 SB = SmartBrute('example01.txt')
 SB.setFilter({
@@ -61,17 +61,51 @@ SB.setFilter({
     "min-length": 8
 })
 
-NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
+NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
 
 SB.add(GetAllTrueComb(NAMES))
+SB.add(GetAllTrueComb(CapFirstChar(NAMES)))
+SB.add([SURNAME+'Guest'])
 ```
 
 ### 1.6 Stop
-To tell the SmartBrute object that we are done generating passwords we need to call the `stop()` method, this will close 
+To tell the SmartBrute object that we are done generating passwords we need to call the `stop()` method. 
+```
+from new import *
+
+SB = SmartBrute('example01.txt')
+SB.setFilter({
+    "max-length": 63,
+    "min-length": 8
+})
+
+NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
+SURNAME = 'Simpson'
+
+SB.add(GetAllTrueComb(NAMES))
+SB.add(GetAllTrueComb(CapFirstChar(NAMES)))
+SB.add([SURNAME+'Guest'])
+
+SB.stop()
+```
 
 ### 1.7 Running and output
 Assuming all went well, our example script should produce the output displayed below. If you experience any errors please ensure that the smartbrute.py file is located in the same directory as the script, and that you are using Python 3.
+```
+homermarge
+homermargebart
+homermargebartlisa
+homermargebartlisamaggie
+homermargebartmaggie
+homermargebartmaggielisa
+...
+MaggieLisaBartHomer
+MaggieLisaBartHomerMarge
+MaggieLisaBartMarge
+MaggieLisaBartMargeHomer
+SimpsonGuest
+```
 
 ## 2. The different functions
 SmartBrute includes a whole bunch of different functions to manipulate and generate arrays/lists of strings.
