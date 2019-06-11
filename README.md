@@ -29,18 +29,18 @@ SB.setFilter({
 ```
 
 ### 1.4 Declaring variables
-The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables to hold that information. Depending on what passwords you want to generate and what information you have you will have to decide what variables to create. For this example we will be trying to crack the wifi password of a imaginary family. 
+The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare some variables to hold that information. Depending on what passwords you want to generate and what information you have you will have to decide what variables to create. For this example we will be trying to crack the wifi password of an imaginary family. 
 ```python
 NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
 ```
 
-### 1.5 Adding and generating passwords
-Now that SmartBrute is properly set up it is time to generate passwords and add them to the list to the outputfile. The basis for this is the `add()` method, which takes in an array/list of passwords and adds them to the output file.
+### 1.5 Gnerating passwords
+Now that SmartBrute is properly set up it is time to generate passwords and add them to the outputfile. The basis for this is the `add()` method, which takes in an array/list of passwords and adds them to the output file.
 For the first example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names.
-For the second example I will do the same thing as in the first example but this time  th
+For the second example I will do the same thing as in the first example but this time I will nest the `CapFirstChar()` function inside the `GetAllTrueComb()` function to capitalize the first character of every name.
 For the third exmaple I will simply Combine the surname with the string 'Guest', keep in mind that the `add()` method takes a array/list of strings so when you want to add only one string you should encase it with brackes (`[]`) to make it an array/list.
-Of course these are just a few examples and SmartBrute actually contains many more functions (see chapter 2 below)
+Of course these are just a few examples and SmartBrute actually contains many more functions that can be used to generate all sorts of passwords (see chapter 2 below). If you don't want to come up with password generation scripts yourself, you should check out the `example02.py` file, which generates a whole bunch of passwords based on research and stastics that's been done into common patterns people use for passwords.
 ```python
 SB.add(GetAllTrueComb(NAMES))
 SB.add(GetAllTrueComb(CapFirstChar(NAMES)))
@@ -48,7 +48,7 @@ SB.add([SURNAME+'Guest'])
 ```
 
 ### 1.6 Stop
-To tell the SmartBrute object that we are done generating passwords we need to call the `stop()` method. 
+To tell the SmartBrute object that we are done generating passwords we need to call the `stop()` method. This will also tell python to exit so no more code will be executed after this.
 ```python
 SB.stop()
 ```
@@ -71,7 +71,8 @@ SimpsonGuest
 ```
 
 ## 2. The different functions
-SmartBrute includes a bunch of different functions to manipulate and generate arrays/lists of strings.
+SmartBrute includes a bunch of different functions to manipulate and generate arrays/lists of strings. All of them are listed below along with some explanation and usages examples. Please keep in mind that most of these functions can be nested/combined to generate some pretty complex passwords.
+If you don't feel like making your own generation script or need some insperation, check out the `example02.py` file, which generates a whole bunch of passwords based on research and stastics into common passwords patterns.
 
 ### 2.1 GetAllComb(keys)
 The GetAllComb function returns all possible ways in which the given keys/strings can be combined, while always using every given key, and never using a key twice. *PLEASE NOTE:* For performance reasons I do not recommned using this function on extremely large arrays, or to nesting this function multiple times. As your computer may run out of RAM.
@@ -87,7 +88,9 @@ The GetAllTrueComb function returns all possible ways in which the given keys/st
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
 
-### GetFirstN(keys, N)
+### 2.3 GetAllCombForEach(keys, toadd)
+
+### 2.4 GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys.
 
 | Example       | Output        |
