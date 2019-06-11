@@ -89,6 +89,7 @@ The GetAllTrueComb function returns all possible ways in which the given keys/st
 | ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
 
 ### 2.3 GetAllCombForEach(keys, toadd)
+The GetAllCombForEach function returns all 
 
 | Example       | Output        |
 | ------------- |:-------------:|
@@ -105,5 +106,5 @@ The GenYears function returns all the years between the start and the stop year.
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| ```GenYears(1995,2008)``` | `['1995', '1996', '1997', '1998', '1999', '2000',`<br>`'2001', '2002', '2003', '2004', '2005', '2006', '2007']` |
+| ```GenYears(1995,2008)``` | `['1995', '1996', '1997', '1998', '1999', '2000', '2001',`<br>`'2002', '2003', '2004', '2005', '2006', '2007', '2008']` |
 
