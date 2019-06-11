@@ -65,7 +65,7 @@ The GetAllComb function returns all possible combinations based on the length
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | ```['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC', 'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA', 'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']``` |
+| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
 
 ### GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys.
