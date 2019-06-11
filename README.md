@@ -99,6 +99,7 @@ The GetFirstN function returns the first N characters of the given keys.
 
 ### 2.5 GenYears(start, stop)
 The GenYears function returns all the years between the start and the stop year.
+
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```GenYears(1995,2008)``` | `['1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007']` |
