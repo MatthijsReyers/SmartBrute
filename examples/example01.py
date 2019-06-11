@@ -6,8 +6,11 @@ SB.setFilter({
     "min-length": 8
 })
 
-NAMES = ['bart', 'lisa', 'maggie']
-YEARS = ['2000', '2001', '2002']
-GetAllCombForEach(NAMES,YEARS)
+NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
+SURNAME = 'Simpson'
+
+SB.add(GetAllTrueComb(NAMES))
+SB.add(GetAllTrueComb(CapFirstChar(NAMES)))
+SB.add([SURNAME+'Guest'])
 
 SB.stop()
