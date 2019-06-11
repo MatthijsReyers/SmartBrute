@@ -60,6 +60,13 @@ Assuming all went well, our example script should produce the output displayed b
 ## 2. The different functions
 SmartBrute includes a whole bunch of different functions to manipulate and 
 
+### GetAllComb(keys)
+The GetAllComb function returns all possible combinations 
+
+| Example       | Output        |
+| ------------- |:-------------:|
+| `NAMES = ['Homer', 'Marge', 'Bart']`<br>`GetAllComb(NAMES)` | `['HomerHomerHomer', 'HomerHomerMarge', 'HomerHomerBart', 'HomerMargeHomer', 'Ma']` |
+
 ### GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys.
 
