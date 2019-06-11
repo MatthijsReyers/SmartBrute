@@ -95,7 +95,7 @@ The GetAllCombForEach function returns all
 | ------------- |:-------------:|
 | `NAMES = ['bart', 'lisa', 'maggie']`<br>`YEARS = ['2000', '2001', '2002']`<br>`GetAllCombForEach(NAMES,YEARS)` | `['bart2000', 'bart2001', 'bart2002',`<br>`'lisa2000', 'lisa2001', 'lisa2002',`<br>`'maggie2000', 'maggie2001', 'maggie2002']` |
 ### 2.4 GetFirstN(keys, N)
-The GetFirstN function returns the first N characters of the given keys.
+The GetFirstN function returns the first N characters of the given keys/strings.
 
 | Example       | Output        |
 | ------------- |:-------------:|
