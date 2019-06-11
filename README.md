@@ -58,10 +58,17 @@ The whole point of SmartBrute is to generate password lists using information ab
 Assuming all went well, our example script should produce the output displayed below. If you experience any errors please ensure that the smartbrute.py file is located in the same directory as the script, and that you are using Python 3.
 
 ## 2. The different functions
-SmartBrute includes a whole bunch of different functions to manipulate and 
+SmartBrute includes a whole bunch of different functions to manipulate and generate arrays/lists of strings.
 
-### GetAllCombN(keys, N)
-The GetAllComb function returns all possible combinations based on the length 
+### GetAllComb(keys, N)
+The GetAllComb function returns all possible combinations of the given keys/p based on the length of the 
+
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
+
+### GetAllTrueComb(keys, N)
+The GetAllComb function returns all possible combinations of the given keys/p based on the length of the 
 
 | Example       | Output        |
 | ------------- |:-------------:|
