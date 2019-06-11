@@ -3,22 +3,23 @@
 class SmartBrute():
 
     def __init__(self, OutputFile):
-        self.OutFile = open(OutputFile, "w+")
+        self.OutFile = open(OutputFile, 'w+')
         self.FilterOut = False
 
     def setFilter(self, Rules):
-        pass
-    
-    def filter(self, pws):
-        pass
+        self.FilterOut = True
+        try: 
+            self.MaxLength = Rules['max-length']
+            self.MinLength = Rules['min-length']
+        except:
+            print('ERROR: Please give the minimum and maxiumum length (as integers).')
 
     def add(self, keys):
         for key in keys:
             if self.FilterOut:
-                # if len(key) > LengthMin and len(key) < LengthMax:
-                #     self.OutFile.write(key+"\n")
-                #     print(key)
-                pass
+                if (len(key) >= self.MinLength) and (len(key) <= self.MaxLength):
+                    self.OutFile.write(key+"\n")
+                    print(key)
             else:
                 self.OutFile.write(key+"\n")
                 print(key)
