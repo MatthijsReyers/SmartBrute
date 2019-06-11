@@ -49,7 +49,7 @@ SURNAME = 'Simpson'
 ```
 
 ### 1.5 Adding passwords
-Now that SmartBrute is properly set up it is time to start adding passwords to the list. 
+Now that SmartBrute is properly set up it is time to generate passwords and add them to the list to the outputfile. The basis for this is the `add()` function, which takes in an array/list of strings and adds them to the 
 
 ### 1.6 Stop
 The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare 
@@ -61,18 +61,18 @@ Assuming all went well, our example script should produce the output displayed b
 SmartBrute includes a whole bunch of different functions to manipulate and generate arrays/lists of strings.
 
 ### GetAllComb(keys)
-The GetAllComb function returns all possible combinations of the given keys/p based on the length of the 
+The GetAllComb function returns all possible combinations of the given keys/passwords within the length of the array of given keys. (So if the array )
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
 
 ### GetAllTrueComb(keys)
-The GetAllTrueComb function returns all possible combinations of the given keys/p based on the length of the 
+The GetAllTrueComb function returns all possible combinations of the given keys/passwords that can possibly be made with the  based on the length of the 
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
+| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
 
 ### GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys.
