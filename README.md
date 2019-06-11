@@ -60,15 +60,15 @@ Assuming all went well, our example script should produce the output displayed b
 ## 2. The different functions
 SmartBrute includes a whole bunch of different functions to manipulate and generate arrays/lists of strings.
 
-### GetAllComb(keys, N)
+### GetAllComb(keys)
 The GetAllComb function returns all possible combinations of the given keys/p based on the length of the 
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
 
-### GetAllTrueComb(keys, N)
-The GetAllComb function returns all possible combinations of the given keys/p based on the length of the 
+### GetAllTrueComb(keys)
+The GetAllTrueComb function returns all possible combinations of the given keys/p based on the length of the 
 
 | Example       | Output        |
 | ------------- |:-------------:|
