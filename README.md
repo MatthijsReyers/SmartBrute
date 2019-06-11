@@ -60,14 +60,14 @@ Assuming all went well, our example script should produce the output displayed b
 ## 2. The different functions
 SmartBrute includes a whole bunch of different functions to manipulate and generate arrays/lists of strings.
 
-### GetAllComb(keys)
+### 2.1 GetAllComb(keys)
 The GetAllComb function returns all possible combinations of the given keys/passwords within the length of the array of given keys. (So if the array )
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
 
-### GetAllTrueComb(keys)
+### 2.2 GetAllTrueComb(keys)
 The GetAllTrueComb function returns all possible combinations of the given keys/passwords that can possibly be made with the  based on the length of the 
 
 | Example       | Output        |
