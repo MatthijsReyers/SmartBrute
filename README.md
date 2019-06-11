@@ -74,14 +74,14 @@ SimpsonGuest
 SmartBrute includes a bunch of different functions to manipulate and generate arrays/lists of strings.
 
 ### 2.1 GetAllComb(keys)
-The GetAllComb function returns all possible ways in which the given keys/strings can be combined, while always using every given key, and never using a key twice. *PLEASE NOTE:* all of the keys this function outputs are kept in memory until they are written to the output file, which is why it is not recommended to use this function on extremely large arrays, or to nest this function multiple times.
+The GetAllComb function returns all possible ways in which the given keys/strings can be combined, while always using every given key, and never using a key twice. *PLEASE NOTE:* For performance reasons I do not recommned using this function on extremely large arrays, or to nesting this function multiple times. As your computer may run out of RAM.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
 
 ### 2.2 GetAllTrueComb(keys)
-The GetAllTrueComb function returns all possible ways in which the given keys/strings can be combined, while never using the same key twice, but not necessarily using every key for every combination. *PLEASE NOTE:* all of the keys this function outputs are kept in memory until they are written to the output file, which is why it is not recommended to use this function on extremely large arrays, or to nest this function multiple times.
+The GetAllTrueComb function returns all possible ways in which the given keys/strings can be combined, while never using the same key twice, but not necessarily using every key for every combination. *PLEASE NOTE:* For performance reasons I do not recommned using this function on extremely large arrays, or to nesting this function multiple times. As your computer may run out of RAM.
 
 | Example       | Output        |
 | ------------- |:-------------:|
