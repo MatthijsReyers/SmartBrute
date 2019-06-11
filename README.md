@@ -35,7 +35,7 @@ NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
 ```
 
-### 1.5 Gnerating passwords
+### 1.5 Generating passwords
 Now that SmartBrute is properly set up it is time to generate passwords and add them to the outputfile. The basis for this is the `add()` method, which takes in an array/list of passwords and adds them to the output file.
 For the first example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names.
 For the second example I will do the same thing as in the first example but this time I will nest the `CapFirstChar()` function inside the `GetAllTrueComb()` function to capitalize the first character of every name.
