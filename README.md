@@ -1,7 +1,7 @@
 # SmartBrute - Bruteforce smarter with Python
 Although password lists like 'rockyou.txt' are pretty good when bruteforcing several passwords from relatively unknown targets, in many situations you do know information about the target. And because many people (previously myself included) use passwords that are partially or entirely made out of publicly available information, I decided to create a simple tool in Python that can be used to generate password lists with information about a target.
 
-If you have any suggestions on how to improve the code or want to share any generation scripts that you've come up with, please do contact me.
+If you have any suggestions on how to improve the code or want to share any of the scripts that you've come up with, please do contact me.
 
 ## 1. How to use SmartBrute
 Followed underneath are the instructions for using the SmartBrute tool. If you have any problems feel free to ask for under the issues tab or on Twitter. The code used for these instructions can also be found in the 'example01.py' file in the repository.
@@ -43,16 +43,32 @@ SB.setFilter({
     "min-length": 8
 })
 
-NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
+NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
-
 ```
 
 ### 1.5 Adding passwords
-Now that SmartBrute is properly set up it is time to generate passwords and add them to the list to the outputfile. The basis for this is the `add()` function, which takes in an array/list of strings and adds them to the 
+Now that SmartBrute is properly set up it is time to generate passwords and add them to the list to the outputfile. The basis for this is the `add()` method, which takes in an array/list of passwords and adds them to the output file.
+For the first example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names
+For the second example I will use the `GetAllTrueComb()` function to generate all possible combinations that can be made with the names
+For the third exmaple I will simply Combine the surname with the string 'Guest', keep in mind that the `add()` method takes a array/list of strings so when you want to add only one string you should encase it with brackes (`[]`) to make it an array/list.
+```
+from smartbrute import *
+
+SB = SmartBrute('example01.txt')
+SB.setFilter({
+    "max-length": 63,
+    "min-length": 8
+})
+
+NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']
+SURNAME = 'Simpson'
+
+SB.add(GetAllTrueComb(NAMES))
+```
 
 ### 1.6 Stop
-The whole point of SmartBrute is to generate password lists using information about the target, in this step we'll declare 
+To tell the SmartBrute object that we are done generating passwords we need to call the `stop()` method, this will close 
 
 ### 1.7 Running and output
 Assuming all went well, our example script should produce the output displayed below. If you experience any errors please ensure that the smartbrute.py file is located in the same directory as the script, and that you are using Python 3.
