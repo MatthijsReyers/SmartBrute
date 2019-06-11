@@ -108,7 +108,7 @@ SimpsonGuest
 ```
 
 ## 2. The different functions
-SmartBrute includes a whole bunch of different functions to manipulate and generate arrays/lists of strings.
+SmartBrute includes a bunch of different functions to manipulate and generate arrays/lists of strings.
 
 ### 2.1 GetAllComb(keys)
 The GetAllComb function returns all possible ways in which the given keys/strings can be combined, while always using every given key, and never using a key twice. *PLEASE NOTE:* all of the keys this function outputs are kept in memory until they are written to the output file, which is why it is not recommended to use this function on extremely large arrays, or to nest this function multiple times.
