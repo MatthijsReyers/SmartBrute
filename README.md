@@ -107,7 +107,7 @@ The GetFirstN function returns the first N characters of the given keys/strings.
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| ```NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']```<br>```GetFirst(NAMES, 2)``` | `['Ho', 'Ma', 'Ba', 'Li', 'Ma']` |
+| ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```RepeatN(NAMES, 3)``` | `['homerhomerhomer', 'margemargemarge', 'bartbartbart']` |
 
 ### 2.6 RepeatTillN(keys, N)
 The GetFirstN function returns the first N characters of the given keys/strings.
