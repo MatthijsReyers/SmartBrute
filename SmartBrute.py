@@ -67,6 +67,25 @@ def GetFirstN(keys, n):
         OutKeys.append(key[:n])
     return OutKeys
 
+def RepeatN(keys, N):
+    OutKeys = []
+    for key in keys:
+        AddKey = ''
+        for step in range(N):
+            AddKey = AddKey+key
+        OutKeys.append(AddKey)
+    return OutKeys
+
+def RepeatTillN(keys, N):
+    OutKeys = []
+    for key in keys:
+        for step in range(N):
+            AddKey = ''
+            for more in range(step+1):
+                AddKey = AddKey+key
+            OutKeys.append(AddKey)
+    return OutKeys
+
 def GenYears(start, stop):
     OutKeys = []
     for year in range(int(start), int(stop)+1):
