@@ -102,7 +102,21 @@ The GetFirstN function returns the first N characters of the given keys/strings.
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']```<br>```GetFirst(NAMES, 2)``` | `['Ho', 'Ma', 'Ba', 'Li', 'Ma']` |
 
-### 2.5 GenYears(start, stop)
+### 2.5 RepeatN(keys, N)
+The GetFirstN function returns the first N characters of the given keys/strings.
+
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']```<br>```GetFirst(NAMES, 2)``` | `['Ho', 'Ma', 'Ba', 'Li', 'Ma']` |
+
+### 2.6 RepeatTillN(keys, N)
+The GetFirstN function returns the first N characters of the given keys/strings.
+
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']```<br>```GetFirst(NAMES, 2)``` | `['Ho', 'Ma', 'Ba', 'Li', 'Ma']` |
+
+### 2.7 GenYears(start, stop)
 The GenYears function returns all the years between the start and the stop year.
 
 | Example       | Output        |
