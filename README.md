@@ -127,8 +127,12 @@ The GenYears function returns all the years between the start and the stop year.
 
 ### 2.9 AddForEach(keys1, keys2)
 
+
 ### 2.10 ReplaceString(keys, replace, new)
+
 
 ### 2.11 CapFirstChar(keys)
 
+
 ### 2.12 CapAllChar(keys)
+
