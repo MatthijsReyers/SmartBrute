@@ -85,7 +85,7 @@ The GetAllTrueComb function returns all possible ways in which the given keys/st
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
+| ```ALFB = ['A','B','C']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
 
 ### 2.3 GetAllCombForEach(keys1, keys2)
 The GetAllCombForEach function returns all possible combinations that can be made by combining two keys/strings from the two given arrays/lists.
