@@ -122,3 +122,12 @@ The GenYears function returns all the years between the start and the stop year.
 | ------------- |:-------------:|
 | ```GenYears(1995,2008)``` | `['1995', '1996', '1997', '1998', '1999', '2000', '2001',`<br>`'2002', '2003', '2004', '2005', '2006', '2007', '2008']` |
 
+### 2.8 AddString(keys, string)
+
+### 2.9 AddForEach(keys1, keys2)
+
+### 2.10 ReplaceString(keys, replace, new)
+
+### 2.11 CapFirstChar(keys)
+
+### 2.12 CapAllChar(keys)
