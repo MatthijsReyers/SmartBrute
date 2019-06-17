@@ -130,7 +130,11 @@ The AddString function will add a given string to the end of every given key.
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```AddString(NAMES, 'Simpson')``` | `['HomerSimpson', 'MargeSimpson', 'BartSimpson']` |
 
 ### 2.9 AddForEach(keys1, keys2)
+The AddForEach function will add the given keys to the end of every .
 
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```AddString(NAMES, 'Simpson')``` | `['HomerSimpson', 'MargeSimpson', 'BartSimpson']` |
 
 ### 2.10 ReplaceString(keys, replace, new)
 
