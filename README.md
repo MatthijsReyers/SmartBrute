@@ -123,7 +123,11 @@ The GenYears function returns all the years between the start and the stop year.
 | ```GenYears(1995,2008)``` | `['1995', '1996', '1997', '1998', '1999', '2000', '2001',`<br>`'2002', '2003', '2004', '2005', '2006', '2007', '2008']` |
 
 ### 2.8 AddString(keys, string)
+The AddString function will add a given string to the end of every given key.
 
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```AddString(NAMES, 'Simpson')``` | `['HomerSimpson', 'MargeSimpson', 'BartSimpson']` |
 
 ### 2.9 AddForEach(keys1, keys2)
 
