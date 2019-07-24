@@ -9,6 +9,19 @@ StreetNr = "742"
 SSID = "wifiname"
 
 SB = SmartBrute('example02.txt')
+SB.setFilter({
+    # Min and max length of a WPA2-PSK wifi password.
+    "max-length": 63,
+    "min-length": 8,
+
+    # No characters are forbidden by default, so there is no need to add this option 
+    # to the filter, but I'll keep it here anyway to show that it is possible. (Just
+    # add strings to the array).
+    'forbidden-characters': [],
+    
+    # Remove this or set it True if you want to see the passwords as they generate.
+    'echo-generated-passwords-in-terminal': False
+})
 
 # All possible compinations of names
 SB.add(GetAllTrueComb(NAMES))

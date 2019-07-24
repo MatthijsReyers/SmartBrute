@@ -1,4 +1,3 @@
-homer
 homermarge
 homermargebart
 homermargebartlisa
@@ -63,7 +62,6 @@ homermaggielisamarge
 homermaggielisamargebart
 homermaggielisabart
 homermaggielisabartmarge
-marge
 margehomer
 margehomerbart
 margehomerbartlisa
@@ -128,7 +126,6 @@ margemaggielisahomer
 margemaggielisahomerbart
 margemaggielisabart
 margemaggielisabarthomer
-bart
 barthomer
 barthomermarge
 barthomermargelisa
@@ -193,7 +190,6 @@ bartmaggielisahomer
 bartmaggielisahomermarge
 bartmaggielisamarge
 bartmaggielisamargehomer
-lisa
 lisahomer
 lisahomermarge
 lisahomermargebart
@@ -258,7 +254,6 @@ lisamaggiebarthomer
 lisamaggiebarthomermarge
 lisamaggiebartmarge
 lisamaggiebartmargehomer
-maggie
 maggiehomer
 maggiehomermarge
 maggiehomermargebart
@@ -323,7 +318,6 @@ maggielisabarthomer
 maggielisabarthomermarge
 maggielisabartmarge
 maggielisabartmargehomer
-Homer
 HomerMarge
 HomerMargeBart
 HomerMargeBartLisa
@@ -388,7 +382,6 @@ HomerMaggieLisaMarge
 HomerMaggieLisaMargeBart
 HomerMaggieLisaBart
 HomerMaggieLisaBartMarge
-Marge
 MargeHomer
 MargeHomerBart
 MargeHomerBartLisa
@@ -453,7 +446,6 @@ MargeMaggieLisaHomer
 MargeMaggieLisaHomerBart
 MargeMaggieLisaBart
 MargeMaggieLisaBartHomer
-Bart
 BartHomer
 BartHomerMarge
 BartHomerMargeLisa
@@ -518,7 +510,6 @@ BartMaggieLisaHomer
 BartMaggieLisaHomerMarge
 BartMaggieLisaMarge
 BartMaggieLisaMargeHomer
-Lisa
 LisaHomer
 LisaHomerMarge
 LisaHomerMargeBart
@@ -583,7 +574,6 @@ LisaMaggieBartHomer
 LisaMaggieBartHomerMarge
 LisaMaggieBartMarge
 LisaMaggieBartMargeHomer
-Maggie
 MaggieHomer
 MaggieHomerMarge
 MaggieHomerMargeBart
@@ -1948,7 +1938,6 @@ MaggieSimpsonLisaSimpsonBartSimpsonHomerSimpson
 MaggieSimpsonLisaSimpsonBartSimpsonHomerSimpsonMargeSimpson
 MaggieSimpsonLisaSimpsonBartSimpsonMargeSimpson
 MaggieSimpsonLisaSimpsonBartSimpsonMargeSimpsonHomerSimpson
-simpson
 simpsonspringfield
 simpsonspringfieldEvergreen
 simpsonspringfieldEvergreen742
@@ -1996,7 +1985,6 @@ Evergreen742simpson
 Evergreen742simpsonspringfield
 Evergreen742springfield
 Evergreen742springfieldsimpson
-742
 742simpson
 742simpsonspringfield
 742simpsonspringfieldEvergreen
@@ -2012,7 +2000,6 @@ Evergreen742springfieldsimpson
 742Evergreensimpsonspringfield
 742Evergreenspringfield
 742Evergreenspringfieldsimpson
-Simpson
 SimpsonSpringfield
 SimpsonSpringfieldEvergreen
 SimpsonSpringfieldEvergreen742
@@ -2060,7 +2047,6 @@ Evergreen742Simpson
 Evergreen742SimpsonSpringfield
 Evergreen742Springfield
 Evergreen742SpringfieldSimpson
-742
 742Simpson
 742SimpsonSpringfield
 742SimpsonSpringfieldEvergreen
@@ -2157,6 +2143,7 @@ homer2015
 homer2016
 homer2017
 homer2018
+homer2019
 marge1970
 marge1971
 marge1972
@@ -2206,6 +2193,7 @@ marge2015
 marge2016
 marge2017
 marge2018
+marge2019
 bart1970
 bart1971
 bart1972
@@ -2255,6 +2243,7 @@ bart2015
 bart2016
 bart2017
 bart2018
+bart2019
 lisa1970
 lisa1971
 lisa1972
@@ -2304,6 +2293,7 @@ lisa2015
 lisa2016
 lisa2017
 lisa2018
+lisa2019
 maggie1970
 maggie1971
 maggie1972
@@ -2353,6 +2343,7 @@ maggie2015
 maggie2016
 maggie2017
 maggie2018
+maggie2019
 Evergreen1970
 Evergreen1971
 Evergreen1972
@@ -2402,6 +2393,7 @@ Evergreen2015
 Evergreen2016
 Evergreen2017
 Evergreen2018
+Evergreen2019
 Evergreen7421970
 Evergreen7421971
 Evergreen7421972
@@ -2451,6 +2443,7 @@ Evergreen7422015
 Evergreen7422016
 Evergreen7422017
 Evergreen7422018
+Evergreen7422019
 springfieldEvergreen7421970
 springfieldEvergreen7421971
 springfieldEvergreen7421972
@@ -2500,6 +2493,7 @@ springfieldEvergreen7422015
 springfieldEvergreen7422016
 springfieldEvergreen7422017
 springfieldEvergreen7422018
+springfieldEvergreen7422019
 Evergreen742springfield1970
 Evergreen742springfield1971
 Evergreen742springfield1972
@@ -2549,6 +2543,7 @@ Evergreen742springfield2015
 Evergreen742springfield2016
 Evergreen742springfield2017
 Evergreen742springfield2018
+Evergreen742springfield2019
 Evergreen1970
 Evergreen1971
 Evergreen1972
@@ -2598,6 +2593,7 @@ Evergreen2015
 Evergreen2016
 Evergreen2017
 Evergreen2018
+Evergreen2019
 Evergreen7421970
 Evergreen7421971
 Evergreen7421972
@@ -2647,6 +2643,7 @@ Evergreen7422015
 Evergreen7422016
 Evergreen7422017
 Evergreen7422018
+Evergreen7422019
 SpringfieldEvergreen7421970
 SpringfieldEvergreen7421971
 SpringfieldEvergreen7421972
@@ -2696,6 +2693,7 @@ SpringfieldEvergreen7422015
 SpringfieldEvergreen7422016
 SpringfieldEvergreen7422017
 SpringfieldEvergreen7422018
+SpringfieldEvergreen7422019
 Evergreen742Springfield1970
 Evergreen742Springfield1971
 Evergreen742Springfield1972
@@ -2745,6 +2743,7 @@ Evergreen742Springfield2015
 Evergreen742Springfield2016
 Evergreen742Springfield2017
 Evergreen742Springfield2018
+Evergreen742Springfield2019
 homer1970
 homer1971
 homer1972
@@ -2794,6 +2793,7 @@ homer2015
 homer2016
 homer2017
 homer2018
+homer2019
 homermarge1970
 homermarge1971
 homermarge1972
@@ -2843,6 +2843,7 @@ homermarge2015
 homermarge2016
 homermarge2017
 homermarge2018
+homermarge2019
 homermargebart1970
 homermargebart1971
 homermargebart1972
@@ -2892,6 +2893,7 @@ homermargebart2015
 homermargebart2016
 homermargebart2017
 homermargebart2018
+homermargebart2019
 homermargebartlisa1970
 homermargebartlisa1971
 homermargebartlisa1972
@@ -2941,6 +2943,7 @@ homermargebartlisa2015
 homermargebartlisa2016
 homermargebartlisa2017
 homermargebartlisa2018
+homermargebartlisa2019
 homermargebartlisamaggie1970
 homermargebartlisamaggie1971
 homermargebartlisamaggie1972
@@ -2990,6 +2993,7 @@ homermargebartlisamaggie2015
 homermargebartlisamaggie2016
 homermargebartlisamaggie2017
 homermargebartlisamaggie2018
+homermargebartlisamaggie2019
 homermargebartmaggie1970
 homermargebartmaggie1971
 homermargebartmaggie1972
@@ -3039,6 +3043,7 @@ homermargebartmaggie2015
 homermargebartmaggie2016
 homermargebartmaggie2017
 homermargebartmaggie2018
+homermargebartmaggie2019
 homermargebartmaggielisa1970
 homermargebartmaggielisa1971
 homermargebartmaggielisa1972
@@ -3088,6 +3093,7 @@ homermargebartmaggielisa2015
 homermargebartmaggielisa2016
 homermargebartmaggielisa2017
 homermargebartmaggielisa2018
+homermargebartmaggielisa2019
 homermargelisa1970
 homermargelisa1971
 homermargelisa1972
@@ -3137,6 +3143,7 @@ homermargelisa2015
 homermargelisa2016
 homermargelisa2017
 homermargelisa2018
+homermargelisa2019
 homermargelisabart1970
 homermargelisabart1971
 homermargelisabart1972
@@ -3186,6 +3193,7 @@ homermargelisabart2015
 homermargelisabart2016
 homermargelisabart2017
 homermargelisabart2018
+homermargelisabart2019
 homermargelisabartmaggie1970
 homermargelisabartmaggie1971
 homermargelisabartmaggie1972
@@ -3235,6 +3243,7 @@ homermargelisabartmaggie2015
 homermargelisabartmaggie2016
 homermargelisabartmaggie2017
 homermargelisabartmaggie2018
+homermargelisabartmaggie2019
 homermargelisamaggie1970
 homermargelisamaggie1971
 homermargelisamaggie1972
@@ -3284,6 +3293,7 @@ homermargelisamaggie2015
 homermargelisamaggie2016
 homermargelisamaggie2017
 homermargelisamaggie2018
+homermargelisamaggie2019
 homermargelisamaggiebart1970
 homermargelisamaggiebart1971
 homermargelisamaggiebart1972
@@ -3333,6 +3343,7 @@ homermargelisamaggiebart2015
 homermargelisamaggiebart2016
 homermargelisamaggiebart2017
 homermargelisamaggiebart2018
+homermargelisamaggiebart2019
 homermargemaggie1970
 homermargemaggie1971
 homermargemaggie1972
@@ -3382,6 +3393,7 @@ homermargemaggie2015
 homermargemaggie2016
 homermargemaggie2017
 homermargemaggie2018
+homermargemaggie2019
 homermargemaggiebart1970
 homermargemaggiebart1971
 homermargemaggiebart1972
@@ -3431,6 +3443,7 @@ homermargemaggiebart2015
 homermargemaggiebart2016
 homermargemaggiebart2017
 homermargemaggiebart2018
+homermargemaggiebart2019
 homermargemaggiebartlisa1970
 homermargemaggiebartlisa1971
 homermargemaggiebartlisa1972
@@ -3480,6 +3493,7 @@ homermargemaggiebartlisa2015
 homermargemaggiebartlisa2016
 homermargemaggiebartlisa2017
 homermargemaggiebartlisa2018
+homermargemaggiebartlisa2019
 homermargemaggielisa1970
 homermargemaggielisa1971
 homermargemaggielisa1972
@@ -3529,6 +3543,7 @@ homermargemaggielisa2015
 homermargemaggielisa2016
 homermargemaggielisa2017
 homermargemaggielisa2018
+homermargemaggielisa2019
 homermargemaggielisabart1970
 homermargemaggielisabart1971
 homermargemaggielisabart1972
@@ -3578,6 +3593,7 @@ homermargemaggielisabart2015
 homermargemaggielisabart2016
 homermargemaggielisabart2017
 homermargemaggielisabart2018
+homermargemaggielisabart2019
 homerbart1970
 homerbart1971
 homerbart1972
@@ -3627,6 +3643,7 @@ homerbart2015
 homerbart2016
 homerbart2017
 homerbart2018
+homerbart2019
 homerbartmarge1970
 homerbartmarge1971
 homerbartmarge1972
@@ -3676,6 +3693,7 @@ homerbartmarge2015
 homerbartmarge2016
 homerbartmarge2017
 homerbartmarge2018
+homerbartmarge2019
 homerbartmargelisa1970
 homerbartmargelisa1971
 homerbartmargelisa1972
@@ -3725,6 +3743,7 @@ homerbartmargelisa2015
 homerbartmargelisa2016
 homerbartmargelisa2017
 homerbartmargelisa2018
+homerbartmargelisa2019
 homerbartmargelisamaggie1970
 homerbartmargelisamaggie1971
 homerbartmargelisamaggie1972
@@ -3774,6 +3793,7 @@ homerbartmargelisamaggie2015
 homerbartmargelisamaggie2016
 homerbartmargelisamaggie2017
 homerbartmargelisamaggie2018
+homerbartmargelisamaggie2019
 homerbartmargemaggie1970
 homerbartmargemaggie1971
 homerbartmargemaggie1972
@@ -3823,6 +3843,7 @@ homerbartmargemaggie2015
 homerbartmargemaggie2016
 homerbartmargemaggie2017
 homerbartmargemaggie2018
+homerbartmargemaggie2019
 homerbartmargemaggielisa1970
 homerbartmargemaggielisa1971
 homerbartmargemaggielisa1972
@@ -3872,6 +3893,7 @@ homerbartmargemaggielisa2015
 homerbartmargemaggielisa2016
 homerbartmargemaggielisa2017
 homerbartmargemaggielisa2018
+homerbartmargemaggielisa2019
 homerbartlisa1970
 homerbartlisa1971
 homerbartlisa1972
@@ -3921,6 +3943,7 @@ homerbartlisa2015
 homerbartlisa2016
 homerbartlisa2017
 homerbartlisa2018
+homerbartlisa2019
 homerbartlisamarge1970
 homerbartlisamarge1971
 homerbartlisamarge1972
@@ -3970,6 +3993,7 @@ homerbartlisamarge2015
 homerbartlisamarge2016
 homerbartlisamarge2017
 homerbartlisamarge2018
+homerbartlisamarge2019
 homerbartlisamargemaggie1970
 homerbartlisamargemaggie1971
 homerbartlisamargemaggie1972
@@ -4019,6 +4043,7 @@ homerbartlisamargemaggie2015
 homerbartlisamargemaggie2016
 homerbartlisamargemaggie2017
 homerbartlisamargemaggie2018
+homerbartlisamargemaggie2019
 homerbartlisamaggie1970
 homerbartlisamaggie1971
 homerbartlisamaggie1972
@@ -4068,6 +4093,7 @@ homerbartlisamaggie2015
 homerbartlisamaggie2016
 homerbartlisamaggie2017
 homerbartlisamaggie2018
+homerbartlisamaggie2019
 homerbartlisamaggiemarge1970
 homerbartlisamaggiemarge1971
 homerbartlisamaggiemarge1972
@@ -4117,6 +4143,7 @@ homerbartlisamaggiemarge2015
 homerbartlisamaggiemarge2016
 homerbartlisamaggiemarge2017
 homerbartlisamaggiemarge2018
+homerbartlisamaggiemarge2019
 homerbartmaggie1970
 homerbartmaggie1971
 homerbartmaggie1972
@@ -4166,6 +4193,7 @@ homerbartmaggie2015
 homerbartmaggie2016
 homerbartmaggie2017
 homerbartmaggie2018
+homerbartmaggie2019
 homerbartmaggiemarge1970
 homerbartmaggiemarge1971
 homerbartmaggiemarge1972
@@ -4215,6 +4243,7 @@ homerbartmaggiemarge2015
 homerbartmaggiemarge2016
 homerbartmaggiemarge2017
 homerbartmaggiemarge2018
+homerbartmaggiemarge2019
 homerbartmaggiemargelisa1970
 homerbartmaggiemargelisa1971
 homerbartmaggiemargelisa1972
@@ -4264,6 +4293,7 @@ homerbartmaggiemargelisa2015
 homerbartmaggiemargelisa2016
 homerbartmaggiemargelisa2017
 homerbartmaggiemargelisa2018
+homerbartmaggiemargelisa2019
 homerbartmaggielisa1970
 homerbartmaggielisa1971
 homerbartmaggielisa1972
@@ -4313,6 +4343,7 @@ homerbartmaggielisa2015
 homerbartmaggielisa2016
 homerbartmaggielisa2017
 homerbartmaggielisa2018
+homerbartmaggielisa2019
 homerbartmaggielisamarge1970
 homerbartmaggielisamarge1971
 homerbartmaggielisamarge1972
@@ -4362,6 +4393,7 @@ homerbartmaggielisamarge2015
 homerbartmaggielisamarge2016
 homerbartmaggielisamarge2017
 homerbartmaggielisamarge2018
+homerbartmaggielisamarge2019
 homerlisa1970
 homerlisa1971
 homerlisa1972
@@ -4411,6 +4443,7 @@ homerlisa2015
 homerlisa2016
 homerlisa2017
 homerlisa2018
+homerlisa2019
 homerlisamarge1970
 homerlisamarge1971
 homerlisamarge1972
@@ -4460,6 +4493,7 @@ homerlisamarge2015
 homerlisamarge2016
 homerlisamarge2017
 homerlisamarge2018
+homerlisamarge2019
 homerlisamargebart1970
 homerlisamargebart1971
 homerlisamargebart1972
@@ -4509,6 +4543,7 @@ homerlisamargebart2015
 homerlisamargebart2016
 homerlisamargebart2017
 homerlisamargebart2018
+homerlisamargebart2019
 homerlisamargebartmaggie1970
 homerlisamargebartmaggie1971
 homerlisamargebartmaggie1972
@@ -4558,6 +4593,7 @@ homerlisamargebartmaggie2015
 homerlisamargebartmaggie2016
 homerlisamargebartmaggie2017
 homerlisamargebartmaggie2018
+homerlisamargebartmaggie2019
 homerlisamargemaggie1970
 homerlisamargemaggie1971
 homerlisamargemaggie1972
@@ -4607,6 +4643,7 @@ homerlisamargemaggie2015
 homerlisamargemaggie2016
 homerlisamargemaggie2017
 homerlisamargemaggie2018
+homerlisamargemaggie2019
 homerlisamargemaggiebart1970
 homerlisamargemaggiebart1971
 homerlisamargemaggiebart1972
@@ -4656,6 +4693,7 @@ homerlisamargemaggiebart2015
 homerlisamargemaggiebart2016
 homerlisamargemaggiebart2017
 homerlisamargemaggiebart2018
+homerlisamargemaggiebart2019
 homerlisabart1970
 homerlisabart1971
 homerlisabart1972
@@ -4705,6 +4743,7 @@ homerlisabart2015
 homerlisabart2016
 homerlisabart2017
 homerlisabart2018
+homerlisabart2019
 homerlisabartmarge1970
 homerlisabartmarge1971
 homerlisabartmarge1972
@@ -4754,6 +4793,7 @@ homerlisabartmarge2015
 homerlisabartmarge2016
 homerlisabartmarge2017
 homerlisabartmarge2018
+homerlisabartmarge2019
 homerlisabartmargemaggie1970
 homerlisabartmargemaggie1971
 homerlisabartmargemaggie1972
@@ -4803,6 +4843,7 @@ homerlisabartmargemaggie2015
 homerlisabartmargemaggie2016
 homerlisabartmargemaggie2017
 homerlisabartmargemaggie2018
+homerlisabartmargemaggie2019
 homerlisabartmaggie1970
 homerlisabartmaggie1971
 homerlisabartmaggie1972
@@ -4852,6 +4893,7 @@ homerlisabartmaggie2015
 homerlisabartmaggie2016
 homerlisabartmaggie2017
 homerlisabartmaggie2018
+homerlisabartmaggie2019
 homerlisabartmaggiemarge1970
 homerlisabartmaggiemarge1971
 homerlisabartmaggiemarge1972
@@ -4901,6 +4943,7 @@ homerlisabartmaggiemarge2015
 homerlisabartmaggiemarge2016
 homerlisabartmaggiemarge2017
 homerlisabartmaggiemarge2018
+homerlisabartmaggiemarge2019
 homerlisamaggie1970
 homerlisamaggie1971
 homerlisamaggie1972
@@ -4950,6 +4993,7 @@ homerlisamaggie2015
 homerlisamaggie2016
 homerlisamaggie2017
 homerlisamaggie2018
+homerlisamaggie2019
 homerlisamaggiemarge1970
 homerlisamaggiemarge1971
 homerlisamaggiemarge1972
@@ -4999,6 +5043,7 @@ homerlisamaggiemarge2015
 homerlisamaggiemarge2016
 homerlisamaggiemarge2017
 homerlisamaggiemarge2018
+homerlisamaggiemarge2019
 homerlisamaggiemargebart1970
 homerlisamaggiemargebart1971
 homerlisamaggiemargebart1972
@@ -5048,6 +5093,7 @@ homerlisamaggiemargebart2015
 homerlisamaggiemargebart2016
 homerlisamaggiemargebart2017
 homerlisamaggiemargebart2018
+homerlisamaggiemargebart2019
 homerlisamaggiebart1970
 homerlisamaggiebart1971
 homerlisamaggiebart1972
@@ -5097,6 +5143,7 @@ homerlisamaggiebart2015
 homerlisamaggiebart2016
 homerlisamaggiebart2017
 homerlisamaggiebart2018
+homerlisamaggiebart2019
 homerlisamaggiebartmarge1970
 homerlisamaggiebartmarge1971
 homerlisamaggiebartmarge1972
@@ -5146,6 +5193,7 @@ homerlisamaggiebartmarge2015
 homerlisamaggiebartmarge2016
 homerlisamaggiebartmarge2017
 homerlisamaggiebartmarge2018
+homerlisamaggiebartmarge2019
 homermaggie1970
 homermaggie1971
 homermaggie1972
@@ -5195,6 +5243,7 @@ homermaggie2015
 homermaggie2016
 homermaggie2017
 homermaggie2018
+homermaggie2019
 homermaggiemarge1970
 homermaggiemarge1971
 homermaggiemarge1972
@@ -5244,6 +5293,7 @@ homermaggiemarge2015
 homermaggiemarge2016
 homermaggiemarge2017
 homermaggiemarge2018
+homermaggiemarge2019
 homermaggiemargebart1970
 homermaggiemargebart1971
 homermaggiemargebart1972
@@ -5293,6 +5343,7 @@ homermaggiemargebart2015
 homermaggiemargebart2016
 homermaggiemargebart2017
 homermaggiemargebart2018
+homermaggiemargebart2019
 homermaggiemargebartlisa1970
 homermaggiemargebartlisa1971
 homermaggiemargebartlisa1972
@@ -5342,6 +5393,7 @@ homermaggiemargebartlisa2015
 homermaggiemargebartlisa2016
 homermaggiemargebartlisa2017
 homermaggiemargebartlisa2018
+homermaggiemargebartlisa2019
 homermaggiemargelisa1970
 homermaggiemargelisa1971
 homermaggiemargelisa1972
@@ -5391,6 +5443,7 @@ homermaggiemargelisa2015
 homermaggiemargelisa2016
 homermaggiemargelisa2017
 homermaggiemargelisa2018
+homermaggiemargelisa2019
 homermaggiemargelisabart1970
 homermaggiemargelisabart1971
 homermaggiemargelisabart1972
@@ -5440,6 +5493,7 @@ homermaggiemargelisabart2015
 homermaggiemargelisabart2016
 homermaggiemargelisabart2017
 homermaggiemargelisabart2018
+homermaggiemargelisabart2019
 homermaggiebart1970
 homermaggiebart1971
 homermaggiebart1972
@@ -5489,6 +5543,7 @@ homermaggiebart2015
 homermaggiebart2016
 homermaggiebart2017
 homermaggiebart2018
+homermaggiebart2019
 homermaggiebartmarge1970
 homermaggiebartmarge1971
 homermaggiebartmarge1972
@@ -5538,6 +5593,7 @@ homermaggiebartmarge2015
 homermaggiebartmarge2016
 homermaggiebartmarge2017
 homermaggiebartmarge2018
+homermaggiebartmarge2019
 homermaggiebartmargelisa1970
 homermaggiebartmargelisa1971
 homermaggiebartmargelisa1972
@@ -5587,6 +5643,7 @@ homermaggiebartmargelisa2015
 homermaggiebartmargelisa2016
 homermaggiebartmargelisa2017
 homermaggiebartmargelisa2018
+homermaggiebartmargelisa2019
 homermaggiebartlisa1970
 homermaggiebartlisa1971
 homermaggiebartlisa1972
@@ -5636,6 +5693,7 @@ homermaggiebartlisa2015
 homermaggiebartlisa2016
 homermaggiebartlisa2017
 homermaggiebartlisa2018
+homermaggiebartlisa2019
 homermaggiebartlisamarge1970
 homermaggiebartlisamarge1971
 homermaggiebartlisamarge1972
@@ -5685,6 +5743,7 @@ homermaggiebartlisamarge2015
 homermaggiebartlisamarge2016
 homermaggiebartlisamarge2017
 homermaggiebartlisamarge2018
+homermaggiebartlisamarge2019
 homermaggielisa1970
 homermaggielisa1971
 homermaggielisa1972
@@ -5734,6 +5793,7 @@ homermaggielisa2015
 homermaggielisa2016
 homermaggielisa2017
 homermaggielisa2018
+homermaggielisa2019
 homermaggielisamarge1970
 homermaggielisamarge1971
 homermaggielisamarge1972
@@ -5783,6 +5843,7 @@ homermaggielisamarge2015
 homermaggielisamarge2016
 homermaggielisamarge2017
 homermaggielisamarge2018
+homermaggielisamarge2019
 homermaggielisamargebart1970
 homermaggielisamargebart1971
 homermaggielisamargebart1972
@@ -5832,6 +5893,7 @@ homermaggielisamargebart2015
 homermaggielisamargebart2016
 homermaggielisamargebart2017
 homermaggielisamargebart2018
+homermaggielisamargebart2019
 homermaggielisabart1970
 homermaggielisabart1971
 homermaggielisabart1972
@@ -5881,6 +5943,7 @@ homermaggielisabart2015
 homermaggielisabart2016
 homermaggielisabart2017
 homermaggielisabart2018
+homermaggielisabart2019
 homermaggielisabartmarge1970
 homermaggielisabartmarge1971
 homermaggielisabartmarge1972
@@ -5930,6 +5993,7 @@ homermaggielisabartmarge2015
 homermaggielisabartmarge2016
 homermaggielisabartmarge2017
 homermaggielisabartmarge2018
+homermaggielisabartmarge2019
 marge1970
 marge1971
 marge1972
@@ -5979,6 +6043,7 @@ marge2015
 marge2016
 marge2017
 marge2018
+marge2019
 margehomer1970
 margehomer1971
 margehomer1972
@@ -6028,6 +6093,7 @@ margehomer2015
 margehomer2016
 margehomer2017
 margehomer2018
+margehomer2019
 margehomerbart1970
 margehomerbart1971
 margehomerbart1972
@@ -6077,6 +6143,7 @@ margehomerbart2015
 margehomerbart2016
 margehomerbart2017
 margehomerbart2018
+margehomerbart2019
 margehomerbartlisa1970
 margehomerbartlisa1971
 margehomerbartlisa1972
@@ -6126,6 +6193,7 @@ margehomerbartlisa2015
 margehomerbartlisa2016
 margehomerbartlisa2017
 margehomerbartlisa2018
+margehomerbartlisa2019
 margehomerbartlisamaggie1970
 margehomerbartlisamaggie1971
 margehomerbartlisamaggie1972
@@ -6175,6 +6243,7 @@ margehomerbartlisamaggie2015
 margehomerbartlisamaggie2016
 margehomerbartlisamaggie2017
 margehomerbartlisamaggie2018
+margehomerbartlisamaggie2019
 margehomerbartmaggie1970
 margehomerbartmaggie1971
 margehomerbartmaggie1972
@@ -6224,6 +6293,7 @@ margehomerbartmaggie2015
 margehomerbartmaggie2016
 margehomerbartmaggie2017
 margehomerbartmaggie2018
+margehomerbartmaggie2019
 margehomerbartmaggielisa1970
 margehomerbartmaggielisa1971
 margehomerbartmaggielisa1972
@@ -6273,6 +6343,7 @@ margehomerbartmaggielisa2015
 margehomerbartmaggielisa2016
 margehomerbartmaggielisa2017
 margehomerbartmaggielisa2018
+margehomerbartmaggielisa2019
 margehomerlisa1970
 margehomerlisa1971
 margehomerlisa1972
@@ -6322,6 +6393,7 @@ margehomerlisa2015
 margehomerlisa2016
 margehomerlisa2017
 margehomerlisa2018
+margehomerlisa2019
 margehomerlisabart1970
 margehomerlisabart1971
 margehomerlisabart1972
@@ -6371,6 +6443,7 @@ margehomerlisabart2015
 margehomerlisabart2016
 margehomerlisabart2017
 margehomerlisabart2018
+margehomerlisabart2019
 margehomerlisabartmaggie1970
 margehomerlisabartmaggie1971
 margehomerlisabartmaggie1972
@@ -6420,6 +6493,7 @@ margehomerlisabartmaggie2015
 margehomerlisabartmaggie2016
 margehomerlisabartmaggie2017
 margehomerlisabartmaggie2018
+margehomerlisabartmaggie2019
 margehomerlisamaggie1970
 margehomerlisamaggie1971
 margehomerlisamaggie1972
@@ -6469,6 +6543,7 @@ margehomerlisamaggie2015
 margehomerlisamaggie2016
 margehomerlisamaggie2017
 margehomerlisamaggie2018
+margehomerlisamaggie2019
 margehomerlisamaggiebart1970
 margehomerlisamaggiebart1971
 margehomerlisamaggiebart1972
@@ -6518,6 +6593,7 @@ margehomerlisamaggiebart2015
 margehomerlisamaggiebart2016
 margehomerlisamaggiebart2017
 margehomerlisamaggiebart2018
+margehomerlisamaggiebart2019
 margehomermaggie1970
 margehomermaggie1971
 margehomermaggie1972
@@ -6567,6 +6643,7 @@ margehomermaggie2015
 margehomermaggie2016
 margehomermaggie2017
 margehomermaggie2018
+margehomermaggie2019
 margehomermaggiebart1970
 margehomermaggiebart1971
 margehomermaggiebart1972
@@ -6616,6 +6693,7 @@ margehomermaggiebart2015
 margehomermaggiebart2016
 margehomermaggiebart2017
 margehomermaggiebart2018
+margehomermaggiebart2019
 margehomermaggiebartlisa1970
 margehomermaggiebartlisa1971
 margehomermaggiebartlisa1972
@@ -6665,6 +6743,7 @@ margehomermaggiebartlisa2015
 margehomermaggiebartlisa2016
 margehomermaggiebartlisa2017
 margehomermaggiebartlisa2018
+margehomermaggiebartlisa2019
 margehomermaggielisa1970
 margehomermaggielisa1971
 margehomermaggielisa1972
@@ -6714,6 +6793,7 @@ margehomermaggielisa2015
 margehomermaggielisa2016
 margehomermaggielisa2017
 margehomermaggielisa2018
+margehomermaggielisa2019
 margehomermaggielisabart1970
 margehomermaggielisabart1971
 margehomermaggielisabart1972
@@ -6763,6 +6843,7 @@ margehomermaggielisabart2015
 margehomermaggielisabart2016
 margehomermaggielisabart2017
 margehomermaggielisabart2018
+margehomermaggielisabart2019
 margebart1970
 margebart1971
 margebart1972
@@ -6812,6 +6893,7 @@ margebart2015
 margebart2016
 margebart2017
 margebart2018
+margebart2019
 margebarthomer1970
 margebarthomer1971
 margebarthomer1972
@@ -6861,6 +6943,7 @@ margebarthomer2015
 margebarthomer2016
 margebarthomer2017
 margebarthomer2018
+margebarthomer2019
 margebarthomerlisa1970
 margebarthomerlisa1971
 margebarthomerlisa1972
@@ -6910,6 +6993,7 @@ margebarthomerlisa2015
 margebarthomerlisa2016
 margebarthomerlisa2017
 margebarthomerlisa2018
+margebarthomerlisa2019
 margebarthomerlisamaggie1970
 margebarthomerlisamaggie1971
 margebarthomerlisamaggie1972
@@ -6959,6 +7043,7 @@ margebarthomerlisamaggie2015
 margebarthomerlisamaggie2016
 margebarthomerlisamaggie2017
 margebarthomerlisamaggie2018
+margebarthomerlisamaggie2019
 margebarthomermaggie1970
 margebarthomermaggie1971
 margebarthomermaggie1972
@@ -7008,6 +7093,7 @@ margebarthomermaggie2015
 margebarthomermaggie2016
 margebarthomermaggie2017
 margebarthomermaggie2018
+margebarthomermaggie2019
 margebarthomermaggielisa1970
 margebarthomermaggielisa1971
 margebarthomermaggielisa1972
@@ -7057,6 +7143,7 @@ margebarthomermaggielisa2015
 margebarthomermaggielisa2016
 margebarthomermaggielisa2017
 margebarthomermaggielisa2018
+margebarthomermaggielisa2019
 margebartlisa1970
 margebartlisa1971
 margebartlisa1972
@@ -7106,6 +7193,7 @@ margebartlisa2015
 margebartlisa2016
 margebartlisa2017
 margebartlisa2018
+margebartlisa2019
 margebartlisahomer1970
 margebartlisahomer1971
 margebartlisahomer1972
@@ -7155,6 +7243,7 @@ margebartlisahomer2015
 margebartlisahomer2016
 margebartlisahomer2017
 margebartlisahomer2018
+margebartlisahomer2019
 margebartlisahomermaggie1970
 margebartlisahomermaggie1971
 margebartlisahomermaggie1972
@@ -7204,6 +7293,7 @@ margebartlisahomermaggie2015
 margebartlisahomermaggie2016
 margebartlisahomermaggie2017
 margebartlisahomermaggie2018
+margebartlisahomermaggie2019
 margebartlisamaggie1970
 margebartlisamaggie1971
 margebartlisamaggie1972
@@ -7253,6 +7343,7 @@ margebartlisamaggie2015
 margebartlisamaggie2016
 margebartlisamaggie2017
 margebartlisamaggie2018
+margebartlisamaggie2019
 margebartlisamaggiehomer1970
 margebartlisamaggiehomer1971
 margebartlisamaggiehomer1972
@@ -7302,6 +7393,7 @@ margebartlisamaggiehomer2015
 margebartlisamaggiehomer2016
 margebartlisamaggiehomer2017
 margebartlisamaggiehomer2018
+margebartlisamaggiehomer2019
 margebartmaggie1970
 margebartmaggie1971
 margebartmaggie1972
@@ -7351,6 +7443,7 @@ margebartmaggie2015
 margebartmaggie2016
 margebartmaggie2017
 margebartmaggie2018
+margebartmaggie2019
 margebartmaggiehomer1970
 margebartmaggiehomer1971
 margebartmaggiehomer1972
@@ -7400,6 +7493,7 @@ margebartmaggiehomer2015
 margebartmaggiehomer2016
 margebartmaggiehomer2017
 margebartmaggiehomer2018
+margebartmaggiehomer2019
 margebartmaggiehomerlisa1970
 margebartmaggiehomerlisa1971
 margebartmaggiehomerlisa1972
@@ -7449,6 +7543,7 @@ margebartmaggiehomerlisa2015
 margebartmaggiehomerlisa2016
 margebartmaggiehomerlisa2017
 margebartmaggiehomerlisa2018
+margebartmaggiehomerlisa2019
 margebartmaggielisa1970
 margebartmaggielisa1971
 margebartmaggielisa1972
@@ -7498,6 +7593,7 @@ margebartmaggielisa2015
 margebartmaggielisa2016
 margebartmaggielisa2017
 margebartmaggielisa2018
+margebartmaggielisa2019
 margebartmaggielisahomer1970
 margebartmaggielisahomer1971
 margebartmaggielisahomer1972
@@ -7547,6 +7643,7 @@ margebartmaggielisahomer2015
 margebartmaggielisahomer2016
 margebartmaggielisahomer2017
 margebartmaggielisahomer2018
+margebartmaggielisahomer2019
 margelisa1970
 margelisa1971
 margelisa1972
@@ -7596,6 +7693,7 @@ margelisa2015
 margelisa2016
 margelisa2017
 margelisa2018
+margelisa2019
 margelisahomer1970
 margelisahomer1971
 margelisahomer1972
@@ -7645,6 +7743,7 @@ margelisahomer2015
 margelisahomer2016
 margelisahomer2017
 margelisahomer2018
+margelisahomer2019
 margelisahomerbart1970
 margelisahomerbart1971
 margelisahomerbart1972
@@ -7694,6 +7793,7 @@ margelisahomerbart2015
 margelisahomerbart2016
 margelisahomerbart2017
 margelisahomerbart2018
+margelisahomerbart2019
 margelisahomerbartmaggie1970
 margelisahomerbartmaggie1971
 margelisahomerbartmaggie1972
@@ -7743,6 +7843,7 @@ margelisahomerbartmaggie2015
 margelisahomerbartmaggie2016
 margelisahomerbartmaggie2017
 margelisahomerbartmaggie2018
+margelisahomerbartmaggie2019
 margelisahomermaggie1970
 margelisahomermaggie1971
 margelisahomermaggie1972
@@ -7792,6 +7893,7 @@ margelisahomermaggie2015
 margelisahomermaggie2016
 margelisahomermaggie2017
 margelisahomermaggie2018
+margelisahomermaggie2019
 margelisahomermaggiebart1970
 margelisahomermaggiebart1971
 margelisahomermaggiebart1972
@@ -7841,6 +7943,7 @@ margelisahomermaggiebart2015
 margelisahomermaggiebart2016
 margelisahomermaggiebart2017
 margelisahomermaggiebart2018
+margelisahomermaggiebart2019
 margelisabart1970
 margelisabart1971
 margelisabart1972
@@ -7890,6 +7993,7 @@ margelisabart2015
 margelisabart2016
 margelisabart2017
 margelisabart2018
+margelisabart2019
 margelisabarthomer1970
 margelisabarthomer1971
 margelisabarthomer1972
@@ -7939,6 +8043,7 @@ margelisabarthomer2015
 margelisabarthomer2016
 margelisabarthomer2017
 margelisabarthomer2018
+margelisabarthomer2019
 margelisabarthomermaggie1970
 margelisabarthomermaggie1971
 margelisabarthomermaggie1972
@@ -7988,6 +8093,7 @@ margelisabarthomermaggie2015
 margelisabarthomermaggie2016
 margelisabarthomermaggie2017
 margelisabarthomermaggie2018
+margelisabarthomermaggie2019
 margelisabartmaggie1970
 margelisabartmaggie1971
 margelisabartmaggie1972
@@ -8037,6 +8143,7 @@ margelisabartmaggie2015
 margelisabartmaggie2016
 margelisabartmaggie2017
 margelisabartmaggie2018
+margelisabartmaggie2019
 margelisabartmaggiehomer1970
 margelisabartmaggiehomer1971
 margelisabartmaggiehomer1972
@@ -8086,6 +8193,7 @@ margelisabartmaggiehomer2015
 margelisabartmaggiehomer2016
 margelisabartmaggiehomer2017
 margelisabartmaggiehomer2018
+margelisabartmaggiehomer2019
 margelisamaggie1970
 margelisamaggie1971
 margelisamaggie1972
@@ -8135,6 +8243,7 @@ margelisamaggie2015
 margelisamaggie2016
 margelisamaggie2017
 margelisamaggie2018
+margelisamaggie2019
 margelisamaggiehomer1970
 margelisamaggiehomer1971
 margelisamaggiehomer1972
@@ -8184,6 +8293,7 @@ margelisamaggiehomer2015
 margelisamaggiehomer2016
 margelisamaggiehomer2017
 margelisamaggiehomer2018
+margelisamaggiehomer2019
 margelisamaggiehomerbart1970
 margelisamaggiehomerbart1971
 margelisamaggiehomerbart1972
@@ -8233,6 +8343,7 @@ margelisamaggiehomerbart2015
 margelisamaggiehomerbart2016
 margelisamaggiehomerbart2017
 margelisamaggiehomerbart2018
+margelisamaggiehomerbart2019
 margelisamaggiebart1970
 margelisamaggiebart1971
 margelisamaggiebart1972
@@ -8282,6 +8393,7 @@ margelisamaggiebart2015
 margelisamaggiebart2016
 margelisamaggiebart2017
 margelisamaggiebart2018
+margelisamaggiebart2019
 margelisamaggiebarthomer1970
 margelisamaggiebarthomer1971
 margelisamaggiebarthomer1972
@@ -8331,6 +8443,7 @@ margelisamaggiebarthomer2015
 margelisamaggiebarthomer2016
 margelisamaggiebarthomer2017
 margelisamaggiebarthomer2018
+margelisamaggiebarthomer2019
 margemaggie1970
 margemaggie1971
 margemaggie1972
@@ -8380,6 +8493,7 @@ margemaggie2015
 margemaggie2016
 margemaggie2017
 margemaggie2018
+margemaggie2019
 margemaggiehomer1970
 margemaggiehomer1971
 margemaggiehomer1972
@@ -8429,6 +8543,7 @@ margemaggiehomer2015
 margemaggiehomer2016
 margemaggiehomer2017
 margemaggiehomer2018
+margemaggiehomer2019
 margemaggiehomerbart1970
 margemaggiehomerbart1971
 margemaggiehomerbart1972
@@ -8478,6 +8593,7 @@ margemaggiehomerbart2015
 margemaggiehomerbart2016
 margemaggiehomerbart2017
 margemaggiehomerbart2018
+margemaggiehomerbart2019
 margemaggiehomerbartlisa1970
 margemaggiehomerbartlisa1971
 margemaggiehomerbartlisa1972
@@ -8527,6 +8643,7 @@ margemaggiehomerbartlisa2015
 margemaggiehomerbartlisa2016
 margemaggiehomerbartlisa2017
 margemaggiehomerbartlisa2018
+margemaggiehomerbartlisa2019
 margemaggiehomerlisa1970
 margemaggiehomerlisa1971
 margemaggiehomerlisa1972
@@ -8576,6 +8693,7 @@ margemaggiehomerlisa2015
 margemaggiehomerlisa2016
 margemaggiehomerlisa2017
 margemaggiehomerlisa2018
+margemaggiehomerlisa2019
 margemaggiehomerlisabart1970
 margemaggiehomerlisabart1971
 margemaggiehomerlisabart1972
@@ -8625,6 +8743,7 @@ margemaggiehomerlisabart2015
 margemaggiehomerlisabart2016
 margemaggiehomerlisabart2017
 margemaggiehomerlisabart2018
+margemaggiehomerlisabart2019
 margemaggiebart1970
 margemaggiebart1971
 margemaggiebart1972
@@ -8674,6 +8793,7 @@ margemaggiebart2015
 margemaggiebart2016
 margemaggiebart2017
 margemaggiebart2018
+margemaggiebart2019
 margemaggiebarthomer1970
 margemaggiebarthomer1971
 margemaggiebarthomer1972
@@ -8723,6 +8843,7 @@ margemaggiebarthomer2015
 margemaggiebarthomer2016
 margemaggiebarthomer2017
 margemaggiebarthomer2018
+margemaggiebarthomer2019
 margemaggiebarthomerlisa1970
 margemaggiebarthomerlisa1971
 margemaggiebarthomerlisa1972
@@ -8772,6 +8893,7 @@ margemaggiebarthomerlisa2015
 margemaggiebarthomerlisa2016
 margemaggiebarthomerlisa2017
 margemaggiebarthomerlisa2018
+margemaggiebarthomerlisa2019
 margemaggiebartlisa1970
 margemaggiebartlisa1971
 margemaggiebartlisa1972
@@ -8821,6 +8943,7 @@ margemaggiebartlisa2015
 margemaggiebartlisa2016
 margemaggiebartlisa2017
 margemaggiebartlisa2018
+margemaggiebartlisa2019
 margemaggiebartlisahomer1970
 margemaggiebartlisahomer1971
 margemaggiebartlisahomer1972
@@ -8870,6 +8993,7 @@ margemaggiebartlisahomer2015
 margemaggiebartlisahomer2016
 margemaggiebartlisahomer2017
 margemaggiebartlisahomer2018
+margemaggiebartlisahomer2019
 margemaggielisa1970
 margemaggielisa1971
 margemaggielisa1972
@@ -8919,6 +9043,7 @@ margemaggielisa2015
 margemaggielisa2016
 margemaggielisa2017
 margemaggielisa2018
+margemaggielisa2019
 margemaggielisahomer1970
 margemaggielisahomer1971
 margemaggielisahomer1972
@@ -8968,6 +9093,7 @@ margemaggielisahomer2015
 margemaggielisahomer2016
 margemaggielisahomer2017
 margemaggielisahomer2018
+margemaggielisahomer2019
 margemaggielisahomerbart1970
 margemaggielisahomerbart1971
 margemaggielisahomerbart1972
@@ -9017,6 +9143,7 @@ margemaggielisahomerbart2015
 margemaggielisahomerbart2016
 margemaggielisahomerbart2017
 margemaggielisahomerbart2018
+margemaggielisahomerbart2019
 margemaggielisabart1970
 margemaggielisabart1971
 margemaggielisabart1972
@@ -9066,6 +9193,7 @@ margemaggielisabart2015
 margemaggielisabart2016
 margemaggielisabart2017
 margemaggielisabart2018
+margemaggielisabart2019
 margemaggielisabarthomer1970
 margemaggielisabarthomer1971
 margemaggielisabarthomer1972
@@ -9115,6 +9243,7 @@ margemaggielisabarthomer2015
 margemaggielisabarthomer2016
 margemaggielisabarthomer2017
 margemaggielisabarthomer2018
+margemaggielisabarthomer2019
 bart1970
 bart1971
 bart1972
@@ -9164,6 +9293,7 @@ bart2015
 bart2016
 bart2017
 bart2018
+bart2019
 barthomer1970
 barthomer1971
 barthomer1972
@@ -9213,6 +9343,7 @@ barthomer2015
 barthomer2016
 barthomer2017
 barthomer2018
+barthomer2019
 barthomermarge1970
 barthomermarge1971
 barthomermarge1972
@@ -9262,6 +9393,7 @@ barthomermarge2015
 barthomermarge2016
 barthomermarge2017
 barthomermarge2018
+barthomermarge2019
 barthomermargelisa1970
 barthomermargelisa1971
 barthomermargelisa1972
@@ -9311,6 +9443,7 @@ barthomermargelisa2015
 barthomermargelisa2016
 barthomermargelisa2017
 barthomermargelisa2018
+barthomermargelisa2019
 barthomermargelisamaggie1970
 barthomermargelisamaggie1971
 barthomermargelisamaggie1972
@@ -9360,6 +9493,7 @@ barthomermargelisamaggie2015
 barthomermargelisamaggie2016
 barthomermargelisamaggie2017
 barthomermargelisamaggie2018
+barthomermargelisamaggie2019
 barthomermargemaggie1970
 barthomermargemaggie1971
 barthomermargemaggie1972
@@ -9409,6 +9543,7 @@ barthomermargemaggie2015
 barthomermargemaggie2016
 barthomermargemaggie2017
 barthomermargemaggie2018
+barthomermargemaggie2019
 barthomermargemaggielisa1970
 barthomermargemaggielisa1971
 barthomermargemaggielisa1972
@@ -9458,6 +9593,7 @@ barthomermargemaggielisa2015
 barthomermargemaggielisa2016
 barthomermargemaggielisa2017
 barthomermargemaggielisa2018
+barthomermargemaggielisa2019
 barthomerlisa1970
 barthomerlisa1971
 barthomerlisa1972
@@ -9507,6 +9643,7 @@ barthomerlisa2015
 barthomerlisa2016
 barthomerlisa2017
 barthomerlisa2018
+barthomerlisa2019
 barthomerlisamarge1970
 barthomerlisamarge1971
 barthomerlisamarge1972
@@ -9556,6 +9693,7 @@ barthomerlisamarge2015
 barthomerlisamarge2016
 barthomerlisamarge2017
 barthomerlisamarge2018
+barthomerlisamarge2019
 barthomerlisamargemaggie1970
 barthomerlisamargemaggie1971
 barthomerlisamargemaggie1972
@@ -9605,6 +9743,7 @@ barthomerlisamargemaggie2015
 barthomerlisamargemaggie2016
 barthomerlisamargemaggie2017
 barthomerlisamargemaggie2018
+barthomerlisamargemaggie2019
 barthomerlisamaggie1970
 barthomerlisamaggie1971
 barthomerlisamaggie1972
@@ -9654,6 +9793,7 @@ barthomerlisamaggie2015
 barthomerlisamaggie2016
 barthomerlisamaggie2017
 barthomerlisamaggie2018
+barthomerlisamaggie2019
 barthomerlisamaggiemarge1970
 barthomerlisamaggiemarge1971
 barthomerlisamaggiemarge1972
@@ -9703,6 +9843,7 @@ barthomerlisamaggiemarge2015
 barthomerlisamaggiemarge2016
 barthomerlisamaggiemarge2017
 barthomerlisamaggiemarge2018
+barthomerlisamaggiemarge2019
 barthomermaggie1970
 barthomermaggie1971
 barthomermaggie1972
@@ -9752,6 +9893,7 @@ barthomermaggie2015
 barthomermaggie2016
 barthomermaggie2017
 barthomermaggie2018
+barthomermaggie2019
 barthomermaggiemarge1970
 barthomermaggiemarge1971
 barthomermaggiemarge1972
@@ -9801,6 +9943,7 @@ barthomermaggiemarge2015
 barthomermaggiemarge2016
 barthomermaggiemarge2017
 barthomermaggiemarge2018
+barthomermaggiemarge2019
 barthomermaggiemargelisa1970
 barthomermaggiemargelisa1971
 barthomermaggiemargelisa1972
@@ -9850,6 +9993,7 @@ barthomermaggiemargelisa2015
 barthomermaggiemargelisa2016
 barthomermaggiemargelisa2017
 barthomermaggiemargelisa2018
+barthomermaggiemargelisa2019
 barthomermaggielisa1970
 barthomermaggielisa1971
 barthomermaggielisa1972
@@ -9899,6 +10043,7 @@ barthomermaggielisa2015
 barthomermaggielisa2016
 barthomermaggielisa2017
 barthomermaggielisa2018
+barthomermaggielisa2019
 barthomermaggielisamarge1970
 barthomermaggielisamarge1971
 barthomermaggielisamarge1972
@@ -9948,6 +10093,7 @@ barthomermaggielisamarge2015
 barthomermaggielisamarge2016
 barthomermaggielisamarge2017
 barthomermaggielisamarge2018
+barthomermaggielisamarge2019
 bartmarge1970
 bartmarge1971
 bartmarge1972
@@ -9997,6 +10143,7 @@ bartmarge2015
 bartmarge2016
 bartmarge2017
 bartmarge2018
+bartmarge2019
 bartmargehomer1970
 bartmargehomer1971
 bartmargehomer1972
@@ -10046,6 +10193,7 @@ bartmargehomer2015
 bartmargehomer2016
 bartmargehomer2017
 bartmargehomer2018
+bartmargehomer2019
 bartmargehomerlisa1970
 bartmargehomerlisa1971
 bartmargehomerlisa1972
@@ -10095,6 +10243,7 @@ bartmargehomerlisa2015
 bartmargehomerlisa2016
 bartmargehomerlisa2017
 bartmargehomerlisa2018
+bartmargehomerlisa2019
 bartmargehomerlisamaggie1970
 bartmargehomerlisamaggie1971
 bartmargehomerlisamaggie1972
@@ -10144,6 +10293,7 @@ bartmargehomerlisamaggie2015
 bartmargehomerlisamaggie2016
 bartmargehomerlisamaggie2017
 bartmargehomerlisamaggie2018
+bartmargehomerlisamaggie2019
 bartmargehomermaggie1970
 bartmargehomermaggie1971
 bartmargehomermaggie1972
@@ -10193,6 +10343,7 @@ bartmargehomermaggie2015
 bartmargehomermaggie2016
 bartmargehomermaggie2017
 bartmargehomermaggie2018
+bartmargehomermaggie2019
 bartmargehomermaggielisa1970
 bartmargehomermaggielisa1971
 bartmargehomermaggielisa1972
@@ -10242,6 +10393,7 @@ bartmargehomermaggielisa2015
 bartmargehomermaggielisa2016
 bartmargehomermaggielisa2017
 bartmargehomermaggielisa2018
+bartmargehomermaggielisa2019
 bartmargelisa1970
 bartmargelisa1971
 bartmargelisa1972
@@ -10291,6 +10443,7 @@ bartmargelisa2015
 bartmargelisa2016
 bartmargelisa2017
 bartmargelisa2018
+bartmargelisa2019
 bartmargelisahomer1970
 bartmargelisahomer1971
 bartmargelisahomer1972
@@ -10340,6 +10493,7 @@ bartmargelisahomer2015
 bartmargelisahomer2016
 bartmargelisahomer2017
 bartmargelisahomer2018
+bartmargelisahomer2019
 bartmargelisahomermaggie1970
 bartmargelisahomermaggie1971
 bartmargelisahomermaggie1972
@@ -10389,6 +10543,7 @@ bartmargelisahomermaggie2015
 bartmargelisahomermaggie2016
 bartmargelisahomermaggie2017
 bartmargelisahomermaggie2018
+bartmargelisahomermaggie2019
 bartmargelisamaggie1970
 bartmargelisamaggie1971
 bartmargelisamaggie1972
@@ -10438,6 +10593,7 @@ bartmargelisamaggie2015
 bartmargelisamaggie2016
 bartmargelisamaggie2017
 bartmargelisamaggie2018
+bartmargelisamaggie2019
 bartmargelisamaggiehomer1970
 bartmargelisamaggiehomer1971
 bartmargelisamaggiehomer1972
@@ -10487,6 +10643,7 @@ bartmargelisamaggiehomer2015
 bartmargelisamaggiehomer2016
 bartmargelisamaggiehomer2017
 bartmargelisamaggiehomer2018
+bartmargelisamaggiehomer2019
 bartmargemaggie1970
 bartmargemaggie1971
 bartmargemaggie1972
@@ -10536,6 +10693,7 @@ bartmargemaggie2015
 bartmargemaggie2016
 bartmargemaggie2017
 bartmargemaggie2018
+bartmargemaggie2019
 bartmargemaggiehomer1970
 bartmargemaggiehomer1971
 bartmargemaggiehomer1972
@@ -10585,6 +10743,7 @@ bartmargemaggiehomer2015
 bartmargemaggiehomer2016
 bartmargemaggiehomer2017
 bartmargemaggiehomer2018
+bartmargemaggiehomer2019
 bartmargemaggiehomerlisa1970
 bartmargemaggiehomerlisa1971
 bartmargemaggiehomerlisa1972
@@ -10634,6 +10793,7 @@ bartmargemaggiehomerlisa2015
 bartmargemaggiehomerlisa2016
 bartmargemaggiehomerlisa2017
 bartmargemaggiehomerlisa2018
+bartmargemaggiehomerlisa2019
 bartmargemaggielisa1970
 bartmargemaggielisa1971
 bartmargemaggielisa1972
@@ -10683,6 +10843,7 @@ bartmargemaggielisa2015
 bartmargemaggielisa2016
 bartmargemaggielisa2017
 bartmargemaggielisa2018
+bartmargemaggielisa2019
 bartmargemaggielisahomer1970
 bartmargemaggielisahomer1971
 bartmargemaggielisahomer1972
@@ -10732,6 +10893,7 @@ bartmargemaggielisahomer2015
 bartmargemaggielisahomer2016
 bartmargemaggielisahomer2017
 bartmargemaggielisahomer2018
+bartmargemaggielisahomer2019
 bartlisa1970
 bartlisa1971
 bartlisa1972
@@ -10781,6 +10943,7 @@ bartlisa2015
 bartlisa2016
 bartlisa2017
 bartlisa2018
+bartlisa2019
 bartlisahomer1970
 bartlisahomer1971
 bartlisahomer1972
@@ -10830,6 +10993,7 @@ bartlisahomer2015
 bartlisahomer2016
 bartlisahomer2017
 bartlisahomer2018
+bartlisahomer2019
 bartlisahomermarge1970
 bartlisahomermarge1971
 bartlisahomermarge1972
@@ -10879,6 +11043,7 @@ bartlisahomermarge2015
 bartlisahomermarge2016
 bartlisahomermarge2017
 bartlisahomermarge2018
+bartlisahomermarge2019
 bartlisahomermargemaggie1970
 bartlisahomermargemaggie1971
 bartlisahomermargemaggie1972
@@ -10928,6 +11093,7 @@ bartlisahomermargemaggie2015
 bartlisahomermargemaggie2016
 bartlisahomermargemaggie2017
 bartlisahomermargemaggie2018
+bartlisahomermargemaggie2019
 bartlisahomermaggie1970
 bartlisahomermaggie1971
 bartlisahomermaggie1972
@@ -10977,6 +11143,7 @@ bartlisahomermaggie2015
 bartlisahomermaggie2016
 bartlisahomermaggie2017
 bartlisahomermaggie2018
+bartlisahomermaggie2019
 bartlisahomermaggiemarge1970
 bartlisahomermaggiemarge1971
 bartlisahomermaggiemarge1972
@@ -11026,6 +11193,7 @@ bartlisahomermaggiemarge2015
 bartlisahomermaggiemarge2016
 bartlisahomermaggiemarge2017
 bartlisahomermaggiemarge2018
+bartlisahomermaggiemarge2019
 bartlisamarge1970
 bartlisamarge1971
 bartlisamarge1972
@@ -11075,6 +11243,7 @@ bartlisamarge2015
 bartlisamarge2016
 bartlisamarge2017
 bartlisamarge2018
+bartlisamarge2019
 bartlisamargehomer1970
 bartlisamargehomer1971
 bartlisamargehomer1972
@@ -11124,6 +11293,7 @@ bartlisamargehomer2015
 bartlisamargehomer2016
 bartlisamargehomer2017
 bartlisamargehomer2018
+bartlisamargehomer2019
 bartlisamargehomermaggie1970
 bartlisamargehomermaggie1971
 bartlisamargehomermaggie1972
@@ -11173,6 +11343,7 @@ bartlisamargehomermaggie2015
 bartlisamargehomermaggie2016
 bartlisamargehomermaggie2017
 bartlisamargehomermaggie2018
+bartlisamargehomermaggie2019
 bartlisamargemaggie1970
 bartlisamargemaggie1971
 bartlisamargemaggie1972
@@ -11222,6 +11393,7 @@ bartlisamargemaggie2015
 bartlisamargemaggie2016
 bartlisamargemaggie2017
 bartlisamargemaggie2018
+bartlisamargemaggie2019
 bartlisamargemaggiehomer1970
 bartlisamargemaggiehomer1971
 bartlisamargemaggiehomer1972
@@ -11271,6 +11443,7 @@ bartlisamargemaggiehomer2015
 bartlisamargemaggiehomer2016
 bartlisamargemaggiehomer2017
 bartlisamargemaggiehomer2018
+bartlisamargemaggiehomer2019
 bartlisamaggie1970
 bartlisamaggie1971
 bartlisamaggie1972
@@ -11320,6 +11493,7 @@ bartlisamaggie2015
 bartlisamaggie2016
 bartlisamaggie2017
 bartlisamaggie2018
+bartlisamaggie2019
 bartlisamaggiehomer1970
 bartlisamaggiehomer1971
 bartlisamaggiehomer1972
@@ -11369,6 +11543,7 @@ bartlisamaggiehomer2015
 bartlisamaggiehomer2016
 bartlisamaggiehomer2017
 bartlisamaggiehomer2018
+bartlisamaggiehomer2019
 bartlisamaggiehomermarge1970
 bartlisamaggiehomermarge1971
 bartlisamaggiehomermarge1972
@@ -11418,6 +11593,7 @@ bartlisamaggiehomermarge2015
 bartlisamaggiehomermarge2016
 bartlisamaggiehomermarge2017
 bartlisamaggiehomermarge2018
+bartlisamaggiehomermarge2019
 bartlisamaggiemarge1970
 bartlisamaggiemarge1971
 bartlisamaggiemarge1972
@@ -11467,6 +11643,7 @@ bartlisamaggiemarge2015
 bartlisamaggiemarge2016
 bartlisamaggiemarge2017
 bartlisamaggiemarge2018
+bartlisamaggiemarge2019
 bartlisamaggiemargehomer1970
 bartlisamaggiemargehomer1971
 bartlisamaggiemargehomer1972
@@ -11516,6 +11693,7 @@ bartlisamaggiemargehomer2015
 bartlisamaggiemargehomer2016
 bartlisamaggiemargehomer2017
 bartlisamaggiemargehomer2018
+bartlisamaggiemargehomer2019
 bartmaggie1970
 bartmaggie1971
 bartmaggie1972
@@ -11565,6 +11743,7 @@ bartmaggie2015
 bartmaggie2016
 bartmaggie2017
 bartmaggie2018
+bartmaggie2019
 bartmaggiehomer1970
 bartmaggiehomer1971
 bartmaggiehomer1972
@@ -11614,6 +11793,7 @@ bartmaggiehomer2015
 bartmaggiehomer2016
 bartmaggiehomer2017
 bartmaggiehomer2018
+bartmaggiehomer2019
 bartmaggiehomermarge1970
 bartmaggiehomermarge1971
 bartmaggiehomermarge1972
@@ -11663,6 +11843,7 @@ bartmaggiehomermarge2015
 bartmaggiehomermarge2016
 bartmaggiehomermarge2017
 bartmaggiehomermarge2018
+bartmaggiehomermarge2019
 bartmaggiehomermargelisa1970
 bartmaggiehomermargelisa1971
 bartmaggiehomermargelisa1972
@@ -11712,6 +11893,7 @@ bartmaggiehomermargelisa2015
 bartmaggiehomermargelisa2016
 bartmaggiehomermargelisa2017
 bartmaggiehomermargelisa2018
+bartmaggiehomermargelisa2019
 bartmaggiehomerlisa1970
 bartmaggiehomerlisa1971
 bartmaggiehomerlisa1972
@@ -11761,6 +11943,7 @@ bartmaggiehomerlisa2015
 bartmaggiehomerlisa2016
 bartmaggiehomerlisa2017
 bartmaggiehomerlisa2018
+bartmaggiehomerlisa2019
 bartmaggiehomerlisamarge1970
 bartmaggiehomerlisamarge1971
 bartmaggiehomerlisamarge1972
@@ -11810,6 +11993,7 @@ bartmaggiehomerlisamarge2015
 bartmaggiehomerlisamarge2016
 bartmaggiehomerlisamarge2017
 bartmaggiehomerlisamarge2018
+bartmaggiehomerlisamarge2019
 bartmaggiemarge1970
 bartmaggiemarge1971
 bartmaggiemarge1972
@@ -11859,6 +12043,7 @@ bartmaggiemarge2015
 bartmaggiemarge2016
 bartmaggiemarge2017
 bartmaggiemarge2018
+bartmaggiemarge2019
 bartmaggiemargehomer1970
 bartmaggiemargehomer1971
 bartmaggiemargehomer1972
@@ -11908,6 +12093,7 @@ bartmaggiemargehomer2015
 bartmaggiemargehomer2016
 bartmaggiemargehomer2017
 bartmaggiemargehomer2018
+bartmaggiemargehomer2019
 bartmaggiemargehomerlisa1970
 bartmaggiemargehomerlisa1971
 bartmaggiemargehomerlisa1972
@@ -11957,6 +12143,7 @@ bartmaggiemargehomerlisa2015
 bartmaggiemargehomerlisa2016
 bartmaggiemargehomerlisa2017
 bartmaggiemargehomerlisa2018
+bartmaggiemargehomerlisa2019
 bartmaggiemargelisa1970
 bartmaggiemargelisa1971
 bartmaggiemargelisa1972
@@ -12006,6 +12193,7 @@ bartmaggiemargelisa2015
 bartmaggiemargelisa2016
 bartmaggiemargelisa2017
 bartmaggiemargelisa2018
+bartmaggiemargelisa2019
 bartmaggiemargelisahomer1970
 bartmaggiemargelisahomer1971
 bartmaggiemargelisahomer1972
@@ -12055,6 +12243,7 @@ bartmaggiemargelisahomer2015
 bartmaggiemargelisahomer2016
 bartmaggiemargelisahomer2017
 bartmaggiemargelisahomer2018
+bartmaggiemargelisahomer2019
 bartmaggielisa1970
 bartmaggielisa1971
 bartmaggielisa1972
@@ -12104,6 +12293,7 @@ bartmaggielisa2015
 bartmaggielisa2016
 bartmaggielisa2017
 bartmaggielisa2018
+bartmaggielisa2019
 bartmaggielisahomer1970
 bartmaggielisahomer1971
 bartmaggielisahomer1972
@@ -12153,6 +12343,7 @@ bartmaggielisahomer2015
 bartmaggielisahomer2016
 bartmaggielisahomer2017
 bartmaggielisahomer2018
+bartmaggielisahomer2019
 bartmaggielisahomermarge1970
 bartmaggielisahomermarge1971
 bartmaggielisahomermarge1972
@@ -12202,6 +12393,7 @@ bartmaggielisahomermarge2015
 bartmaggielisahomermarge2016
 bartmaggielisahomermarge2017
 bartmaggielisahomermarge2018
+bartmaggielisahomermarge2019
 bartmaggielisamarge1970
 bartmaggielisamarge1971
 bartmaggielisamarge1972
@@ -12251,6 +12443,7 @@ bartmaggielisamarge2015
 bartmaggielisamarge2016
 bartmaggielisamarge2017
 bartmaggielisamarge2018
+bartmaggielisamarge2019
 bartmaggielisamargehomer1970
 bartmaggielisamargehomer1971
 bartmaggielisamargehomer1972
@@ -12300,6 +12493,7 @@ bartmaggielisamargehomer2015
 bartmaggielisamargehomer2016
 bartmaggielisamargehomer2017
 bartmaggielisamargehomer2018
+bartmaggielisamargehomer2019
 lisa1970
 lisa1971
 lisa1972
@@ -12349,6 +12543,7 @@ lisa2015
 lisa2016
 lisa2017
 lisa2018
+lisa2019
 lisahomer1970
 lisahomer1971
 lisahomer1972
@@ -12398,6 +12593,7 @@ lisahomer2015
 lisahomer2016
 lisahomer2017
 lisahomer2018
+lisahomer2019
 lisahomermarge1970
 lisahomermarge1971
 lisahomermarge1972
@@ -12447,6 +12643,7 @@ lisahomermarge2015
 lisahomermarge2016
 lisahomermarge2017
 lisahomermarge2018
+lisahomermarge2019
 lisahomermargebart1970
 lisahomermargebart1971
 lisahomermargebart1972
@@ -12496,6 +12693,7 @@ lisahomermargebart2015
 lisahomermargebart2016
 lisahomermargebart2017
 lisahomermargebart2018
+lisahomermargebart2019
 lisahomermargebartmaggie1970
 lisahomermargebartmaggie1971
 lisahomermargebartmaggie1972
@@ -12545,6 +12743,7 @@ lisahomermargebartmaggie2015
 lisahomermargebartmaggie2016
 lisahomermargebartmaggie2017
 lisahomermargebartmaggie2018
+lisahomermargebartmaggie2019
 lisahomermargemaggie1970
 lisahomermargemaggie1971
 lisahomermargemaggie1972
@@ -12594,6 +12793,7 @@ lisahomermargemaggie2015
 lisahomermargemaggie2016
 lisahomermargemaggie2017
 lisahomermargemaggie2018
+lisahomermargemaggie2019
 lisahomermargemaggiebart1970
 lisahomermargemaggiebart1971
 lisahomermargemaggiebart1972
@@ -12643,6 +12843,7 @@ lisahomermargemaggiebart2015
 lisahomermargemaggiebart2016
 lisahomermargemaggiebart2017
 lisahomermargemaggiebart2018
+lisahomermargemaggiebart2019
 lisahomerbart1970
 lisahomerbart1971
 lisahomerbart1972
@@ -12692,6 +12893,7 @@ lisahomerbart2015
 lisahomerbart2016
 lisahomerbart2017
 lisahomerbart2018
+lisahomerbart2019
 lisahomerbartmarge1970
 lisahomerbartmarge1971
 lisahomerbartmarge1972
@@ -12741,6 +12943,7 @@ lisahomerbartmarge2015
 lisahomerbartmarge2016
 lisahomerbartmarge2017
 lisahomerbartmarge2018
+lisahomerbartmarge2019
 lisahomerbartmargemaggie1970
 lisahomerbartmargemaggie1971
 lisahomerbartmargemaggie1972
@@ -12790,6 +12993,7 @@ lisahomerbartmargemaggie2015
 lisahomerbartmargemaggie2016
 lisahomerbartmargemaggie2017
 lisahomerbartmargemaggie2018
+lisahomerbartmargemaggie2019
 lisahomerbartmaggie1970
 lisahomerbartmaggie1971
 lisahomerbartmaggie1972
@@ -12839,6 +13043,7 @@ lisahomerbartmaggie2015
 lisahomerbartmaggie2016
 lisahomerbartmaggie2017
 lisahomerbartmaggie2018
+lisahomerbartmaggie2019
 lisahomerbartmaggiemarge1970
 lisahomerbartmaggiemarge1971
 lisahomerbartmaggiemarge1972
@@ -12888,6 +13093,7 @@ lisahomerbartmaggiemarge2015
 lisahomerbartmaggiemarge2016
 lisahomerbartmaggiemarge2017
 lisahomerbartmaggiemarge2018
+lisahomerbartmaggiemarge2019
 lisahomermaggie1970
 lisahomermaggie1971
 lisahomermaggie1972
@@ -12937,6 +13143,7 @@ lisahomermaggie2015
 lisahomermaggie2016
 lisahomermaggie2017
 lisahomermaggie2018
+lisahomermaggie2019
 lisahomermaggiemarge1970
 lisahomermaggiemarge1971
 lisahomermaggiemarge1972
@@ -12986,6 +13193,7 @@ lisahomermaggiemarge2015
 lisahomermaggiemarge2016
 lisahomermaggiemarge2017
 lisahomermaggiemarge2018
+lisahomermaggiemarge2019
 lisahomermaggiemargebart1970
 lisahomermaggiemargebart1971
 lisahomermaggiemargebart1972
@@ -13035,6 +13243,7 @@ lisahomermaggiemargebart2015
 lisahomermaggiemargebart2016
 lisahomermaggiemargebart2017
 lisahomermaggiemargebart2018
+lisahomermaggiemargebart2019
 lisahomermaggiebart1970
 lisahomermaggiebart1971
 lisahomermaggiebart1972
@@ -13084,6 +13293,7 @@ lisahomermaggiebart2015
 lisahomermaggiebart2016
 lisahomermaggiebart2017
 lisahomermaggiebart2018
+lisahomermaggiebart2019
 lisahomermaggiebartmarge1970
 lisahomermaggiebartmarge1971
 lisahomermaggiebartmarge1972
@@ -13133,6 +13343,7 @@ lisahomermaggiebartmarge2015
 lisahomermaggiebartmarge2016
 lisahomermaggiebartmarge2017
 lisahomermaggiebartmarge2018
+lisahomermaggiebartmarge2019
 lisamarge1970
 lisamarge1971
 lisamarge1972
@@ -13182,6 +13393,7 @@ lisamarge2015
 lisamarge2016
 lisamarge2017
 lisamarge2018
+lisamarge2019
 lisamargehomer1970
 lisamargehomer1971
 lisamargehomer1972
@@ -13231,6 +13443,7 @@ lisamargehomer2015
 lisamargehomer2016
 lisamargehomer2017
 lisamargehomer2018
+lisamargehomer2019
 lisamargehomerbart1970
 lisamargehomerbart1971
 lisamargehomerbart1972
@@ -13280,6 +13493,7 @@ lisamargehomerbart2015
 lisamargehomerbart2016
 lisamargehomerbart2017
 lisamargehomerbart2018
+lisamargehomerbart2019
 lisamargehomerbartmaggie1970
 lisamargehomerbartmaggie1971
 lisamargehomerbartmaggie1972
@@ -13329,6 +13543,7 @@ lisamargehomerbartmaggie2015
 lisamargehomerbartmaggie2016
 lisamargehomerbartmaggie2017
 lisamargehomerbartmaggie2018
+lisamargehomerbartmaggie2019
 lisamargehomermaggie1970
 lisamargehomermaggie1971
 lisamargehomermaggie1972
@@ -13378,6 +13593,7 @@ lisamargehomermaggie2015
 lisamargehomermaggie2016
 lisamargehomermaggie2017
 lisamargehomermaggie2018
+lisamargehomermaggie2019
 lisamargehomermaggiebart1970
 lisamargehomermaggiebart1971
 lisamargehomermaggiebart1972
@@ -13427,6 +13643,7 @@ lisamargehomermaggiebart2015
 lisamargehomermaggiebart2016
 lisamargehomermaggiebart2017
 lisamargehomermaggiebart2018
+lisamargehomermaggiebart2019
 lisamargebart1970
 lisamargebart1971
 lisamargebart1972
@@ -13476,6 +13693,7 @@ lisamargebart2015
 lisamargebart2016
 lisamargebart2017
 lisamargebart2018
+lisamargebart2019
 lisamargebarthomer1970
 lisamargebarthomer1971
 lisamargebarthomer1972
@@ -13525,6 +13743,7 @@ lisamargebarthomer2015
 lisamargebarthomer2016
 lisamargebarthomer2017
 lisamargebarthomer2018
+lisamargebarthomer2019
 lisamargebarthomermaggie1970
 lisamargebarthomermaggie1971
 lisamargebarthomermaggie1972
@@ -13574,6 +13793,7 @@ lisamargebarthomermaggie2015
 lisamargebarthomermaggie2016
 lisamargebarthomermaggie2017
 lisamargebarthomermaggie2018
+lisamargebarthomermaggie2019
 lisamargebartmaggie1970
 lisamargebartmaggie1971
 lisamargebartmaggie1972
@@ -13623,6 +13843,7 @@ lisamargebartmaggie2015
 lisamargebartmaggie2016
 lisamargebartmaggie2017
 lisamargebartmaggie2018
+lisamargebartmaggie2019
 lisamargebartmaggiehomer1970
 lisamargebartmaggiehomer1971
 lisamargebartmaggiehomer1972
@@ -13672,6 +13893,7 @@ lisamargebartmaggiehomer2015
 lisamargebartmaggiehomer2016
 lisamargebartmaggiehomer2017
 lisamargebartmaggiehomer2018
+lisamargebartmaggiehomer2019
 lisamargemaggie1970
 lisamargemaggie1971
 lisamargemaggie1972
@@ -13721,6 +13943,7 @@ lisamargemaggie2015
 lisamargemaggie2016
 lisamargemaggie2017
 lisamargemaggie2018
+lisamargemaggie2019
 lisamargemaggiehomer1970
 lisamargemaggiehomer1971
 lisamargemaggiehomer1972
@@ -13770,6 +13993,7 @@ lisamargemaggiehomer2015
 lisamargemaggiehomer2016
 lisamargemaggiehomer2017
 lisamargemaggiehomer2018
+lisamargemaggiehomer2019
 lisamargemaggiehomerbart1970
 lisamargemaggiehomerbart1971
 lisamargemaggiehomerbart1972
@@ -13819,6 +14043,7 @@ lisamargemaggiehomerbart2015
 lisamargemaggiehomerbart2016
 lisamargemaggiehomerbart2017
 lisamargemaggiehomerbart2018
+lisamargemaggiehomerbart2019
 lisamargemaggiebart1970
 lisamargemaggiebart1971
 lisamargemaggiebart1972
@@ -13868,6 +14093,7 @@ lisamargemaggiebart2015
 lisamargemaggiebart2016
 lisamargemaggiebart2017
 lisamargemaggiebart2018
+lisamargemaggiebart2019
 lisamargemaggiebarthomer1970
 lisamargemaggiebarthomer1971
 lisamargemaggiebarthomer1972
@@ -13917,6 +14143,7 @@ lisamargemaggiebarthomer2015
 lisamargemaggiebarthomer2016
 lisamargemaggiebarthomer2017
 lisamargemaggiebarthomer2018
+lisamargemaggiebarthomer2019
 lisabart1970
 lisabart1971
 lisabart1972
@@ -13966,6 +14193,7 @@ lisabart2015
 lisabart2016
 lisabart2017
 lisabart2018
+lisabart2019
 lisabarthomer1970
 lisabarthomer1971
 lisabarthomer1972
@@ -14015,6 +14243,7 @@ lisabarthomer2015
 lisabarthomer2016
 lisabarthomer2017
 lisabarthomer2018
+lisabarthomer2019
 lisabarthomermarge1970
 lisabarthomermarge1971
 lisabarthomermarge1972
@@ -14064,6 +14293,7 @@ lisabarthomermarge2015
 lisabarthomermarge2016
 lisabarthomermarge2017
 lisabarthomermarge2018
+lisabarthomermarge2019
 lisabarthomermargemaggie1970
 lisabarthomermargemaggie1971
 lisabarthomermargemaggie1972
@@ -14113,6 +14343,7 @@ lisabarthomermargemaggie2015
 lisabarthomermargemaggie2016
 lisabarthomermargemaggie2017
 lisabarthomermargemaggie2018
+lisabarthomermargemaggie2019
 lisabarthomermaggie1970
 lisabarthomermaggie1971
 lisabarthomermaggie1972
@@ -14162,6 +14393,7 @@ lisabarthomermaggie2015
 lisabarthomermaggie2016
 lisabarthomermaggie2017
 lisabarthomermaggie2018
+lisabarthomermaggie2019
 lisabarthomermaggiemarge1970
 lisabarthomermaggiemarge1971
 lisabarthomermaggiemarge1972
@@ -14211,6 +14443,7 @@ lisabarthomermaggiemarge2015
 lisabarthomermaggiemarge2016
 lisabarthomermaggiemarge2017
 lisabarthomermaggiemarge2018
+lisabarthomermaggiemarge2019
 lisabartmarge1970
 lisabartmarge1971
 lisabartmarge1972
@@ -14260,6 +14493,7 @@ lisabartmarge2015
 lisabartmarge2016
 lisabartmarge2017
 lisabartmarge2018
+lisabartmarge2019
 lisabartmargehomer1970
 lisabartmargehomer1971
 lisabartmargehomer1972
@@ -14309,6 +14543,7 @@ lisabartmargehomer2015
 lisabartmargehomer2016
 lisabartmargehomer2017
 lisabartmargehomer2018
+lisabartmargehomer2019
 lisabartmargehomermaggie1970
 lisabartmargehomermaggie1971
 lisabartmargehomermaggie1972
@@ -14358,6 +14593,7 @@ lisabartmargehomermaggie2015
 lisabartmargehomermaggie2016
 lisabartmargehomermaggie2017
 lisabartmargehomermaggie2018
+lisabartmargehomermaggie2019
 lisabartmargemaggie1970
 lisabartmargemaggie1971
 lisabartmargemaggie1972
@@ -14407,6 +14643,7 @@ lisabartmargemaggie2015
 lisabartmargemaggie2016
 lisabartmargemaggie2017
 lisabartmargemaggie2018
+lisabartmargemaggie2019
 lisabartmargemaggiehomer1970
 lisabartmargemaggiehomer1971
 lisabartmargemaggiehomer1972
@@ -14456,6 +14693,7 @@ lisabartmargemaggiehomer2015
 lisabartmargemaggiehomer2016
 lisabartmargemaggiehomer2017
 lisabartmargemaggiehomer2018
+lisabartmargemaggiehomer2019
 lisabartmaggie1970
 lisabartmaggie1971
 lisabartmaggie1972
@@ -14505,6 +14743,7 @@ lisabartmaggie2015
 lisabartmaggie2016
 lisabartmaggie2017
 lisabartmaggie2018
+lisabartmaggie2019
 lisabartmaggiehomer1970
 lisabartmaggiehomer1971
 lisabartmaggiehomer1972
@@ -14554,6 +14793,7 @@ lisabartmaggiehomer2015
 lisabartmaggiehomer2016
 lisabartmaggiehomer2017
 lisabartmaggiehomer2018
+lisabartmaggiehomer2019
 lisabartmaggiehomermarge1970
 lisabartmaggiehomermarge1971
 lisabartmaggiehomermarge1972
@@ -14603,6 +14843,7 @@ lisabartmaggiehomermarge2015
 lisabartmaggiehomermarge2016
 lisabartmaggiehomermarge2017
 lisabartmaggiehomermarge2018
+lisabartmaggiehomermarge2019
 lisabartmaggiemarge1970
 lisabartmaggiemarge1971
 lisabartmaggiemarge1972
@@ -14652,6 +14893,7 @@ lisabartmaggiemarge2015
 lisabartmaggiemarge2016
 lisabartmaggiemarge2017
 lisabartmaggiemarge2018
+lisabartmaggiemarge2019
 lisabartmaggiemargehomer1970
 lisabartmaggiemargehomer1971
 lisabartmaggiemargehomer1972
@@ -14701,6 +14943,7 @@ lisabartmaggiemargehomer2015
 lisabartmaggiemargehomer2016
 lisabartmaggiemargehomer2017
 lisabartmaggiemargehomer2018
+lisabartmaggiemargehomer2019
 lisamaggie1970
 lisamaggie1971
 lisamaggie1972
@@ -14750,6 +14993,7 @@ lisamaggie2015
 lisamaggie2016
 lisamaggie2017
 lisamaggie2018
+lisamaggie2019
 lisamaggiehomer1970
 lisamaggiehomer1971
 lisamaggiehomer1972
@@ -14799,6 +15043,7 @@ lisamaggiehomer2015
 lisamaggiehomer2016
 lisamaggiehomer2017
 lisamaggiehomer2018
+lisamaggiehomer2019
 lisamaggiehomermarge1970
 lisamaggiehomermarge1971
 lisamaggiehomermarge1972
@@ -14848,6 +15093,7 @@ lisamaggiehomermarge2015
 lisamaggiehomermarge2016
 lisamaggiehomermarge2017
 lisamaggiehomermarge2018
+lisamaggiehomermarge2019
 lisamaggiehomermargebart1970
 lisamaggiehomermargebart1971
 lisamaggiehomermargebart1972
@@ -14897,6 +15143,7 @@ lisamaggiehomermargebart2015
 lisamaggiehomermargebart2016
 lisamaggiehomermargebart2017
 lisamaggiehomermargebart2018
+lisamaggiehomermargebart2019
 lisamaggiehomerbart1970
 lisamaggiehomerbart1971
 lisamaggiehomerbart1972
@@ -14946,6 +15193,7 @@ lisamaggiehomerbart2015
 lisamaggiehomerbart2016
 lisamaggiehomerbart2017
 lisamaggiehomerbart2018
+lisamaggiehomerbart2019
 lisamaggiehomerbartmarge1970
 lisamaggiehomerbartmarge1971
 lisamaggiehomerbartmarge1972
@@ -14995,6 +15243,7 @@ lisamaggiehomerbartmarge2015
 lisamaggiehomerbartmarge2016
 lisamaggiehomerbartmarge2017
 lisamaggiehomerbartmarge2018
+lisamaggiehomerbartmarge2019
 lisamaggiemarge1970
 lisamaggiemarge1971
 lisamaggiemarge1972
@@ -15044,6 +15293,7 @@ lisamaggiemarge2015
 lisamaggiemarge2016
 lisamaggiemarge2017
 lisamaggiemarge2018
+lisamaggiemarge2019
 lisamaggiemargehomer1970
 lisamaggiemargehomer1971
 lisamaggiemargehomer1972
@@ -15093,6 +15343,7 @@ lisamaggiemargehomer2015
 lisamaggiemargehomer2016
 lisamaggiemargehomer2017
 lisamaggiemargehomer2018
+lisamaggiemargehomer2019
 lisamaggiemargehomerbart1970
 lisamaggiemargehomerbart1971
 lisamaggiemargehomerbart1972
@@ -15142,6 +15393,7 @@ lisamaggiemargehomerbart2015
 lisamaggiemargehomerbart2016
 lisamaggiemargehomerbart2017
 lisamaggiemargehomerbart2018
+lisamaggiemargehomerbart2019
 lisamaggiemargebart1970
 lisamaggiemargebart1971
 lisamaggiemargebart1972
@@ -15191,6 +15443,7 @@ lisamaggiemargebart2015
 lisamaggiemargebart2016
 lisamaggiemargebart2017
 lisamaggiemargebart2018
+lisamaggiemargebart2019
 lisamaggiemargebarthomer1970
 lisamaggiemargebarthomer1971
 lisamaggiemargebarthomer1972
@@ -15240,6 +15493,7 @@ lisamaggiemargebarthomer2015
 lisamaggiemargebarthomer2016
 lisamaggiemargebarthomer2017
 lisamaggiemargebarthomer2018
+lisamaggiemargebarthomer2019
 lisamaggiebart1970
 lisamaggiebart1971
 lisamaggiebart1972
@@ -15289,6 +15543,7 @@ lisamaggiebart2015
 lisamaggiebart2016
 lisamaggiebart2017
 lisamaggiebart2018
+lisamaggiebart2019
 lisamaggiebarthomer1970
 lisamaggiebarthomer1971
 lisamaggiebarthomer1972
@@ -15338,6 +15593,7 @@ lisamaggiebarthomer2015
 lisamaggiebarthomer2016
 lisamaggiebarthomer2017
 lisamaggiebarthomer2018
+lisamaggiebarthomer2019
 lisamaggiebarthomermarge1970
 lisamaggiebarthomermarge1971
 lisamaggiebarthomermarge1972
@@ -15387,6 +15643,7 @@ lisamaggiebarthomermarge2015
 lisamaggiebarthomermarge2016
 lisamaggiebarthomermarge2017
 lisamaggiebarthomermarge2018
+lisamaggiebarthomermarge2019
 lisamaggiebartmarge1970
 lisamaggiebartmarge1971
 lisamaggiebartmarge1972
@@ -15436,6 +15693,7 @@ lisamaggiebartmarge2015
 lisamaggiebartmarge2016
 lisamaggiebartmarge2017
 lisamaggiebartmarge2018
+lisamaggiebartmarge2019
 lisamaggiebartmargehomer1970
 lisamaggiebartmargehomer1971
 lisamaggiebartmargehomer1972
@@ -15485,6 +15743,7 @@ lisamaggiebartmargehomer2015
 lisamaggiebartmargehomer2016
 lisamaggiebartmargehomer2017
 lisamaggiebartmargehomer2018
+lisamaggiebartmargehomer2019
 maggie1970
 maggie1971
 maggie1972
@@ -15534,6 +15793,7 @@ maggie2015
 maggie2016
 maggie2017
 maggie2018
+maggie2019
 maggiehomer1970
 maggiehomer1971
 maggiehomer1972
@@ -15583,6 +15843,7 @@ maggiehomer2015
 maggiehomer2016
 maggiehomer2017
 maggiehomer2018
+maggiehomer2019
 maggiehomermarge1970
 maggiehomermarge1971
 maggiehomermarge1972
@@ -15632,6 +15893,7 @@ maggiehomermarge2015
 maggiehomermarge2016
 maggiehomermarge2017
 maggiehomermarge2018
+maggiehomermarge2019
 maggiehomermargebart1970
 maggiehomermargebart1971
 maggiehomermargebart1972
@@ -15681,6 +15943,7 @@ maggiehomermargebart2015
 maggiehomermargebart2016
 maggiehomermargebart2017
 maggiehomermargebart2018
+maggiehomermargebart2019
 maggiehomermargebartlisa1970
 maggiehomermargebartlisa1971
 maggiehomermargebartlisa1972
@@ -15730,6 +15993,7 @@ maggiehomermargebartlisa2015
 maggiehomermargebartlisa2016
 maggiehomermargebartlisa2017
 maggiehomermargebartlisa2018
+maggiehomermargebartlisa2019
 maggiehomermargelisa1970
 maggiehomermargelisa1971
 maggiehomermargelisa1972
@@ -15779,6 +16043,7 @@ maggiehomermargelisa2015
 maggiehomermargelisa2016
 maggiehomermargelisa2017
 maggiehomermargelisa2018
+maggiehomermargelisa2019
 maggiehomermargelisabart1970
 maggiehomermargelisabart1971
 maggiehomermargelisabart1972
@@ -15828,6 +16093,7 @@ maggiehomermargelisabart2015
 maggiehomermargelisabart2016
 maggiehomermargelisabart2017
 maggiehomermargelisabart2018
+maggiehomermargelisabart2019
 maggiehomerbart1970
 maggiehomerbart1971
 maggiehomerbart1972
@@ -15877,6 +16143,7 @@ maggiehomerbart2015
 maggiehomerbart2016
 maggiehomerbart2017
 maggiehomerbart2018
+maggiehomerbart2019
 maggiehomerbartmarge1970
 maggiehomerbartmarge1971
 maggiehomerbartmarge1972
@@ -15926,6 +16193,7 @@ maggiehomerbartmarge2015
 maggiehomerbartmarge2016
 maggiehomerbartmarge2017
 maggiehomerbartmarge2018
+maggiehomerbartmarge2019
 maggiehomerbartmargelisa1970
 maggiehomerbartmargelisa1971
 maggiehomerbartmargelisa1972
@@ -15975,6 +16243,7 @@ maggiehomerbartmargelisa2015
 maggiehomerbartmargelisa2016
 maggiehomerbartmargelisa2017
 maggiehomerbartmargelisa2018
+maggiehomerbartmargelisa2019
 maggiehomerbartlisa1970
 maggiehomerbartlisa1971
 maggiehomerbartlisa1972
@@ -16024,6 +16293,7 @@ maggiehomerbartlisa2015
 maggiehomerbartlisa2016
 maggiehomerbartlisa2017
 maggiehomerbartlisa2018
+maggiehomerbartlisa2019
 maggiehomerbartlisamarge1970
 maggiehomerbartlisamarge1971
 maggiehomerbartlisamarge1972
@@ -16073,6 +16343,7 @@ maggiehomerbartlisamarge2015
 maggiehomerbartlisamarge2016
 maggiehomerbartlisamarge2017
 maggiehomerbartlisamarge2018
+maggiehomerbartlisamarge2019
 maggiehomerlisa1970
 maggiehomerlisa1971
 maggiehomerlisa1972
@@ -16122,6 +16393,7 @@ maggiehomerlisa2015
 maggiehomerlisa2016
 maggiehomerlisa2017
 maggiehomerlisa2018
+maggiehomerlisa2019
 maggiehomerlisamarge1970
 maggiehomerlisamarge1971
 maggiehomerlisamarge1972
@@ -16171,6 +16443,7 @@ maggiehomerlisamarge2015
 maggiehomerlisamarge2016
 maggiehomerlisamarge2017
 maggiehomerlisamarge2018
+maggiehomerlisamarge2019
 maggiehomerlisamargebart1970
 maggiehomerlisamargebart1971
 maggiehomerlisamargebart1972
@@ -16220,6 +16493,7 @@ maggiehomerlisamargebart2015
 maggiehomerlisamargebart2016
 maggiehomerlisamargebart2017
 maggiehomerlisamargebart2018
+maggiehomerlisamargebart2019
 maggiehomerlisabart1970
 maggiehomerlisabart1971
 maggiehomerlisabart1972
@@ -16269,6 +16543,7 @@ maggiehomerlisabart2015
 maggiehomerlisabart2016
 maggiehomerlisabart2017
 maggiehomerlisabart2018
+maggiehomerlisabart2019
 maggiehomerlisabartmarge1970
 maggiehomerlisabartmarge1971
 maggiehomerlisabartmarge1972
@@ -16318,6 +16593,7 @@ maggiehomerlisabartmarge2015
 maggiehomerlisabartmarge2016
 maggiehomerlisabartmarge2017
 maggiehomerlisabartmarge2018
+maggiehomerlisabartmarge2019
 maggiemarge1970
 maggiemarge1971
 maggiemarge1972
@@ -16367,6 +16643,7 @@ maggiemarge2015
 maggiemarge2016
 maggiemarge2017
 maggiemarge2018
+maggiemarge2019
 maggiemargehomer1970
 maggiemargehomer1971
 maggiemargehomer1972
@@ -16416,6 +16693,7 @@ maggiemargehomer2015
 maggiemargehomer2016
 maggiemargehomer2017
 maggiemargehomer2018
+maggiemargehomer2019
 maggiemargehomerbart1970
 maggiemargehomerbart1971
 maggiemargehomerbart1972
@@ -16465,6 +16743,7 @@ maggiemargehomerbart2015
 maggiemargehomerbart2016
 maggiemargehomerbart2017
 maggiemargehomerbart2018
+maggiemargehomerbart2019
 maggiemargehomerbartlisa1970
 maggiemargehomerbartlisa1971
 maggiemargehomerbartlisa1972
@@ -16514,6 +16793,7 @@ maggiemargehomerbartlisa2015
 maggiemargehomerbartlisa2016
 maggiemargehomerbartlisa2017
 maggiemargehomerbartlisa2018
+maggiemargehomerbartlisa2019
 maggiemargehomerlisa1970
 maggiemargehomerlisa1971
 maggiemargehomerlisa1972
@@ -16563,6 +16843,7 @@ maggiemargehomerlisa2015
 maggiemargehomerlisa2016
 maggiemargehomerlisa2017
 maggiemargehomerlisa2018
+maggiemargehomerlisa2019
 maggiemargehomerlisabart1970
 maggiemargehomerlisabart1971
 maggiemargehomerlisabart1972
@@ -16612,6 +16893,7 @@ maggiemargehomerlisabart2015
 maggiemargehomerlisabart2016
 maggiemargehomerlisabart2017
 maggiemargehomerlisabart2018
+maggiemargehomerlisabart2019
 maggiemargebart1970
 maggiemargebart1971
 maggiemargebart1972
@@ -16661,6 +16943,7 @@ maggiemargebart2015
 maggiemargebart2016
 maggiemargebart2017
 maggiemargebart2018
+maggiemargebart2019
 maggiemargebarthomer1970
 maggiemargebarthomer1971
 maggiemargebarthomer1972
@@ -16710,6 +16993,7 @@ maggiemargebarthomer2015
 maggiemargebarthomer2016
 maggiemargebarthomer2017
 maggiemargebarthomer2018
+maggiemargebarthomer2019
 maggiemargebarthomerlisa1970
 maggiemargebarthomerlisa1971
 maggiemargebarthomerlisa1972
@@ -16759,6 +17043,7 @@ maggiemargebarthomerlisa2015
 maggiemargebarthomerlisa2016
 maggiemargebarthomerlisa2017
 maggiemargebarthomerlisa2018
+maggiemargebarthomerlisa2019
 maggiemargebartlisa1970
 maggiemargebartlisa1971
 maggiemargebartlisa1972
@@ -16808,6 +17093,7 @@ maggiemargebartlisa2015
 maggiemargebartlisa2016
 maggiemargebartlisa2017
 maggiemargebartlisa2018
+maggiemargebartlisa2019
 maggiemargebartlisahomer1970
 maggiemargebartlisahomer1971
 maggiemargebartlisahomer1972
@@ -16857,6 +17143,7 @@ maggiemargebartlisahomer2015
 maggiemargebartlisahomer2016
 maggiemargebartlisahomer2017
 maggiemargebartlisahomer2018
+maggiemargebartlisahomer2019
 maggiemargelisa1970
 maggiemargelisa1971
 maggiemargelisa1972
@@ -16906,6 +17193,7 @@ maggiemargelisa2015
 maggiemargelisa2016
 maggiemargelisa2017
 maggiemargelisa2018
+maggiemargelisa2019
 maggiemargelisahomer1970
 maggiemargelisahomer1971
 maggiemargelisahomer1972
@@ -16955,6 +17243,7 @@ maggiemargelisahomer2015
 maggiemargelisahomer2016
 maggiemargelisahomer2017
 maggiemargelisahomer2018
+maggiemargelisahomer2019
 maggiemargelisahomerbart1970
 maggiemargelisahomerbart1971
 maggiemargelisahomerbart1972
@@ -17004,6 +17293,7 @@ maggiemargelisahomerbart2015
 maggiemargelisahomerbart2016
 maggiemargelisahomerbart2017
 maggiemargelisahomerbart2018
+maggiemargelisahomerbart2019
 maggiemargelisabart1970
 maggiemargelisabart1971
 maggiemargelisabart1972
@@ -17053,6 +17343,7 @@ maggiemargelisabart2015
 maggiemargelisabart2016
 maggiemargelisabart2017
 maggiemargelisabart2018
+maggiemargelisabart2019
 maggiemargelisabarthomer1970
 maggiemargelisabarthomer1971
 maggiemargelisabarthomer1972
@@ -17102,6 +17393,7 @@ maggiemargelisabarthomer2015
 maggiemargelisabarthomer2016
 maggiemargelisabarthomer2017
 maggiemargelisabarthomer2018
+maggiemargelisabarthomer2019
 maggiebart1970
 maggiebart1971
 maggiebart1972
@@ -17151,6 +17443,7 @@ maggiebart2015
 maggiebart2016
 maggiebart2017
 maggiebart2018
+maggiebart2019
 maggiebarthomer1970
 maggiebarthomer1971
 maggiebarthomer1972
@@ -17200,6 +17493,7 @@ maggiebarthomer2015
 maggiebarthomer2016
 maggiebarthomer2017
 maggiebarthomer2018
+maggiebarthomer2019
 maggiebarthomermarge1970
 maggiebarthomermarge1971
 maggiebarthomermarge1972
@@ -17249,6 +17543,7 @@ maggiebarthomermarge2015
 maggiebarthomermarge2016
 maggiebarthomermarge2017
 maggiebarthomermarge2018
+maggiebarthomermarge2019
 maggiebarthomermargelisa1970
 maggiebarthomermargelisa1971
 maggiebarthomermargelisa1972
@@ -17298,6 +17593,7 @@ maggiebarthomermargelisa2015
 maggiebarthomermargelisa2016
 maggiebarthomermargelisa2017
 maggiebarthomermargelisa2018
+maggiebarthomermargelisa2019
 maggiebarthomerlisa1970
 maggiebarthomerlisa1971
 maggiebarthomerlisa1972
@@ -17347,6 +17643,7 @@ maggiebarthomerlisa2015
 maggiebarthomerlisa2016
 maggiebarthomerlisa2017
 maggiebarthomerlisa2018
+maggiebarthomerlisa2019
 maggiebarthomerlisamarge1970
 maggiebarthomerlisamarge1971
 maggiebarthomerlisamarge1972
@@ -17396,6 +17693,7 @@ maggiebarthomerlisamarge2015
 maggiebarthomerlisamarge2016
 maggiebarthomerlisamarge2017
 maggiebarthomerlisamarge2018
+maggiebarthomerlisamarge2019
 maggiebartmarge1970
 maggiebartmarge1971
 maggiebartmarge1972
@@ -17445,6 +17743,7 @@ maggiebartmarge2015
 maggiebartmarge2016
 maggiebartmarge2017
 maggiebartmarge2018
+maggiebartmarge2019
 maggiebartmargehomer1970
 maggiebartmargehomer1971
 maggiebartmargehomer1972
@@ -17494,6 +17793,7 @@ maggiebartmargehomer2015
 maggiebartmargehomer2016
 maggiebartmargehomer2017
 maggiebartmargehomer2018
+maggiebartmargehomer2019
 maggiebartmargehomerlisa1970
 maggiebartmargehomerlisa1971
 maggiebartmargehomerlisa1972
@@ -17543,6 +17843,7 @@ maggiebartmargehomerlisa2015
 maggiebartmargehomerlisa2016
 maggiebartmargehomerlisa2017
 maggiebartmargehomerlisa2018
+maggiebartmargehomerlisa2019
 maggiebartmargelisa1970
 maggiebartmargelisa1971
 maggiebartmargelisa1972
@@ -17592,6 +17893,7 @@ maggiebartmargelisa2015
 maggiebartmargelisa2016
 maggiebartmargelisa2017
 maggiebartmargelisa2018
+maggiebartmargelisa2019
 maggiebartmargelisahomer1970
 maggiebartmargelisahomer1971
 maggiebartmargelisahomer1972
@@ -17641,6 +17943,7 @@ maggiebartmargelisahomer2015
 maggiebartmargelisahomer2016
 maggiebartmargelisahomer2017
 maggiebartmargelisahomer2018
+maggiebartmargelisahomer2019
 maggiebartlisa1970
 maggiebartlisa1971
 maggiebartlisa1972
@@ -17690,6 +17993,7 @@ maggiebartlisa2015
 maggiebartlisa2016
 maggiebartlisa2017
 maggiebartlisa2018
+maggiebartlisa2019
 maggiebartlisahomer1970
 maggiebartlisahomer1971
 maggiebartlisahomer1972
@@ -17739,6 +18043,7 @@ maggiebartlisahomer2015
 maggiebartlisahomer2016
 maggiebartlisahomer2017
 maggiebartlisahomer2018
+maggiebartlisahomer2019
 maggiebartlisahomermarge1970
 maggiebartlisahomermarge1971
 maggiebartlisahomermarge1972
@@ -17788,6 +18093,7 @@ maggiebartlisahomermarge2015
 maggiebartlisahomermarge2016
 maggiebartlisahomermarge2017
 maggiebartlisahomermarge2018
+maggiebartlisahomermarge2019
 maggiebartlisamarge1970
 maggiebartlisamarge1971
 maggiebartlisamarge1972
@@ -17837,6 +18143,7 @@ maggiebartlisamarge2015
 maggiebartlisamarge2016
 maggiebartlisamarge2017
 maggiebartlisamarge2018
+maggiebartlisamarge2019
 maggiebartlisamargehomer1970
 maggiebartlisamargehomer1971
 maggiebartlisamargehomer1972
@@ -17886,6 +18193,7 @@ maggiebartlisamargehomer2015
 maggiebartlisamargehomer2016
 maggiebartlisamargehomer2017
 maggiebartlisamargehomer2018
+maggiebartlisamargehomer2019
 maggielisa1970
 maggielisa1971
 maggielisa1972
@@ -17935,6 +18243,7 @@ maggielisa2015
 maggielisa2016
 maggielisa2017
 maggielisa2018
+maggielisa2019
 maggielisahomer1970
 maggielisahomer1971
 maggielisahomer1972
@@ -17984,6 +18293,7 @@ maggielisahomer2015
 maggielisahomer2016
 maggielisahomer2017
 maggielisahomer2018
+maggielisahomer2019
 maggielisahomermarge1970
 maggielisahomermarge1971
 maggielisahomermarge1972
@@ -18033,6 +18343,7 @@ maggielisahomermarge2015
 maggielisahomermarge2016
 maggielisahomermarge2017
 maggielisahomermarge2018
+maggielisahomermarge2019
 maggielisahomermargebart1970
 maggielisahomermargebart1971
 maggielisahomermargebart1972
@@ -18082,6 +18393,7 @@ maggielisahomermargebart2015
 maggielisahomermargebart2016
 maggielisahomermargebart2017
 maggielisahomermargebart2018
+maggielisahomermargebart2019
 maggielisahomerbart1970
 maggielisahomerbart1971
 maggielisahomerbart1972
@@ -18131,6 +18443,7 @@ maggielisahomerbart2015
 maggielisahomerbart2016
 maggielisahomerbart2017
 maggielisahomerbart2018
+maggielisahomerbart2019
 maggielisahomerbartmarge1970
 maggielisahomerbartmarge1971
 maggielisahomerbartmarge1972
@@ -18180,6 +18493,7 @@ maggielisahomerbartmarge2015
 maggielisahomerbartmarge2016
 maggielisahomerbartmarge2017
 maggielisahomerbartmarge2018
+maggielisahomerbartmarge2019
 maggielisamarge1970
 maggielisamarge1971
 maggielisamarge1972
@@ -18229,6 +18543,7 @@ maggielisamarge2015
 maggielisamarge2016
 maggielisamarge2017
 maggielisamarge2018
+maggielisamarge2019
 maggielisamargehomer1970
 maggielisamargehomer1971
 maggielisamargehomer1972
@@ -18278,6 +18593,7 @@ maggielisamargehomer2015
 maggielisamargehomer2016
 maggielisamargehomer2017
 maggielisamargehomer2018
+maggielisamargehomer2019
 maggielisamargehomerbart1970
 maggielisamargehomerbart1971
 maggielisamargehomerbart1972
@@ -18327,6 +18643,7 @@ maggielisamargehomerbart2015
 maggielisamargehomerbart2016
 maggielisamargehomerbart2017
 maggielisamargehomerbart2018
+maggielisamargehomerbart2019
 maggielisamargebart1970
 maggielisamargebart1971
 maggielisamargebart1972
@@ -18376,6 +18693,7 @@ maggielisamargebart2015
 maggielisamargebart2016
 maggielisamargebart2017
 maggielisamargebart2018
+maggielisamargebart2019
 maggielisamargebarthomer1970
 maggielisamargebarthomer1971
 maggielisamargebarthomer1972
@@ -18425,6 +18743,7 @@ maggielisamargebarthomer2015
 maggielisamargebarthomer2016
 maggielisamargebarthomer2017
 maggielisamargebarthomer2018
+maggielisamargebarthomer2019
 maggielisabart1970
 maggielisabart1971
 maggielisabart1972
@@ -18474,6 +18793,7 @@ maggielisabart2015
 maggielisabart2016
 maggielisabart2017
 maggielisabart2018
+maggielisabart2019
 maggielisabarthomer1970
 maggielisabarthomer1971
 maggielisabarthomer1972
@@ -18523,6 +18843,7 @@ maggielisabarthomer2015
 maggielisabarthomer2016
 maggielisabarthomer2017
 maggielisabarthomer2018
+maggielisabarthomer2019
 maggielisabarthomermarge1970
 maggielisabarthomermarge1971
 maggielisabarthomermarge1972
@@ -18572,6 +18893,7 @@ maggielisabarthomermarge2015
 maggielisabarthomermarge2016
 maggielisabarthomermarge2017
 maggielisabarthomermarge2018
+maggielisabarthomermarge2019
 maggielisabartmarge1970
 maggielisabartmarge1971
 maggielisabartmarge1972
@@ -18621,6 +18943,7 @@ maggielisabartmarge2015
 maggielisabartmarge2016
 maggielisabartmarge2017
 maggielisabartmarge2018
+maggielisabartmarge2019
 maggielisabartmargehomer1970
 maggielisabartmargehomer1971
 maggielisabartmargehomer1972
@@ -18670,6 +18993,7 @@ maggielisabartmargehomer2015
 maggielisabartmargehomer2016
 maggielisabartmargehomer2017
 maggielisabartmargehomer2018
+maggielisabartmargehomer2019
 Homer1970
 Homer1971
 Homer1972
@@ -18719,6 +19043,7 @@ Homer2015
 Homer2016
 Homer2017
 Homer2018
+Homer2019
 HomerMarge1970
 HomerMarge1971
 HomerMarge1972
@@ -18768,6 +19093,7 @@ HomerMarge2015
 HomerMarge2016
 HomerMarge2017
 HomerMarge2018
+HomerMarge2019
 HomerMargeBart1970
 HomerMargeBart1971
 HomerMargeBart1972
@@ -18817,6 +19143,7 @@ HomerMargeBart2015
 HomerMargeBart2016
 HomerMargeBart2017
 HomerMargeBart2018
+HomerMargeBart2019
 HomerMargeBartLisa1970
 HomerMargeBartLisa1971
 HomerMargeBartLisa1972
@@ -18866,6 +19193,7 @@ HomerMargeBartLisa2015
 HomerMargeBartLisa2016
 HomerMargeBartLisa2017
 HomerMargeBartLisa2018
+HomerMargeBartLisa2019
 HomerMargeBartLisaMaggie1970
 HomerMargeBartLisaMaggie1971
 HomerMargeBartLisaMaggie1972
@@ -18915,6 +19243,7 @@ HomerMargeBartLisaMaggie2015
 HomerMargeBartLisaMaggie2016
 HomerMargeBartLisaMaggie2017
 HomerMargeBartLisaMaggie2018
+HomerMargeBartLisaMaggie2019
 HomerMargeBartMaggie1970
 HomerMargeBartMaggie1971
 HomerMargeBartMaggie1972
@@ -18964,6 +19293,7 @@ HomerMargeBartMaggie2015
 HomerMargeBartMaggie2016
 HomerMargeBartMaggie2017
 HomerMargeBartMaggie2018
+HomerMargeBartMaggie2019
 HomerMargeBartMaggieLisa1970
 HomerMargeBartMaggieLisa1971
 HomerMargeBartMaggieLisa1972
@@ -19013,6 +19343,7 @@ HomerMargeBartMaggieLisa2015
 HomerMargeBartMaggieLisa2016
 HomerMargeBartMaggieLisa2017
 HomerMargeBartMaggieLisa2018
+HomerMargeBartMaggieLisa2019
 HomerMargeLisa1970
 HomerMargeLisa1971
 HomerMargeLisa1972
@@ -19062,6 +19393,7 @@ HomerMargeLisa2015
 HomerMargeLisa2016
 HomerMargeLisa2017
 HomerMargeLisa2018
+HomerMargeLisa2019
 HomerMargeLisaBart1970
 HomerMargeLisaBart1971
 HomerMargeLisaBart1972
@@ -19111,6 +19443,7 @@ HomerMargeLisaBart2015
 HomerMargeLisaBart2016
 HomerMargeLisaBart2017
 HomerMargeLisaBart2018
+HomerMargeLisaBart2019
 HomerMargeLisaBartMaggie1970
 HomerMargeLisaBartMaggie1971
 HomerMargeLisaBartMaggie1972
@@ -19160,6 +19493,7 @@ HomerMargeLisaBartMaggie2015
 HomerMargeLisaBartMaggie2016
 HomerMargeLisaBartMaggie2017
 HomerMargeLisaBartMaggie2018
+HomerMargeLisaBartMaggie2019
 HomerMargeLisaMaggie1970
 HomerMargeLisaMaggie1971
 HomerMargeLisaMaggie1972
@@ -19209,6 +19543,7 @@ HomerMargeLisaMaggie2015
 HomerMargeLisaMaggie2016
 HomerMargeLisaMaggie2017
 HomerMargeLisaMaggie2018
+HomerMargeLisaMaggie2019
 HomerMargeLisaMaggieBart1970
 HomerMargeLisaMaggieBart1971
 HomerMargeLisaMaggieBart1972
@@ -19258,6 +19593,7 @@ HomerMargeLisaMaggieBart2015
 HomerMargeLisaMaggieBart2016
 HomerMargeLisaMaggieBart2017
 HomerMargeLisaMaggieBart2018
+HomerMargeLisaMaggieBart2019
 HomerMargeMaggie1970
 HomerMargeMaggie1971
 HomerMargeMaggie1972
@@ -19307,6 +19643,7 @@ HomerMargeMaggie2015
 HomerMargeMaggie2016
 HomerMargeMaggie2017
 HomerMargeMaggie2018
+HomerMargeMaggie2019
 HomerMargeMaggieBart1970
 HomerMargeMaggieBart1971
 HomerMargeMaggieBart1972
@@ -19356,6 +19693,7 @@ HomerMargeMaggieBart2015
 HomerMargeMaggieBart2016
 HomerMargeMaggieBart2017
 HomerMargeMaggieBart2018
+HomerMargeMaggieBart2019
 HomerMargeMaggieBartLisa1970
 HomerMargeMaggieBartLisa1971
 HomerMargeMaggieBartLisa1972
@@ -19405,6 +19743,7 @@ HomerMargeMaggieBartLisa2015
 HomerMargeMaggieBartLisa2016
 HomerMargeMaggieBartLisa2017
 HomerMargeMaggieBartLisa2018
+HomerMargeMaggieBartLisa2019
 HomerMargeMaggieLisa1970
 HomerMargeMaggieLisa1971
 HomerMargeMaggieLisa1972
@@ -19454,6 +19793,7 @@ HomerMargeMaggieLisa2015
 HomerMargeMaggieLisa2016
 HomerMargeMaggieLisa2017
 HomerMargeMaggieLisa2018
+HomerMargeMaggieLisa2019
 HomerMargeMaggieLisaBart1970
 HomerMargeMaggieLisaBart1971
 HomerMargeMaggieLisaBart1972
@@ -19503,6 +19843,7 @@ HomerMargeMaggieLisaBart2015
 HomerMargeMaggieLisaBart2016
 HomerMargeMaggieLisaBart2017
 HomerMargeMaggieLisaBart2018
+HomerMargeMaggieLisaBart2019
 HomerBart1970
 HomerBart1971
 HomerBart1972
@@ -19552,6 +19893,7 @@ HomerBart2015
 HomerBart2016
 HomerBart2017
 HomerBart2018
+HomerBart2019
 HomerBartMarge1970
 HomerBartMarge1971
 HomerBartMarge1972
@@ -19601,6 +19943,7 @@ HomerBartMarge2015
 HomerBartMarge2016
 HomerBartMarge2017
 HomerBartMarge2018
+HomerBartMarge2019
 HomerBartMargeLisa1970
 HomerBartMargeLisa1971
 HomerBartMargeLisa1972
@@ -19650,6 +19993,7 @@ HomerBartMargeLisa2015
 HomerBartMargeLisa2016
 HomerBartMargeLisa2017
 HomerBartMargeLisa2018
+HomerBartMargeLisa2019
 HomerBartMargeLisaMaggie1970
 HomerBartMargeLisaMaggie1971
 HomerBartMargeLisaMaggie1972
@@ -19699,6 +20043,7 @@ HomerBartMargeLisaMaggie2015
 HomerBartMargeLisaMaggie2016
 HomerBartMargeLisaMaggie2017
 HomerBartMargeLisaMaggie2018
+HomerBartMargeLisaMaggie2019
 HomerBartMargeMaggie1970
 HomerBartMargeMaggie1971
 HomerBartMargeMaggie1972
@@ -19748,6 +20093,7 @@ HomerBartMargeMaggie2015
 HomerBartMargeMaggie2016
 HomerBartMargeMaggie2017
 HomerBartMargeMaggie2018
+HomerBartMargeMaggie2019
 HomerBartMargeMaggieLisa1970
 HomerBartMargeMaggieLisa1971
 HomerBartMargeMaggieLisa1972
@@ -19797,6 +20143,7 @@ HomerBartMargeMaggieLisa2015
 HomerBartMargeMaggieLisa2016
 HomerBartMargeMaggieLisa2017
 HomerBartMargeMaggieLisa2018
+HomerBartMargeMaggieLisa2019
 HomerBartLisa1970
 HomerBartLisa1971
 HomerBartLisa1972
@@ -19846,6 +20193,7 @@ HomerBartLisa2015
 HomerBartLisa2016
 HomerBartLisa2017
 HomerBartLisa2018
+HomerBartLisa2019
 HomerBartLisaMarge1970
 HomerBartLisaMarge1971
 HomerBartLisaMarge1972
@@ -19895,6 +20243,7 @@ HomerBartLisaMarge2015
 HomerBartLisaMarge2016
 HomerBartLisaMarge2017
 HomerBartLisaMarge2018
+HomerBartLisaMarge2019
 HomerBartLisaMargeMaggie1970
 HomerBartLisaMargeMaggie1971
 HomerBartLisaMargeMaggie1972
@@ -19944,6 +20293,7 @@ HomerBartLisaMargeMaggie2015
 HomerBartLisaMargeMaggie2016
 HomerBartLisaMargeMaggie2017
 HomerBartLisaMargeMaggie2018
+HomerBartLisaMargeMaggie2019
 HomerBartLisaMaggie1970
 HomerBartLisaMaggie1971
 HomerBartLisaMaggie1972
@@ -19993,6 +20343,7 @@ HomerBartLisaMaggie2015
 HomerBartLisaMaggie2016
 HomerBartLisaMaggie2017
 HomerBartLisaMaggie2018
+HomerBartLisaMaggie2019
 HomerBartLisaMaggieMarge1970
 HomerBartLisaMaggieMarge1971
 HomerBartLisaMaggieMarge1972
@@ -20042,6 +20393,7 @@ HomerBartLisaMaggieMarge2015
 HomerBartLisaMaggieMarge2016
 HomerBartLisaMaggieMarge2017
 HomerBartLisaMaggieMarge2018
+HomerBartLisaMaggieMarge2019
 HomerBartMaggie1970
 HomerBartMaggie1971
 HomerBartMaggie1972
@@ -20091,6 +20443,7 @@ HomerBartMaggie2015
 HomerBartMaggie2016
 HomerBartMaggie2017
 HomerBartMaggie2018
+HomerBartMaggie2019
 HomerBartMaggieMarge1970
 HomerBartMaggieMarge1971
 HomerBartMaggieMarge1972
@@ -20140,6 +20493,7 @@ HomerBartMaggieMarge2015
 HomerBartMaggieMarge2016
 HomerBartMaggieMarge2017
 HomerBartMaggieMarge2018
+HomerBartMaggieMarge2019
 HomerBartMaggieMargeLisa1970
 HomerBartMaggieMargeLisa1971
 HomerBartMaggieMargeLisa1972
@@ -20189,6 +20543,7 @@ HomerBartMaggieMargeLisa2015
 HomerBartMaggieMargeLisa2016
 HomerBartMaggieMargeLisa2017
 HomerBartMaggieMargeLisa2018
+HomerBartMaggieMargeLisa2019
 HomerBartMaggieLisa1970
 HomerBartMaggieLisa1971
 HomerBartMaggieLisa1972
@@ -20238,6 +20593,7 @@ HomerBartMaggieLisa2015
 HomerBartMaggieLisa2016
 HomerBartMaggieLisa2017
 HomerBartMaggieLisa2018
+HomerBartMaggieLisa2019
 HomerBartMaggieLisaMarge1970
 HomerBartMaggieLisaMarge1971
 HomerBartMaggieLisaMarge1972
@@ -20287,6 +20643,7 @@ HomerBartMaggieLisaMarge2015
 HomerBartMaggieLisaMarge2016
 HomerBartMaggieLisaMarge2017
 HomerBartMaggieLisaMarge2018
+HomerBartMaggieLisaMarge2019
 HomerLisa1970
 HomerLisa1971
 HomerLisa1972
@@ -20336,6 +20693,7 @@ HomerLisa2015
 HomerLisa2016
 HomerLisa2017
 HomerLisa2018
+HomerLisa2019
 HomerLisaMarge1970
 HomerLisaMarge1971
 HomerLisaMarge1972
@@ -20385,6 +20743,7 @@ HomerLisaMarge2015
 HomerLisaMarge2016
 HomerLisaMarge2017
 HomerLisaMarge2018
+HomerLisaMarge2019
 HomerLisaMargeBart1970
 HomerLisaMargeBart1971
 HomerLisaMargeBart1972
@@ -20434,6 +20793,7 @@ HomerLisaMargeBart2015
 HomerLisaMargeBart2016
 HomerLisaMargeBart2017
 HomerLisaMargeBart2018
+HomerLisaMargeBart2019
 HomerLisaMargeBartMaggie1970
 HomerLisaMargeBartMaggie1971
 HomerLisaMargeBartMaggie1972
@@ -20483,6 +20843,7 @@ HomerLisaMargeBartMaggie2015
 HomerLisaMargeBartMaggie2016
 HomerLisaMargeBartMaggie2017
 HomerLisaMargeBartMaggie2018
+HomerLisaMargeBartMaggie2019
 HomerLisaMargeMaggie1970
 HomerLisaMargeMaggie1971
 HomerLisaMargeMaggie1972
@@ -20532,6 +20893,7 @@ HomerLisaMargeMaggie2015
 HomerLisaMargeMaggie2016
 HomerLisaMargeMaggie2017
 HomerLisaMargeMaggie2018
+HomerLisaMargeMaggie2019
 HomerLisaMargeMaggieBart1970
 HomerLisaMargeMaggieBart1971
 HomerLisaMargeMaggieBart1972
@@ -20581,6 +20943,7 @@ HomerLisaMargeMaggieBart2015
 HomerLisaMargeMaggieBart2016
 HomerLisaMargeMaggieBart2017
 HomerLisaMargeMaggieBart2018
+HomerLisaMargeMaggieBart2019
 HomerLisaBart1970
 HomerLisaBart1971
 HomerLisaBart1972
@@ -20630,6 +20993,7 @@ HomerLisaBart2015
 HomerLisaBart2016
 HomerLisaBart2017
 HomerLisaBart2018
+HomerLisaBart2019
 HomerLisaBartMarge1970
 HomerLisaBartMarge1971
 HomerLisaBartMarge1972
@@ -20679,6 +21043,7 @@ HomerLisaBartMarge2015
 HomerLisaBartMarge2016
 HomerLisaBartMarge2017
 HomerLisaBartMarge2018
+HomerLisaBartMarge2019
 HomerLisaBartMargeMaggie1970
 HomerLisaBartMargeMaggie1971
 HomerLisaBartMargeMaggie1972
@@ -20728,6 +21093,7 @@ HomerLisaBartMargeMaggie2015
 HomerLisaBartMargeMaggie2016
 HomerLisaBartMargeMaggie2017
 HomerLisaBartMargeMaggie2018
+HomerLisaBartMargeMaggie2019
 HomerLisaBartMaggie1970
 HomerLisaBartMaggie1971
 HomerLisaBartMaggie1972
@@ -20777,6 +21143,7 @@ HomerLisaBartMaggie2015
 HomerLisaBartMaggie2016
 HomerLisaBartMaggie2017
 HomerLisaBartMaggie2018
+HomerLisaBartMaggie2019
 HomerLisaBartMaggieMarge1970
 HomerLisaBartMaggieMarge1971
 HomerLisaBartMaggieMarge1972
@@ -20826,6 +21193,7 @@ HomerLisaBartMaggieMarge2015
 HomerLisaBartMaggieMarge2016
 HomerLisaBartMaggieMarge2017
 HomerLisaBartMaggieMarge2018
+HomerLisaBartMaggieMarge2019
 HomerLisaMaggie1970
 HomerLisaMaggie1971
 HomerLisaMaggie1972
@@ -20875,6 +21243,7 @@ HomerLisaMaggie2015
 HomerLisaMaggie2016
 HomerLisaMaggie2017
 HomerLisaMaggie2018
+HomerLisaMaggie2019
 HomerLisaMaggieMarge1970
 HomerLisaMaggieMarge1971
 HomerLisaMaggieMarge1972
@@ -20924,6 +21293,7 @@ HomerLisaMaggieMarge2015
 HomerLisaMaggieMarge2016
 HomerLisaMaggieMarge2017
 HomerLisaMaggieMarge2018
+HomerLisaMaggieMarge2019
 HomerLisaMaggieMargeBart1970
 HomerLisaMaggieMargeBart1971
 HomerLisaMaggieMargeBart1972
@@ -20973,6 +21343,7 @@ HomerLisaMaggieMargeBart2015
 HomerLisaMaggieMargeBart2016
 HomerLisaMaggieMargeBart2017
 HomerLisaMaggieMargeBart2018
+HomerLisaMaggieMargeBart2019
 HomerLisaMaggieBart1970
 HomerLisaMaggieBart1971
 HomerLisaMaggieBart1972
@@ -21022,6 +21393,7 @@ HomerLisaMaggieBart2015
 HomerLisaMaggieBart2016
 HomerLisaMaggieBart2017
 HomerLisaMaggieBart2018
+HomerLisaMaggieBart2019
 HomerLisaMaggieBartMarge1970
 HomerLisaMaggieBartMarge1971
 HomerLisaMaggieBartMarge1972
@@ -21071,6 +21443,7 @@ HomerLisaMaggieBartMarge2015
 HomerLisaMaggieBartMarge2016
 HomerLisaMaggieBartMarge2017
 HomerLisaMaggieBartMarge2018
+HomerLisaMaggieBartMarge2019
 HomerMaggie1970
 HomerMaggie1971
 HomerMaggie1972
@@ -21120,6 +21493,7 @@ HomerMaggie2015
 HomerMaggie2016
 HomerMaggie2017
 HomerMaggie2018
+HomerMaggie2019
 HomerMaggieMarge1970
 HomerMaggieMarge1971
 HomerMaggieMarge1972
@@ -21169,6 +21543,7 @@ HomerMaggieMarge2015
 HomerMaggieMarge2016
 HomerMaggieMarge2017
 HomerMaggieMarge2018
+HomerMaggieMarge2019
 HomerMaggieMargeBart1970
 HomerMaggieMargeBart1971
 HomerMaggieMargeBart1972
@@ -21218,6 +21593,7 @@ HomerMaggieMargeBart2015
 HomerMaggieMargeBart2016
 HomerMaggieMargeBart2017
 HomerMaggieMargeBart2018
+HomerMaggieMargeBart2019
 HomerMaggieMargeBartLisa1970
 HomerMaggieMargeBartLisa1971
 HomerMaggieMargeBartLisa1972
@@ -21267,6 +21643,7 @@ HomerMaggieMargeBartLisa2015
 HomerMaggieMargeBartLisa2016
 HomerMaggieMargeBartLisa2017
 HomerMaggieMargeBartLisa2018
+HomerMaggieMargeBartLisa2019
 HomerMaggieMargeLisa1970
 HomerMaggieMargeLisa1971
 HomerMaggieMargeLisa1972
@@ -21316,6 +21693,7 @@ HomerMaggieMargeLisa2015
 HomerMaggieMargeLisa2016
 HomerMaggieMargeLisa2017
 HomerMaggieMargeLisa2018
+HomerMaggieMargeLisa2019
 HomerMaggieMargeLisaBart1970
 HomerMaggieMargeLisaBart1971
 HomerMaggieMargeLisaBart1972
@@ -21365,6 +21743,7 @@ HomerMaggieMargeLisaBart2015
 HomerMaggieMargeLisaBart2016
 HomerMaggieMargeLisaBart2017
 HomerMaggieMargeLisaBart2018
+HomerMaggieMargeLisaBart2019
 HomerMaggieBart1970
 HomerMaggieBart1971
 HomerMaggieBart1972
@@ -21414,6 +21793,7 @@ HomerMaggieBart2015
 HomerMaggieBart2016
 HomerMaggieBart2017
 HomerMaggieBart2018
+HomerMaggieBart2019
 HomerMaggieBartMarge1970
 HomerMaggieBartMarge1971
 HomerMaggieBartMarge1972
@@ -21463,6 +21843,7 @@ HomerMaggieBartMarge2015
 HomerMaggieBartMarge2016
 HomerMaggieBartMarge2017
 HomerMaggieBartMarge2018
+HomerMaggieBartMarge2019
 HomerMaggieBartMargeLisa1970
 HomerMaggieBartMargeLisa1971
 HomerMaggieBartMargeLisa1972
@@ -21512,6 +21893,7 @@ HomerMaggieBartMargeLisa2015
 HomerMaggieBartMargeLisa2016
 HomerMaggieBartMargeLisa2017
 HomerMaggieBartMargeLisa2018
+HomerMaggieBartMargeLisa2019
 HomerMaggieBartLisa1970
 HomerMaggieBartLisa1971
 HomerMaggieBartLisa1972
@@ -21561,6 +21943,7 @@ HomerMaggieBartLisa2015
 HomerMaggieBartLisa2016
 HomerMaggieBartLisa2017
 HomerMaggieBartLisa2018
+HomerMaggieBartLisa2019
 HomerMaggieBartLisaMarge1970
 HomerMaggieBartLisaMarge1971
 HomerMaggieBartLisaMarge1972
@@ -21610,6 +21993,7 @@ HomerMaggieBartLisaMarge2015
 HomerMaggieBartLisaMarge2016
 HomerMaggieBartLisaMarge2017
 HomerMaggieBartLisaMarge2018
+HomerMaggieBartLisaMarge2019
 HomerMaggieLisa1970
 HomerMaggieLisa1971
 HomerMaggieLisa1972
@@ -21659,6 +22043,7 @@ HomerMaggieLisa2015
 HomerMaggieLisa2016
 HomerMaggieLisa2017
 HomerMaggieLisa2018
+HomerMaggieLisa2019
 HomerMaggieLisaMarge1970
 HomerMaggieLisaMarge1971
 HomerMaggieLisaMarge1972
@@ -21708,6 +22093,7 @@ HomerMaggieLisaMarge2015
 HomerMaggieLisaMarge2016
 HomerMaggieLisaMarge2017
 HomerMaggieLisaMarge2018
+HomerMaggieLisaMarge2019
 HomerMaggieLisaMargeBart1970
 HomerMaggieLisaMargeBart1971
 HomerMaggieLisaMargeBart1972
@@ -21757,6 +22143,7 @@ HomerMaggieLisaMargeBart2015
 HomerMaggieLisaMargeBart2016
 HomerMaggieLisaMargeBart2017
 HomerMaggieLisaMargeBart2018
+HomerMaggieLisaMargeBart2019
 HomerMaggieLisaBart1970
 HomerMaggieLisaBart1971
 HomerMaggieLisaBart1972
@@ -21806,6 +22193,7 @@ HomerMaggieLisaBart2015
 HomerMaggieLisaBart2016
 HomerMaggieLisaBart2017
 HomerMaggieLisaBart2018
+HomerMaggieLisaBart2019
 HomerMaggieLisaBartMarge1970
 HomerMaggieLisaBartMarge1971
 HomerMaggieLisaBartMarge1972
@@ -21855,6 +22243,7 @@ HomerMaggieLisaBartMarge2015
 HomerMaggieLisaBartMarge2016
 HomerMaggieLisaBartMarge2017
 HomerMaggieLisaBartMarge2018
+HomerMaggieLisaBartMarge2019
 Marge1970
 Marge1971
 Marge1972
@@ -21904,6 +22293,7 @@ Marge2015
 Marge2016
 Marge2017
 Marge2018
+Marge2019
 MargeHomer1970
 MargeHomer1971
 MargeHomer1972
@@ -21953,6 +22343,7 @@ MargeHomer2015
 MargeHomer2016
 MargeHomer2017
 MargeHomer2018
+MargeHomer2019
 MargeHomerBart1970
 MargeHomerBart1971
 MargeHomerBart1972
@@ -22002,6 +22393,7 @@ MargeHomerBart2015
 MargeHomerBart2016
 MargeHomerBart2017
 MargeHomerBart2018
+MargeHomerBart2019
 MargeHomerBartLisa1970
 MargeHomerBartLisa1971
 MargeHomerBartLisa1972
@@ -22051,6 +22443,7 @@ MargeHomerBartLisa2015
 MargeHomerBartLisa2016
 MargeHomerBartLisa2017
 MargeHomerBartLisa2018
+MargeHomerBartLisa2019
 MargeHomerBartLisaMaggie1970
 MargeHomerBartLisaMaggie1971
 MargeHomerBartLisaMaggie1972
@@ -22100,6 +22493,7 @@ MargeHomerBartLisaMaggie2015
 MargeHomerBartLisaMaggie2016
 MargeHomerBartLisaMaggie2017
 MargeHomerBartLisaMaggie2018
+MargeHomerBartLisaMaggie2019
 MargeHomerBartMaggie1970
 MargeHomerBartMaggie1971
 MargeHomerBartMaggie1972
@@ -22149,6 +22543,7 @@ MargeHomerBartMaggie2015
 MargeHomerBartMaggie2016
 MargeHomerBartMaggie2017
 MargeHomerBartMaggie2018
+MargeHomerBartMaggie2019
 MargeHomerBartMaggieLisa1970
 MargeHomerBartMaggieLisa1971
 MargeHomerBartMaggieLisa1972
@@ -22198,6 +22593,7 @@ MargeHomerBartMaggieLisa2015
 MargeHomerBartMaggieLisa2016
 MargeHomerBartMaggieLisa2017
 MargeHomerBartMaggieLisa2018
+MargeHomerBartMaggieLisa2019
 MargeHomerLisa1970
 MargeHomerLisa1971
 MargeHomerLisa1972
@@ -22247,6 +22643,7 @@ MargeHomerLisa2015
 MargeHomerLisa2016
 MargeHomerLisa2017
 MargeHomerLisa2018
+MargeHomerLisa2019
 MargeHomerLisaBart1970
 MargeHomerLisaBart1971
 MargeHomerLisaBart1972
@@ -22296,6 +22693,7 @@ MargeHomerLisaBart2015
 MargeHomerLisaBart2016
 MargeHomerLisaBart2017
 MargeHomerLisaBart2018
+MargeHomerLisaBart2019
 MargeHomerLisaBartMaggie1970
 MargeHomerLisaBartMaggie1971
 MargeHomerLisaBartMaggie1972
@@ -22345,6 +22743,7 @@ MargeHomerLisaBartMaggie2015
 MargeHomerLisaBartMaggie2016
 MargeHomerLisaBartMaggie2017
 MargeHomerLisaBartMaggie2018
+MargeHomerLisaBartMaggie2019
 MargeHomerLisaMaggie1970
 MargeHomerLisaMaggie1971
 MargeHomerLisaMaggie1972
@@ -22394,6 +22793,7 @@ MargeHomerLisaMaggie2015
 MargeHomerLisaMaggie2016
 MargeHomerLisaMaggie2017
 MargeHomerLisaMaggie2018
+MargeHomerLisaMaggie2019
 MargeHomerLisaMaggieBart1970
 MargeHomerLisaMaggieBart1971
 MargeHomerLisaMaggieBart1972
@@ -22443,6 +22843,7 @@ MargeHomerLisaMaggieBart2015
 MargeHomerLisaMaggieBart2016
 MargeHomerLisaMaggieBart2017
 MargeHomerLisaMaggieBart2018
+MargeHomerLisaMaggieBart2019
 MargeHomerMaggie1970
 MargeHomerMaggie1971
 MargeHomerMaggie1972
@@ -22492,6 +22893,7 @@ MargeHomerMaggie2015
 MargeHomerMaggie2016
 MargeHomerMaggie2017
 MargeHomerMaggie2018
+MargeHomerMaggie2019
 MargeHomerMaggieBart1970
 MargeHomerMaggieBart1971
 MargeHomerMaggieBart1972
@@ -22541,6 +22943,7 @@ MargeHomerMaggieBart2015
 MargeHomerMaggieBart2016
 MargeHomerMaggieBart2017
 MargeHomerMaggieBart2018
+MargeHomerMaggieBart2019
 MargeHomerMaggieBartLisa1970
 MargeHomerMaggieBartLisa1971
 MargeHomerMaggieBartLisa1972
@@ -22590,6 +22993,7 @@ MargeHomerMaggieBartLisa2015
 MargeHomerMaggieBartLisa2016
 MargeHomerMaggieBartLisa2017
 MargeHomerMaggieBartLisa2018
+MargeHomerMaggieBartLisa2019
 MargeHomerMaggieLisa1970
 MargeHomerMaggieLisa1971
 MargeHomerMaggieLisa1972
@@ -22639,6 +23043,7 @@ MargeHomerMaggieLisa2015
 MargeHomerMaggieLisa2016
 MargeHomerMaggieLisa2017
 MargeHomerMaggieLisa2018
+MargeHomerMaggieLisa2019
 MargeHomerMaggieLisaBart1970
 MargeHomerMaggieLisaBart1971
 MargeHomerMaggieLisaBart1972
@@ -22688,6 +23093,7 @@ MargeHomerMaggieLisaBart2015
 MargeHomerMaggieLisaBart2016
 MargeHomerMaggieLisaBart2017
 MargeHomerMaggieLisaBart2018
+MargeHomerMaggieLisaBart2019
 MargeBart1970
 MargeBart1971
 MargeBart1972
@@ -22737,6 +23143,7 @@ MargeBart2015
 MargeBart2016
 MargeBart2017
 MargeBart2018
+MargeBart2019
 MargeBartHomer1970
 MargeBartHomer1971
 MargeBartHomer1972
@@ -22786,6 +23193,7 @@ MargeBartHomer2015
 MargeBartHomer2016
 MargeBartHomer2017
 MargeBartHomer2018
+MargeBartHomer2019
 MargeBartHomerLisa1970
 MargeBartHomerLisa1971
 MargeBartHomerLisa1972
@@ -22835,6 +23243,7 @@ MargeBartHomerLisa2015
 MargeBartHomerLisa2016
 MargeBartHomerLisa2017
 MargeBartHomerLisa2018
+MargeBartHomerLisa2019
 MargeBartHomerLisaMaggie1970
 MargeBartHomerLisaMaggie1971
 MargeBartHomerLisaMaggie1972
@@ -22884,6 +23293,7 @@ MargeBartHomerLisaMaggie2015
 MargeBartHomerLisaMaggie2016
 MargeBartHomerLisaMaggie2017
 MargeBartHomerLisaMaggie2018
+MargeBartHomerLisaMaggie2019
 MargeBartHomerMaggie1970
 MargeBartHomerMaggie1971
 MargeBartHomerMaggie1972
@@ -22933,6 +23343,7 @@ MargeBartHomerMaggie2015
 MargeBartHomerMaggie2016
 MargeBartHomerMaggie2017
 MargeBartHomerMaggie2018
+MargeBartHomerMaggie2019
 MargeBartHomerMaggieLisa1970
 MargeBartHomerMaggieLisa1971
 MargeBartHomerMaggieLisa1972
@@ -22982,6 +23393,7 @@ MargeBartHomerMaggieLisa2015
 MargeBartHomerMaggieLisa2016
 MargeBartHomerMaggieLisa2017
 MargeBartHomerMaggieLisa2018
+MargeBartHomerMaggieLisa2019
 MargeBartLisa1970
 MargeBartLisa1971
 MargeBartLisa1972
@@ -23031,6 +23443,7 @@ MargeBartLisa2015
 MargeBartLisa2016
 MargeBartLisa2017
 MargeBartLisa2018
+MargeBartLisa2019
 MargeBartLisaHomer1970
 MargeBartLisaHomer1971
 MargeBartLisaHomer1972
@@ -23080,6 +23493,7 @@ MargeBartLisaHomer2015
 MargeBartLisaHomer2016
 MargeBartLisaHomer2017
 MargeBartLisaHomer2018
+MargeBartLisaHomer2019
 MargeBartLisaHomerMaggie1970
 MargeBartLisaHomerMaggie1971
 MargeBartLisaHomerMaggie1972
@@ -23129,6 +23543,7 @@ MargeBartLisaHomerMaggie2015
 MargeBartLisaHomerMaggie2016
 MargeBartLisaHomerMaggie2017
 MargeBartLisaHomerMaggie2018
+MargeBartLisaHomerMaggie2019
 MargeBartLisaMaggie1970
 MargeBartLisaMaggie1971
 MargeBartLisaMaggie1972
@@ -23178,6 +23593,7 @@ MargeBartLisaMaggie2015
 MargeBartLisaMaggie2016
 MargeBartLisaMaggie2017
 MargeBartLisaMaggie2018
+MargeBartLisaMaggie2019
 MargeBartLisaMaggieHomer1970
 MargeBartLisaMaggieHomer1971
 MargeBartLisaMaggieHomer1972
@@ -23227,6 +23643,7 @@ MargeBartLisaMaggieHomer2015
 MargeBartLisaMaggieHomer2016
 MargeBartLisaMaggieHomer2017
 MargeBartLisaMaggieHomer2018
+MargeBartLisaMaggieHomer2019
 MargeBartMaggie1970
 MargeBartMaggie1971
 MargeBartMaggie1972
@@ -23276,6 +23693,7 @@ MargeBartMaggie2015
 MargeBartMaggie2016
 MargeBartMaggie2017
 MargeBartMaggie2018
+MargeBartMaggie2019
 MargeBartMaggieHomer1970
 MargeBartMaggieHomer1971
 MargeBartMaggieHomer1972
@@ -23325,6 +23743,7 @@ MargeBartMaggieHomer2015
 MargeBartMaggieHomer2016
 MargeBartMaggieHomer2017
 MargeBartMaggieHomer2018
+MargeBartMaggieHomer2019
 MargeBartMaggieHomerLisa1970
 MargeBartMaggieHomerLisa1971
 MargeBartMaggieHomerLisa1972
@@ -23374,6 +23793,7 @@ MargeBartMaggieHomerLisa2015
 MargeBartMaggieHomerLisa2016
 MargeBartMaggieHomerLisa2017
 MargeBartMaggieHomerLisa2018
+MargeBartMaggieHomerLisa2019
 MargeBartMaggieLisa1970
 MargeBartMaggieLisa1971
 MargeBartMaggieLisa1972
@@ -23423,6 +23843,7 @@ MargeBartMaggieLisa2015
 MargeBartMaggieLisa2016
 MargeBartMaggieLisa2017
 MargeBartMaggieLisa2018
+MargeBartMaggieLisa2019
 MargeBartMaggieLisaHomer1970
 MargeBartMaggieLisaHomer1971
 MargeBartMaggieLisaHomer1972
@@ -23472,6 +23893,7 @@ MargeBartMaggieLisaHomer2015
 MargeBartMaggieLisaHomer2016
 MargeBartMaggieLisaHomer2017
 MargeBartMaggieLisaHomer2018
+MargeBartMaggieLisaHomer2019
 MargeLisa1970
 MargeLisa1971
 MargeLisa1972
@@ -23521,6 +23943,7 @@ MargeLisa2015
 MargeLisa2016
 MargeLisa2017
 MargeLisa2018
+MargeLisa2019
 MargeLisaHomer1970
 MargeLisaHomer1971
 MargeLisaHomer1972
@@ -23570,6 +23993,7 @@ MargeLisaHomer2015
 MargeLisaHomer2016
 MargeLisaHomer2017
 MargeLisaHomer2018
+MargeLisaHomer2019
 MargeLisaHomerBart1970
 MargeLisaHomerBart1971
 MargeLisaHomerBart1972
@@ -23619,6 +24043,7 @@ MargeLisaHomerBart2015
 MargeLisaHomerBart2016
 MargeLisaHomerBart2017
 MargeLisaHomerBart2018
+MargeLisaHomerBart2019
 MargeLisaHomerBartMaggie1970
 MargeLisaHomerBartMaggie1971
 MargeLisaHomerBartMaggie1972
@@ -23668,6 +24093,7 @@ MargeLisaHomerBartMaggie2015
 MargeLisaHomerBartMaggie2016
 MargeLisaHomerBartMaggie2017
 MargeLisaHomerBartMaggie2018
+MargeLisaHomerBartMaggie2019
 MargeLisaHomerMaggie1970
 MargeLisaHomerMaggie1971
 MargeLisaHomerMaggie1972
@@ -23717,6 +24143,7 @@ MargeLisaHomerMaggie2015
 MargeLisaHomerMaggie2016
 MargeLisaHomerMaggie2017
 MargeLisaHomerMaggie2018
+MargeLisaHomerMaggie2019
 MargeLisaHomerMaggieBart1970
 MargeLisaHomerMaggieBart1971
 MargeLisaHomerMaggieBart1972
@@ -23766,6 +24193,7 @@ MargeLisaHomerMaggieBart2015
 MargeLisaHomerMaggieBart2016
 MargeLisaHomerMaggieBart2017
 MargeLisaHomerMaggieBart2018
+MargeLisaHomerMaggieBart2019
 MargeLisaBart1970
 MargeLisaBart1971
 MargeLisaBart1972
@@ -23815,6 +24243,7 @@ MargeLisaBart2015
 MargeLisaBart2016
 MargeLisaBart2017
 MargeLisaBart2018
+MargeLisaBart2019
 MargeLisaBartHomer1970
 MargeLisaBartHomer1971
 MargeLisaBartHomer1972
@@ -23864,6 +24293,7 @@ MargeLisaBartHomer2015
 MargeLisaBartHomer2016
 MargeLisaBartHomer2017
 MargeLisaBartHomer2018
+MargeLisaBartHomer2019
 MargeLisaBartHomerMaggie1970
 MargeLisaBartHomerMaggie1971
 MargeLisaBartHomerMaggie1972
@@ -23913,6 +24343,7 @@ MargeLisaBartHomerMaggie2015
 MargeLisaBartHomerMaggie2016
 MargeLisaBartHomerMaggie2017
 MargeLisaBartHomerMaggie2018
+MargeLisaBartHomerMaggie2019
 MargeLisaBartMaggie1970
 MargeLisaBartMaggie1971
 MargeLisaBartMaggie1972
@@ -23962,6 +24393,7 @@ MargeLisaBartMaggie2015
 MargeLisaBartMaggie2016
 MargeLisaBartMaggie2017
 MargeLisaBartMaggie2018
+MargeLisaBartMaggie2019
 MargeLisaBartMaggieHomer1970
 MargeLisaBartMaggieHomer1971
 MargeLisaBartMaggieHomer1972
@@ -24011,6 +24443,7 @@ MargeLisaBartMaggieHomer2015
 MargeLisaBartMaggieHomer2016
 MargeLisaBartMaggieHomer2017
 MargeLisaBartMaggieHomer2018
+MargeLisaBartMaggieHomer2019
 MargeLisaMaggie1970
 MargeLisaMaggie1971
 MargeLisaMaggie1972
@@ -24060,6 +24493,7 @@ MargeLisaMaggie2015
 MargeLisaMaggie2016
 MargeLisaMaggie2017
 MargeLisaMaggie2018
+MargeLisaMaggie2019
 MargeLisaMaggieHomer1970
 MargeLisaMaggieHomer1971
 MargeLisaMaggieHomer1972
@@ -24109,6 +24543,7 @@ MargeLisaMaggieHomer2015
 MargeLisaMaggieHomer2016
 MargeLisaMaggieHomer2017
 MargeLisaMaggieHomer2018
+MargeLisaMaggieHomer2019
 MargeLisaMaggieHomerBart1970
 MargeLisaMaggieHomerBart1971
 MargeLisaMaggieHomerBart1972
@@ -24158,6 +24593,7 @@ MargeLisaMaggieHomerBart2015
 MargeLisaMaggieHomerBart2016
 MargeLisaMaggieHomerBart2017
 MargeLisaMaggieHomerBart2018
+MargeLisaMaggieHomerBart2019
 MargeLisaMaggieBart1970
 MargeLisaMaggieBart1971
 MargeLisaMaggieBart1972
@@ -24207,6 +24643,7 @@ MargeLisaMaggieBart2015
 MargeLisaMaggieBart2016
 MargeLisaMaggieBart2017
 MargeLisaMaggieBart2018
+MargeLisaMaggieBart2019
 MargeLisaMaggieBartHomer1970
 MargeLisaMaggieBartHomer1971
 MargeLisaMaggieBartHomer1972
@@ -24256,6 +24693,7 @@ MargeLisaMaggieBartHomer2015
 MargeLisaMaggieBartHomer2016
 MargeLisaMaggieBartHomer2017
 MargeLisaMaggieBartHomer2018
+MargeLisaMaggieBartHomer2019
 MargeMaggie1970
 MargeMaggie1971
 MargeMaggie1972
@@ -24305,6 +24743,7 @@ MargeMaggie2015
 MargeMaggie2016
 MargeMaggie2017
 MargeMaggie2018
+MargeMaggie2019
 MargeMaggieHomer1970
 MargeMaggieHomer1971
 MargeMaggieHomer1972
@@ -24354,6 +24793,7 @@ MargeMaggieHomer2015
 MargeMaggieHomer2016
 MargeMaggieHomer2017
 MargeMaggieHomer2018
+MargeMaggieHomer2019
 MargeMaggieHomerBart1970
 MargeMaggieHomerBart1971
 MargeMaggieHomerBart1972
@@ -24403,6 +24843,7 @@ MargeMaggieHomerBart2015
 MargeMaggieHomerBart2016
 MargeMaggieHomerBart2017
 MargeMaggieHomerBart2018
+MargeMaggieHomerBart2019
 MargeMaggieHomerBartLisa1970
 MargeMaggieHomerBartLisa1971
 MargeMaggieHomerBartLisa1972
@@ -24452,6 +24893,7 @@ MargeMaggieHomerBartLisa2015
 MargeMaggieHomerBartLisa2016
 MargeMaggieHomerBartLisa2017
 MargeMaggieHomerBartLisa2018
+MargeMaggieHomerBartLisa2019
 MargeMaggieHomerLisa1970
 MargeMaggieHomerLisa1971
 MargeMaggieHomerLisa1972
@@ -24501,6 +24943,7 @@ MargeMaggieHomerLisa2015
 MargeMaggieHomerLisa2016
 MargeMaggieHomerLisa2017
 MargeMaggieHomerLisa2018
+MargeMaggieHomerLisa2019
 MargeMaggieHomerLisaBart1970
 MargeMaggieHomerLisaBart1971
 MargeMaggieHomerLisaBart1972
@@ -24550,6 +24993,7 @@ MargeMaggieHomerLisaBart2015
 MargeMaggieHomerLisaBart2016
 MargeMaggieHomerLisaBart2017
 MargeMaggieHomerLisaBart2018
+MargeMaggieHomerLisaBart2019
 MargeMaggieBart1970
 MargeMaggieBart1971
 MargeMaggieBart1972
@@ -24599,6 +25043,7 @@ MargeMaggieBart2015
 MargeMaggieBart2016
 MargeMaggieBart2017
 MargeMaggieBart2018
+MargeMaggieBart2019
 MargeMaggieBartHomer1970
 MargeMaggieBartHomer1971
 MargeMaggieBartHomer1972
@@ -24648,6 +25093,7 @@ MargeMaggieBartHomer2015
 MargeMaggieBartHomer2016
 MargeMaggieBartHomer2017
 MargeMaggieBartHomer2018
+MargeMaggieBartHomer2019
 MargeMaggieBartHomerLisa1970
 MargeMaggieBartHomerLisa1971
 MargeMaggieBartHomerLisa1972
@@ -24697,6 +25143,7 @@ MargeMaggieBartHomerLisa2015
 MargeMaggieBartHomerLisa2016
 MargeMaggieBartHomerLisa2017
 MargeMaggieBartHomerLisa2018
+MargeMaggieBartHomerLisa2019
 MargeMaggieBartLisa1970
 MargeMaggieBartLisa1971
 MargeMaggieBartLisa1972
@@ -24746,6 +25193,7 @@ MargeMaggieBartLisa2015
 MargeMaggieBartLisa2016
 MargeMaggieBartLisa2017
 MargeMaggieBartLisa2018
+MargeMaggieBartLisa2019
 MargeMaggieBartLisaHomer1970
 MargeMaggieBartLisaHomer1971
 MargeMaggieBartLisaHomer1972
@@ -24795,6 +25243,7 @@ MargeMaggieBartLisaHomer2015
 MargeMaggieBartLisaHomer2016
 MargeMaggieBartLisaHomer2017
 MargeMaggieBartLisaHomer2018
+MargeMaggieBartLisaHomer2019
 MargeMaggieLisa1970
 MargeMaggieLisa1971
 MargeMaggieLisa1972
@@ -24844,6 +25293,7 @@ MargeMaggieLisa2015
 MargeMaggieLisa2016
 MargeMaggieLisa2017
 MargeMaggieLisa2018
+MargeMaggieLisa2019
 MargeMaggieLisaHomer1970
 MargeMaggieLisaHomer1971
 MargeMaggieLisaHomer1972
@@ -24893,6 +25343,7 @@ MargeMaggieLisaHomer2015
 MargeMaggieLisaHomer2016
 MargeMaggieLisaHomer2017
 MargeMaggieLisaHomer2018
+MargeMaggieLisaHomer2019
 MargeMaggieLisaHomerBart1970
 MargeMaggieLisaHomerBart1971
 MargeMaggieLisaHomerBart1972
@@ -24942,6 +25393,7 @@ MargeMaggieLisaHomerBart2015
 MargeMaggieLisaHomerBart2016
 MargeMaggieLisaHomerBart2017
 MargeMaggieLisaHomerBart2018
+MargeMaggieLisaHomerBart2019
 MargeMaggieLisaBart1970
 MargeMaggieLisaBart1971
 MargeMaggieLisaBart1972
@@ -24991,6 +25443,7 @@ MargeMaggieLisaBart2015
 MargeMaggieLisaBart2016
 MargeMaggieLisaBart2017
 MargeMaggieLisaBart2018
+MargeMaggieLisaBart2019
 MargeMaggieLisaBartHomer1970
 MargeMaggieLisaBartHomer1971
 MargeMaggieLisaBartHomer1972
@@ -25040,6 +25493,7 @@ MargeMaggieLisaBartHomer2015
 MargeMaggieLisaBartHomer2016
 MargeMaggieLisaBartHomer2017
 MargeMaggieLisaBartHomer2018
+MargeMaggieLisaBartHomer2019
 Bart1970
 Bart1971
 Bart1972
@@ -25089,6 +25543,7 @@ Bart2015
 Bart2016
 Bart2017
 Bart2018
+Bart2019
 BartHomer1970
 BartHomer1971
 BartHomer1972
@@ -25138,6 +25593,7 @@ BartHomer2015
 BartHomer2016
 BartHomer2017
 BartHomer2018
+BartHomer2019
 BartHomerMarge1970
 BartHomerMarge1971
 BartHomerMarge1972
@@ -25187,6 +25643,7 @@ BartHomerMarge2015
 BartHomerMarge2016
 BartHomerMarge2017
 BartHomerMarge2018
+BartHomerMarge2019
 BartHomerMargeLisa1970
 BartHomerMargeLisa1971
 BartHomerMargeLisa1972
@@ -25236,6 +25693,7 @@ BartHomerMargeLisa2015
 BartHomerMargeLisa2016
 BartHomerMargeLisa2017
 BartHomerMargeLisa2018
+BartHomerMargeLisa2019
 BartHomerMargeLisaMaggie1970
 BartHomerMargeLisaMaggie1971
 BartHomerMargeLisaMaggie1972
@@ -25285,6 +25743,7 @@ BartHomerMargeLisaMaggie2015
 BartHomerMargeLisaMaggie2016
 BartHomerMargeLisaMaggie2017
 BartHomerMargeLisaMaggie2018
+BartHomerMargeLisaMaggie2019
 BartHomerMargeMaggie1970
 BartHomerMargeMaggie1971
 BartHomerMargeMaggie1972
@@ -25334,6 +25793,7 @@ BartHomerMargeMaggie2015
 BartHomerMargeMaggie2016
 BartHomerMargeMaggie2017
 BartHomerMargeMaggie2018
+BartHomerMargeMaggie2019
 BartHomerMargeMaggieLisa1970
 BartHomerMargeMaggieLisa1971
 BartHomerMargeMaggieLisa1972
@@ -25383,6 +25843,7 @@ BartHomerMargeMaggieLisa2015
 BartHomerMargeMaggieLisa2016
 BartHomerMargeMaggieLisa2017
 BartHomerMargeMaggieLisa2018
+BartHomerMargeMaggieLisa2019
 BartHomerLisa1970
 BartHomerLisa1971
 BartHomerLisa1972
@@ -25432,6 +25893,7 @@ BartHomerLisa2015
 BartHomerLisa2016
 BartHomerLisa2017
 BartHomerLisa2018
+BartHomerLisa2019
 BartHomerLisaMarge1970
 BartHomerLisaMarge1971
 BartHomerLisaMarge1972
@@ -25481,6 +25943,7 @@ BartHomerLisaMarge2015
 BartHomerLisaMarge2016
 BartHomerLisaMarge2017
 BartHomerLisaMarge2018
+BartHomerLisaMarge2019
 BartHomerLisaMargeMaggie1970
 BartHomerLisaMargeMaggie1971
 BartHomerLisaMargeMaggie1972
@@ -25530,6 +25993,7 @@ BartHomerLisaMargeMaggie2015
 BartHomerLisaMargeMaggie2016
 BartHomerLisaMargeMaggie2017
 BartHomerLisaMargeMaggie2018
+BartHomerLisaMargeMaggie2019
 BartHomerLisaMaggie1970
 BartHomerLisaMaggie1971
 BartHomerLisaMaggie1972
@@ -25579,6 +26043,7 @@ BartHomerLisaMaggie2015
 BartHomerLisaMaggie2016
 BartHomerLisaMaggie2017
 BartHomerLisaMaggie2018
+BartHomerLisaMaggie2019
 BartHomerLisaMaggieMarge1970
 BartHomerLisaMaggieMarge1971
 BartHomerLisaMaggieMarge1972
@@ -25628,6 +26093,7 @@ BartHomerLisaMaggieMarge2015
 BartHomerLisaMaggieMarge2016
 BartHomerLisaMaggieMarge2017
 BartHomerLisaMaggieMarge2018
+BartHomerLisaMaggieMarge2019
 BartHomerMaggie1970
 BartHomerMaggie1971
 BartHomerMaggie1972
@@ -25677,6 +26143,7 @@ BartHomerMaggie2015
 BartHomerMaggie2016
 BartHomerMaggie2017
 BartHomerMaggie2018
+BartHomerMaggie2019
 BartHomerMaggieMarge1970
 BartHomerMaggieMarge1971
 BartHomerMaggieMarge1972
@@ -25726,6 +26193,7 @@ BartHomerMaggieMarge2015
 BartHomerMaggieMarge2016
 BartHomerMaggieMarge2017
 BartHomerMaggieMarge2018
+BartHomerMaggieMarge2019
 BartHomerMaggieMargeLisa1970
 BartHomerMaggieMargeLisa1971
 BartHomerMaggieMargeLisa1972
@@ -25775,6 +26243,7 @@ BartHomerMaggieMargeLisa2015
 BartHomerMaggieMargeLisa2016
 BartHomerMaggieMargeLisa2017
 BartHomerMaggieMargeLisa2018
+BartHomerMaggieMargeLisa2019
 BartHomerMaggieLisa1970
 BartHomerMaggieLisa1971
 BartHomerMaggieLisa1972
@@ -25824,6 +26293,7 @@ BartHomerMaggieLisa2015
 BartHomerMaggieLisa2016
 BartHomerMaggieLisa2017
 BartHomerMaggieLisa2018
+BartHomerMaggieLisa2019
 BartHomerMaggieLisaMarge1970
 BartHomerMaggieLisaMarge1971
 BartHomerMaggieLisaMarge1972
@@ -25873,6 +26343,7 @@ BartHomerMaggieLisaMarge2015
 BartHomerMaggieLisaMarge2016
 BartHomerMaggieLisaMarge2017
 BartHomerMaggieLisaMarge2018
+BartHomerMaggieLisaMarge2019
 BartMarge1970
 BartMarge1971
 BartMarge1972
@@ -25922,6 +26393,7 @@ BartMarge2015
 BartMarge2016
 BartMarge2017
 BartMarge2018
+BartMarge2019
 BartMargeHomer1970
 BartMargeHomer1971
 BartMargeHomer1972
@@ -25971,6 +26443,7 @@ BartMargeHomer2015
 BartMargeHomer2016
 BartMargeHomer2017
 BartMargeHomer2018
+BartMargeHomer2019
 BartMargeHomerLisa1970
 BartMargeHomerLisa1971
 BartMargeHomerLisa1972
@@ -26020,6 +26493,7 @@ BartMargeHomerLisa2015
 BartMargeHomerLisa2016
 BartMargeHomerLisa2017
 BartMargeHomerLisa2018
+BartMargeHomerLisa2019
 BartMargeHomerLisaMaggie1970
 BartMargeHomerLisaMaggie1971
 BartMargeHomerLisaMaggie1972
@@ -26069,6 +26543,7 @@ BartMargeHomerLisaMaggie2015
 BartMargeHomerLisaMaggie2016
 BartMargeHomerLisaMaggie2017
 BartMargeHomerLisaMaggie2018
+BartMargeHomerLisaMaggie2019
 BartMargeHomerMaggie1970
 BartMargeHomerMaggie1971
 BartMargeHomerMaggie1972
@@ -26118,6 +26593,7 @@ BartMargeHomerMaggie2015
 BartMargeHomerMaggie2016
 BartMargeHomerMaggie2017
 BartMargeHomerMaggie2018
+BartMargeHomerMaggie2019
 BartMargeHomerMaggieLisa1970
 BartMargeHomerMaggieLisa1971
 BartMargeHomerMaggieLisa1972
@@ -26167,6 +26643,7 @@ BartMargeHomerMaggieLisa2015
 BartMargeHomerMaggieLisa2016
 BartMargeHomerMaggieLisa2017
 BartMargeHomerMaggieLisa2018
+BartMargeHomerMaggieLisa2019
 BartMargeLisa1970
 BartMargeLisa1971
 BartMargeLisa1972
@@ -26216,6 +26693,7 @@ BartMargeLisa2015
 BartMargeLisa2016
 BartMargeLisa2017
 BartMargeLisa2018
+BartMargeLisa2019
 BartMargeLisaHomer1970
 BartMargeLisaHomer1971
 BartMargeLisaHomer1972
@@ -26265,6 +26743,7 @@ BartMargeLisaHomer2015
 BartMargeLisaHomer2016
 BartMargeLisaHomer2017
 BartMargeLisaHomer2018
+BartMargeLisaHomer2019
 BartMargeLisaHomerMaggie1970
 BartMargeLisaHomerMaggie1971
 BartMargeLisaHomerMaggie1972
@@ -26314,6 +26793,7 @@ BartMargeLisaHomerMaggie2015
 BartMargeLisaHomerMaggie2016
 BartMargeLisaHomerMaggie2017
 BartMargeLisaHomerMaggie2018
+BartMargeLisaHomerMaggie2019
 BartMargeLisaMaggie1970
 BartMargeLisaMaggie1971
 BartMargeLisaMaggie1972
@@ -26363,6 +26843,7 @@ BartMargeLisaMaggie2015
 BartMargeLisaMaggie2016
 BartMargeLisaMaggie2017
 BartMargeLisaMaggie2018
+BartMargeLisaMaggie2019
 BartMargeLisaMaggieHomer1970
 BartMargeLisaMaggieHomer1971
 BartMargeLisaMaggieHomer1972
@@ -26412,6 +26893,7 @@ BartMargeLisaMaggieHomer2015
 BartMargeLisaMaggieHomer2016
 BartMargeLisaMaggieHomer2017
 BartMargeLisaMaggieHomer2018
+BartMargeLisaMaggieHomer2019
 BartMargeMaggie1970
 BartMargeMaggie1971
 BartMargeMaggie1972
@@ -26461,6 +26943,7 @@ BartMargeMaggie2015
 BartMargeMaggie2016
 BartMargeMaggie2017
 BartMargeMaggie2018
+BartMargeMaggie2019
 BartMargeMaggieHomer1970
 BartMargeMaggieHomer1971
 BartMargeMaggieHomer1972
@@ -26510,6 +26993,7 @@ BartMargeMaggieHomer2015
 BartMargeMaggieHomer2016
 BartMargeMaggieHomer2017
 BartMargeMaggieHomer2018
+BartMargeMaggieHomer2019
 BartMargeMaggieHomerLisa1970
 BartMargeMaggieHomerLisa1971
 BartMargeMaggieHomerLisa1972
@@ -26559,6 +27043,7 @@ BartMargeMaggieHomerLisa2015
 BartMargeMaggieHomerLisa2016
 BartMargeMaggieHomerLisa2017
 BartMargeMaggieHomerLisa2018
+BartMargeMaggieHomerLisa2019
 BartMargeMaggieLisa1970
 BartMargeMaggieLisa1971
 BartMargeMaggieLisa1972
@@ -26608,6 +27093,7 @@ BartMargeMaggieLisa2015
 BartMargeMaggieLisa2016
 BartMargeMaggieLisa2017
 BartMargeMaggieLisa2018
+BartMargeMaggieLisa2019
 BartMargeMaggieLisaHomer1970
 BartMargeMaggieLisaHomer1971
 BartMargeMaggieLisaHomer1972
@@ -26657,6 +27143,7 @@ BartMargeMaggieLisaHomer2015
 BartMargeMaggieLisaHomer2016
 BartMargeMaggieLisaHomer2017
 BartMargeMaggieLisaHomer2018
+BartMargeMaggieLisaHomer2019
 BartLisa1970
 BartLisa1971
 BartLisa1972
@@ -26706,6 +27193,7 @@ BartLisa2015
 BartLisa2016
 BartLisa2017
 BartLisa2018
+BartLisa2019
 BartLisaHomer1970
 BartLisaHomer1971
 BartLisaHomer1972
@@ -26755,6 +27243,7 @@ BartLisaHomer2015
 BartLisaHomer2016
 BartLisaHomer2017
 BartLisaHomer2018
+BartLisaHomer2019
 BartLisaHomerMarge1970
 BartLisaHomerMarge1971
 BartLisaHomerMarge1972
@@ -26804,6 +27293,7 @@ BartLisaHomerMarge2015
 BartLisaHomerMarge2016
 BartLisaHomerMarge2017
 BartLisaHomerMarge2018
+BartLisaHomerMarge2019
 BartLisaHomerMargeMaggie1970
 BartLisaHomerMargeMaggie1971
 BartLisaHomerMargeMaggie1972
@@ -26853,6 +27343,7 @@ BartLisaHomerMargeMaggie2015
 BartLisaHomerMargeMaggie2016
 BartLisaHomerMargeMaggie2017
 BartLisaHomerMargeMaggie2018
+BartLisaHomerMargeMaggie2019
 BartLisaHomerMaggie1970
 BartLisaHomerMaggie1971
 BartLisaHomerMaggie1972
@@ -26902,6 +27393,7 @@ BartLisaHomerMaggie2015
 BartLisaHomerMaggie2016
 BartLisaHomerMaggie2017
 BartLisaHomerMaggie2018
+BartLisaHomerMaggie2019
 BartLisaHomerMaggieMarge1970
 BartLisaHomerMaggieMarge1971
 BartLisaHomerMaggieMarge1972
@@ -26951,6 +27443,7 @@ BartLisaHomerMaggieMarge2015
 BartLisaHomerMaggieMarge2016
 BartLisaHomerMaggieMarge2017
 BartLisaHomerMaggieMarge2018
+BartLisaHomerMaggieMarge2019
 BartLisaMarge1970
 BartLisaMarge1971
 BartLisaMarge1972
@@ -27000,6 +27493,7 @@ BartLisaMarge2015
 BartLisaMarge2016
 BartLisaMarge2017
 BartLisaMarge2018
+BartLisaMarge2019
 BartLisaMargeHomer1970
 BartLisaMargeHomer1971
 BartLisaMargeHomer1972
@@ -27049,6 +27543,7 @@ BartLisaMargeHomer2015
 BartLisaMargeHomer2016
 BartLisaMargeHomer2017
 BartLisaMargeHomer2018
+BartLisaMargeHomer2019
 BartLisaMargeHomerMaggie1970
 BartLisaMargeHomerMaggie1971
 BartLisaMargeHomerMaggie1972
@@ -27098,6 +27593,7 @@ BartLisaMargeHomerMaggie2015
 BartLisaMargeHomerMaggie2016
 BartLisaMargeHomerMaggie2017
 BartLisaMargeHomerMaggie2018
+BartLisaMargeHomerMaggie2019
 BartLisaMargeMaggie1970
 BartLisaMargeMaggie1971
 BartLisaMargeMaggie1972
@@ -27147,6 +27643,7 @@ BartLisaMargeMaggie2015
 BartLisaMargeMaggie2016
 BartLisaMargeMaggie2017
 BartLisaMargeMaggie2018
+BartLisaMargeMaggie2019
 BartLisaMargeMaggieHomer1970
 BartLisaMargeMaggieHomer1971
 BartLisaMargeMaggieHomer1972
@@ -27196,6 +27693,7 @@ BartLisaMargeMaggieHomer2015
 BartLisaMargeMaggieHomer2016
 BartLisaMargeMaggieHomer2017
 BartLisaMargeMaggieHomer2018
+BartLisaMargeMaggieHomer2019
 BartLisaMaggie1970
 BartLisaMaggie1971
 BartLisaMaggie1972
@@ -27245,6 +27743,7 @@ BartLisaMaggie2015
 BartLisaMaggie2016
 BartLisaMaggie2017
 BartLisaMaggie2018
+BartLisaMaggie2019
 BartLisaMaggieHomer1970
 BartLisaMaggieHomer1971
 BartLisaMaggieHomer1972
@@ -27294,6 +27793,7 @@ BartLisaMaggieHomer2015
 BartLisaMaggieHomer2016
 BartLisaMaggieHomer2017
 BartLisaMaggieHomer2018
+BartLisaMaggieHomer2019
 BartLisaMaggieHomerMarge1970
 BartLisaMaggieHomerMarge1971
 BartLisaMaggieHomerMarge1972
@@ -27343,6 +27843,7 @@ BartLisaMaggieHomerMarge2015
 BartLisaMaggieHomerMarge2016
 BartLisaMaggieHomerMarge2017
 BartLisaMaggieHomerMarge2018
+BartLisaMaggieHomerMarge2019
 BartLisaMaggieMarge1970
 BartLisaMaggieMarge1971
 BartLisaMaggieMarge1972
@@ -27392,6 +27893,7 @@ BartLisaMaggieMarge2015
 BartLisaMaggieMarge2016
 BartLisaMaggieMarge2017
 BartLisaMaggieMarge2018
+BartLisaMaggieMarge2019
 BartLisaMaggieMargeHomer1970
 BartLisaMaggieMargeHomer1971
 BartLisaMaggieMargeHomer1972
@@ -27441,6 +27943,7 @@ BartLisaMaggieMargeHomer2015
 BartLisaMaggieMargeHomer2016
 BartLisaMaggieMargeHomer2017
 BartLisaMaggieMargeHomer2018
+BartLisaMaggieMargeHomer2019
 BartMaggie1970
 BartMaggie1971
 BartMaggie1972
@@ -27490,6 +27993,7 @@ BartMaggie2015
 BartMaggie2016
 BartMaggie2017
 BartMaggie2018
+BartMaggie2019
 BartMaggieHomer1970
 BartMaggieHomer1971
 BartMaggieHomer1972
@@ -27539,6 +28043,7 @@ BartMaggieHomer2015
 BartMaggieHomer2016
 BartMaggieHomer2017
 BartMaggieHomer2018
+BartMaggieHomer2019
 BartMaggieHomerMarge1970
 BartMaggieHomerMarge1971
 BartMaggieHomerMarge1972
@@ -27588,6 +28093,7 @@ BartMaggieHomerMarge2015
 BartMaggieHomerMarge2016
 BartMaggieHomerMarge2017
 BartMaggieHomerMarge2018
+BartMaggieHomerMarge2019
 BartMaggieHomerMargeLisa1970
 BartMaggieHomerMargeLisa1971
 BartMaggieHomerMargeLisa1972
@@ -27637,6 +28143,7 @@ BartMaggieHomerMargeLisa2015
 BartMaggieHomerMargeLisa2016
 BartMaggieHomerMargeLisa2017
 BartMaggieHomerMargeLisa2018
+BartMaggieHomerMargeLisa2019
 BartMaggieHomerLisa1970
 BartMaggieHomerLisa1971
 BartMaggieHomerLisa1972
@@ -27686,6 +28193,7 @@ BartMaggieHomerLisa2015
 BartMaggieHomerLisa2016
 BartMaggieHomerLisa2017
 BartMaggieHomerLisa2018
+BartMaggieHomerLisa2019
 BartMaggieHomerLisaMarge1970
 BartMaggieHomerLisaMarge1971
 BartMaggieHomerLisaMarge1972
@@ -27735,6 +28243,7 @@ BartMaggieHomerLisaMarge2015
 BartMaggieHomerLisaMarge2016
 BartMaggieHomerLisaMarge2017
 BartMaggieHomerLisaMarge2018
+BartMaggieHomerLisaMarge2019
 BartMaggieMarge1970
 BartMaggieMarge1971
 BartMaggieMarge1972
@@ -27784,6 +28293,7 @@ BartMaggieMarge2015
 BartMaggieMarge2016
 BartMaggieMarge2017
 BartMaggieMarge2018
+BartMaggieMarge2019
 BartMaggieMargeHomer1970
 BartMaggieMargeHomer1971
 BartMaggieMargeHomer1972
@@ -27833,6 +28343,7 @@ BartMaggieMargeHomer2015
 BartMaggieMargeHomer2016
 BartMaggieMargeHomer2017
 BartMaggieMargeHomer2018
+BartMaggieMargeHomer2019
 BartMaggieMargeHomerLisa1970
 BartMaggieMargeHomerLisa1971
 BartMaggieMargeHomerLisa1972
@@ -27882,6 +28393,7 @@ BartMaggieMargeHomerLisa2015
 BartMaggieMargeHomerLisa2016
 BartMaggieMargeHomerLisa2017
 BartMaggieMargeHomerLisa2018
+BartMaggieMargeHomerLisa2019
 BartMaggieMargeLisa1970
 BartMaggieMargeLisa1971
 BartMaggieMargeLisa1972
@@ -27931,6 +28443,7 @@ BartMaggieMargeLisa2015
 BartMaggieMargeLisa2016
 BartMaggieMargeLisa2017
 BartMaggieMargeLisa2018
+BartMaggieMargeLisa2019
 BartMaggieMargeLisaHomer1970
 BartMaggieMargeLisaHomer1971
 BartMaggieMargeLisaHomer1972
@@ -27980,6 +28493,7 @@ BartMaggieMargeLisaHomer2015
 BartMaggieMargeLisaHomer2016
 BartMaggieMargeLisaHomer2017
 BartMaggieMargeLisaHomer2018
+BartMaggieMargeLisaHomer2019
 BartMaggieLisa1970
 BartMaggieLisa1971
 BartMaggieLisa1972
@@ -28029,6 +28543,7 @@ BartMaggieLisa2015
 BartMaggieLisa2016
 BartMaggieLisa2017
 BartMaggieLisa2018
+BartMaggieLisa2019
 BartMaggieLisaHomer1970
 BartMaggieLisaHomer1971
 BartMaggieLisaHomer1972
@@ -28078,6 +28593,7 @@ BartMaggieLisaHomer2015
 BartMaggieLisaHomer2016
 BartMaggieLisaHomer2017
 BartMaggieLisaHomer2018
+BartMaggieLisaHomer2019
 BartMaggieLisaHomerMarge1970
 BartMaggieLisaHomerMarge1971
 BartMaggieLisaHomerMarge1972
@@ -28127,6 +28643,7 @@ BartMaggieLisaHomerMarge2015
 BartMaggieLisaHomerMarge2016
 BartMaggieLisaHomerMarge2017
 BartMaggieLisaHomerMarge2018
+BartMaggieLisaHomerMarge2019
 BartMaggieLisaMarge1970
 BartMaggieLisaMarge1971
 BartMaggieLisaMarge1972
@@ -28176,6 +28693,7 @@ BartMaggieLisaMarge2015
 BartMaggieLisaMarge2016
 BartMaggieLisaMarge2017
 BartMaggieLisaMarge2018
+BartMaggieLisaMarge2019
 BartMaggieLisaMargeHomer1970
 BartMaggieLisaMargeHomer1971
 BartMaggieLisaMargeHomer1972
@@ -28225,6 +28743,7 @@ BartMaggieLisaMargeHomer2015
 BartMaggieLisaMargeHomer2016
 BartMaggieLisaMargeHomer2017
 BartMaggieLisaMargeHomer2018
+BartMaggieLisaMargeHomer2019
 Lisa1970
 Lisa1971
 Lisa1972
@@ -28274,6 +28793,7 @@ Lisa2015
 Lisa2016
 Lisa2017
 Lisa2018
+Lisa2019
 LisaHomer1970
 LisaHomer1971
 LisaHomer1972
@@ -28323,6 +28843,7 @@ LisaHomer2015
 LisaHomer2016
 LisaHomer2017
 LisaHomer2018
+LisaHomer2019
 LisaHomerMarge1970
 LisaHomerMarge1971
 LisaHomerMarge1972
@@ -28372,6 +28893,7 @@ LisaHomerMarge2015
 LisaHomerMarge2016
 LisaHomerMarge2017
 LisaHomerMarge2018
+LisaHomerMarge2019
 LisaHomerMargeBart1970
 LisaHomerMargeBart1971
 LisaHomerMargeBart1972
@@ -28421,6 +28943,7 @@ LisaHomerMargeBart2015
 LisaHomerMargeBart2016
 LisaHomerMargeBart2017
 LisaHomerMargeBart2018
+LisaHomerMargeBart2019
 LisaHomerMargeBartMaggie1970
 LisaHomerMargeBartMaggie1971
 LisaHomerMargeBartMaggie1972
@@ -28470,6 +28993,7 @@ LisaHomerMargeBartMaggie2015
 LisaHomerMargeBartMaggie2016
 LisaHomerMargeBartMaggie2017
 LisaHomerMargeBartMaggie2018
+LisaHomerMargeBartMaggie2019
 LisaHomerMargeMaggie1970
 LisaHomerMargeMaggie1971
 LisaHomerMargeMaggie1972
@@ -28519,6 +29043,7 @@ LisaHomerMargeMaggie2015
 LisaHomerMargeMaggie2016
 LisaHomerMargeMaggie2017
 LisaHomerMargeMaggie2018
+LisaHomerMargeMaggie2019
 LisaHomerMargeMaggieBart1970
 LisaHomerMargeMaggieBart1971
 LisaHomerMargeMaggieBart1972
@@ -28568,6 +29093,7 @@ LisaHomerMargeMaggieBart2015
 LisaHomerMargeMaggieBart2016
 LisaHomerMargeMaggieBart2017
 LisaHomerMargeMaggieBart2018
+LisaHomerMargeMaggieBart2019
 LisaHomerBart1970
 LisaHomerBart1971
 LisaHomerBart1972
@@ -28617,6 +29143,7 @@ LisaHomerBart2015
 LisaHomerBart2016
 LisaHomerBart2017
 LisaHomerBart2018
+LisaHomerBart2019
 LisaHomerBartMarge1970
 LisaHomerBartMarge1971
 LisaHomerBartMarge1972
@@ -28666,6 +29193,7 @@ LisaHomerBartMarge2015
 LisaHomerBartMarge2016
 LisaHomerBartMarge2017
 LisaHomerBartMarge2018
+LisaHomerBartMarge2019
 LisaHomerBartMargeMaggie1970
 LisaHomerBartMargeMaggie1971
 LisaHomerBartMargeMaggie1972
@@ -28715,6 +29243,7 @@ LisaHomerBartMargeMaggie2015
 LisaHomerBartMargeMaggie2016
 LisaHomerBartMargeMaggie2017
 LisaHomerBartMargeMaggie2018
+LisaHomerBartMargeMaggie2019
 LisaHomerBartMaggie1970
 LisaHomerBartMaggie1971
 LisaHomerBartMaggie1972
@@ -28764,6 +29293,7 @@ LisaHomerBartMaggie2015
 LisaHomerBartMaggie2016
 LisaHomerBartMaggie2017
 LisaHomerBartMaggie2018
+LisaHomerBartMaggie2019
 LisaHomerBartMaggieMarge1970
 LisaHomerBartMaggieMarge1971
 LisaHomerBartMaggieMarge1972
@@ -28813,6 +29343,7 @@ LisaHomerBartMaggieMarge2015
 LisaHomerBartMaggieMarge2016
 LisaHomerBartMaggieMarge2017
 LisaHomerBartMaggieMarge2018
+LisaHomerBartMaggieMarge2019
 LisaHomerMaggie1970
 LisaHomerMaggie1971
 LisaHomerMaggie1972
@@ -28862,6 +29393,7 @@ LisaHomerMaggie2015
 LisaHomerMaggie2016
 LisaHomerMaggie2017
 LisaHomerMaggie2018
+LisaHomerMaggie2019
 LisaHomerMaggieMarge1970
 LisaHomerMaggieMarge1971
 LisaHomerMaggieMarge1972
@@ -28911,6 +29443,7 @@ LisaHomerMaggieMarge2015
 LisaHomerMaggieMarge2016
 LisaHomerMaggieMarge2017
 LisaHomerMaggieMarge2018
+LisaHomerMaggieMarge2019
 LisaHomerMaggieMargeBart1970
 LisaHomerMaggieMargeBart1971
 LisaHomerMaggieMargeBart1972
@@ -28960,6 +29493,7 @@ LisaHomerMaggieMargeBart2015
 LisaHomerMaggieMargeBart2016
 LisaHomerMaggieMargeBart2017
 LisaHomerMaggieMargeBart2018
+LisaHomerMaggieMargeBart2019
 LisaHomerMaggieBart1970
 LisaHomerMaggieBart1971
 LisaHomerMaggieBart1972
@@ -29009,6 +29543,7 @@ LisaHomerMaggieBart2015
 LisaHomerMaggieBart2016
 LisaHomerMaggieBart2017
 LisaHomerMaggieBart2018
+LisaHomerMaggieBart2019
 LisaHomerMaggieBartMarge1970
 LisaHomerMaggieBartMarge1971
 LisaHomerMaggieBartMarge1972
@@ -29058,6 +29593,7 @@ LisaHomerMaggieBartMarge2015
 LisaHomerMaggieBartMarge2016
 LisaHomerMaggieBartMarge2017
 LisaHomerMaggieBartMarge2018
+LisaHomerMaggieBartMarge2019
 LisaMarge1970
 LisaMarge1971
 LisaMarge1972
@@ -29107,6 +29643,7 @@ LisaMarge2015
 LisaMarge2016
 LisaMarge2017
 LisaMarge2018
+LisaMarge2019
 LisaMargeHomer1970
 LisaMargeHomer1971
 LisaMargeHomer1972
@@ -29156,6 +29693,7 @@ LisaMargeHomer2015
 LisaMargeHomer2016
 LisaMargeHomer2017
 LisaMargeHomer2018
+LisaMargeHomer2019
 LisaMargeHomerBart1970
 LisaMargeHomerBart1971
 LisaMargeHomerBart1972
@@ -29205,6 +29743,7 @@ LisaMargeHomerBart2015
 LisaMargeHomerBart2016
 LisaMargeHomerBart2017
 LisaMargeHomerBart2018
+LisaMargeHomerBart2019
 LisaMargeHomerBartMaggie1970
 LisaMargeHomerBartMaggie1971
 LisaMargeHomerBartMaggie1972
@@ -29254,6 +29793,7 @@ LisaMargeHomerBartMaggie2015
 LisaMargeHomerBartMaggie2016
 LisaMargeHomerBartMaggie2017
 LisaMargeHomerBartMaggie2018
+LisaMargeHomerBartMaggie2019
 LisaMargeHomerMaggie1970
 LisaMargeHomerMaggie1971
 LisaMargeHomerMaggie1972
@@ -29303,6 +29843,7 @@ LisaMargeHomerMaggie2015
 LisaMargeHomerMaggie2016
 LisaMargeHomerMaggie2017
 LisaMargeHomerMaggie2018
+LisaMargeHomerMaggie2019
 LisaMargeHomerMaggieBart1970
 LisaMargeHomerMaggieBart1971
 LisaMargeHomerMaggieBart1972
@@ -29352,6 +29893,7 @@ LisaMargeHomerMaggieBart2015
 LisaMargeHomerMaggieBart2016
 LisaMargeHomerMaggieBart2017
 LisaMargeHomerMaggieBart2018
+LisaMargeHomerMaggieBart2019
 LisaMargeBart1970
 LisaMargeBart1971
 LisaMargeBart1972
@@ -29401,6 +29943,7 @@ LisaMargeBart2015
 LisaMargeBart2016
 LisaMargeBart2017
 LisaMargeBart2018
+LisaMargeBart2019
 LisaMargeBartHomer1970
 LisaMargeBartHomer1971
 LisaMargeBartHomer1972
@@ -29450,6 +29993,7 @@ LisaMargeBartHomer2015
 LisaMargeBartHomer2016
 LisaMargeBartHomer2017
 LisaMargeBartHomer2018
+LisaMargeBartHomer2019
 LisaMargeBartHomerMaggie1970
 LisaMargeBartHomerMaggie1971
 LisaMargeBartHomerMaggie1972
@@ -29499,6 +30043,7 @@ LisaMargeBartHomerMaggie2015
 LisaMargeBartHomerMaggie2016
 LisaMargeBartHomerMaggie2017
 LisaMargeBartHomerMaggie2018
+LisaMargeBartHomerMaggie2019
 LisaMargeBartMaggie1970
 LisaMargeBartMaggie1971
 LisaMargeBartMaggie1972
@@ -29548,6 +30093,7 @@ LisaMargeBartMaggie2015
 LisaMargeBartMaggie2016
 LisaMargeBartMaggie2017
 LisaMargeBartMaggie2018
+LisaMargeBartMaggie2019
 LisaMargeBartMaggieHomer1970
 LisaMargeBartMaggieHomer1971
 LisaMargeBartMaggieHomer1972
@@ -29597,6 +30143,7 @@ LisaMargeBartMaggieHomer2015
 LisaMargeBartMaggieHomer2016
 LisaMargeBartMaggieHomer2017
 LisaMargeBartMaggieHomer2018
+LisaMargeBartMaggieHomer2019
 LisaMargeMaggie1970
 LisaMargeMaggie1971
 LisaMargeMaggie1972
@@ -29646,6 +30193,7 @@ LisaMargeMaggie2015
 LisaMargeMaggie2016
 LisaMargeMaggie2017
 LisaMargeMaggie2018
+LisaMargeMaggie2019
 LisaMargeMaggieHomer1970
 LisaMargeMaggieHomer1971
 LisaMargeMaggieHomer1972
@@ -29695,6 +30243,7 @@ LisaMargeMaggieHomer2015
 LisaMargeMaggieHomer2016
 LisaMargeMaggieHomer2017
 LisaMargeMaggieHomer2018
+LisaMargeMaggieHomer2019
 LisaMargeMaggieHomerBart1970
 LisaMargeMaggieHomerBart1971
 LisaMargeMaggieHomerBart1972
@@ -29744,6 +30293,7 @@ LisaMargeMaggieHomerBart2015
 LisaMargeMaggieHomerBart2016
 LisaMargeMaggieHomerBart2017
 LisaMargeMaggieHomerBart2018
+LisaMargeMaggieHomerBart2019
 LisaMargeMaggieBart1970
 LisaMargeMaggieBart1971
 LisaMargeMaggieBart1972
@@ -29793,6 +30343,7 @@ LisaMargeMaggieBart2015
 LisaMargeMaggieBart2016
 LisaMargeMaggieBart2017
 LisaMargeMaggieBart2018
+LisaMargeMaggieBart2019
 LisaMargeMaggieBartHomer1970
 LisaMargeMaggieBartHomer1971
 LisaMargeMaggieBartHomer1972
@@ -29842,6 +30393,7 @@ LisaMargeMaggieBartHomer2015
 LisaMargeMaggieBartHomer2016
 LisaMargeMaggieBartHomer2017
 LisaMargeMaggieBartHomer2018
+LisaMargeMaggieBartHomer2019
 LisaBart1970
 LisaBart1971
 LisaBart1972
@@ -29891,6 +30443,7 @@ LisaBart2015
 LisaBart2016
 LisaBart2017
 LisaBart2018
+LisaBart2019
 LisaBartHomer1970
 LisaBartHomer1971
 LisaBartHomer1972
@@ -29940,6 +30493,7 @@ LisaBartHomer2015
 LisaBartHomer2016
 LisaBartHomer2017
 LisaBartHomer2018
+LisaBartHomer2019
 LisaBartHomerMarge1970
 LisaBartHomerMarge1971
 LisaBartHomerMarge1972
@@ -29989,6 +30543,7 @@ LisaBartHomerMarge2015
 LisaBartHomerMarge2016
 LisaBartHomerMarge2017
 LisaBartHomerMarge2018
+LisaBartHomerMarge2019
 LisaBartHomerMargeMaggie1970
 LisaBartHomerMargeMaggie1971
 LisaBartHomerMargeMaggie1972
@@ -30038,6 +30593,7 @@ LisaBartHomerMargeMaggie2015
 LisaBartHomerMargeMaggie2016
 LisaBartHomerMargeMaggie2017
 LisaBartHomerMargeMaggie2018
+LisaBartHomerMargeMaggie2019
 LisaBartHomerMaggie1970
 LisaBartHomerMaggie1971
 LisaBartHomerMaggie1972
@@ -30087,6 +30643,7 @@ LisaBartHomerMaggie2015
 LisaBartHomerMaggie2016
 LisaBartHomerMaggie2017
 LisaBartHomerMaggie2018
+LisaBartHomerMaggie2019
 LisaBartHomerMaggieMarge1970
 LisaBartHomerMaggieMarge1971
 LisaBartHomerMaggieMarge1972
@@ -30136,6 +30693,7 @@ LisaBartHomerMaggieMarge2015
 LisaBartHomerMaggieMarge2016
 LisaBartHomerMaggieMarge2017
 LisaBartHomerMaggieMarge2018
+LisaBartHomerMaggieMarge2019
 LisaBartMarge1970
 LisaBartMarge1971
 LisaBartMarge1972
@@ -30185,6 +30743,7 @@ LisaBartMarge2015
 LisaBartMarge2016
 LisaBartMarge2017
 LisaBartMarge2018
+LisaBartMarge2019
 LisaBartMargeHomer1970
 LisaBartMargeHomer1971
 LisaBartMargeHomer1972
@@ -30234,6 +30793,7 @@ LisaBartMargeHomer2015
 LisaBartMargeHomer2016
 LisaBartMargeHomer2017
 LisaBartMargeHomer2018
+LisaBartMargeHomer2019
 LisaBartMargeHomerMaggie1970
 LisaBartMargeHomerMaggie1971
 LisaBartMargeHomerMaggie1972
@@ -30283,6 +30843,7 @@ LisaBartMargeHomerMaggie2015
 LisaBartMargeHomerMaggie2016
 LisaBartMargeHomerMaggie2017
 LisaBartMargeHomerMaggie2018
+LisaBartMargeHomerMaggie2019
 LisaBartMargeMaggie1970
 LisaBartMargeMaggie1971
 LisaBartMargeMaggie1972
@@ -30332,6 +30893,7 @@ LisaBartMargeMaggie2015
 LisaBartMargeMaggie2016
 LisaBartMargeMaggie2017
 LisaBartMargeMaggie2018
+LisaBartMargeMaggie2019
 LisaBartMargeMaggieHomer1970
 LisaBartMargeMaggieHomer1971
 LisaBartMargeMaggieHomer1972
@@ -30381,6 +30943,7 @@ LisaBartMargeMaggieHomer2015
 LisaBartMargeMaggieHomer2016
 LisaBartMargeMaggieHomer2017
 LisaBartMargeMaggieHomer2018
+LisaBartMargeMaggieHomer2019
 LisaBartMaggie1970
 LisaBartMaggie1971
 LisaBartMaggie1972
@@ -30430,6 +30993,7 @@ LisaBartMaggie2015
 LisaBartMaggie2016
 LisaBartMaggie2017
 LisaBartMaggie2018
+LisaBartMaggie2019
 LisaBartMaggieHomer1970
 LisaBartMaggieHomer1971
 LisaBartMaggieHomer1972
@@ -30479,6 +31043,7 @@ LisaBartMaggieHomer2015
 LisaBartMaggieHomer2016
 LisaBartMaggieHomer2017
 LisaBartMaggieHomer2018
+LisaBartMaggieHomer2019
 LisaBartMaggieHomerMarge1970
 LisaBartMaggieHomerMarge1971
 LisaBartMaggieHomerMarge1972
@@ -30528,6 +31093,7 @@ LisaBartMaggieHomerMarge2015
 LisaBartMaggieHomerMarge2016
 LisaBartMaggieHomerMarge2017
 LisaBartMaggieHomerMarge2018
+LisaBartMaggieHomerMarge2019
 LisaBartMaggieMarge1970
 LisaBartMaggieMarge1971
 LisaBartMaggieMarge1972
@@ -30577,6 +31143,7 @@ LisaBartMaggieMarge2015
 LisaBartMaggieMarge2016
 LisaBartMaggieMarge2017
 LisaBartMaggieMarge2018
+LisaBartMaggieMarge2019
 LisaBartMaggieMargeHomer1970
 LisaBartMaggieMargeHomer1971
 LisaBartMaggieMargeHomer1972
@@ -30626,6 +31193,7 @@ LisaBartMaggieMargeHomer2015
 LisaBartMaggieMargeHomer2016
 LisaBartMaggieMargeHomer2017
 LisaBartMaggieMargeHomer2018
+LisaBartMaggieMargeHomer2019
 LisaMaggie1970
 LisaMaggie1971
 LisaMaggie1972
@@ -30675,6 +31243,7 @@ LisaMaggie2015
 LisaMaggie2016
 LisaMaggie2017
 LisaMaggie2018
+LisaMaggie2019
 LisaMaggieHomer1970
 LisaMaggieHomer1971
 LisaMaggieHomer1972
@@ -30724,6 +31293,7 @@ LisaMaggieHomer2015
 LisaMaggieHomer2016
 LisaMaggieHomer2017
 LisaMaggieHomer2018
+LisaMaggieHomer2019
 LisaMaggieHomerMarge1970
 LisaMaggieHomerMarge1971
 LisaMaggieHomerMarge1972
@@ -30773,6 +31343,7 @@ LisaMaggieHomerMarge2015
 LisaMaggieHomerMarge2016
 LisaMaggieHomerMarge2017
 LisaMaggieHomerMarge2018
+LisaMaggieHomerMarge2019
 LisaMaggieHomerMargeBart1970
 LisaMaggieHomerMargeBart1971
 LisaMaggieHomerMargeBart1972
@@ -30822,6 +31393,7 @@ LisaMaggieHomerMargeBart2015
 LisaMaggieHomerMargeBart2016
 LisaMaggieHomerMargeBart2017
 LisaMaggieHomerMargeBart2018
+LisaMaggieHomerMargeBart2019
 LisaMaggieHomerBart1970
 LisaMaggieHomerBart1971
 LisaMaggieHomerBart1972
@@ -30871,6 +31443,7 @@ LisaMaggieHomerBart2015
 LisaMaggieHomerBart2016
 LisaMaggieHomerBart2017
 LisaMaggieHomerBart2018
+LisaMaggieHomerBart2019
 LisaMaggieHomerBartMarge1970
 LisaMaggieHomerBartMarge1971
 LisaMaggieHomerBartMarge1972
@@ -30920,6 +31493,7 @@ LisaMaggieHomerBartMarge2015
 LisaMaggieHomerBartMarge2016
 LisaMaggieHomerBartMarge2017
 LisaMaggieHomerBartMarge2018
+LisaMaggieHomerBartMarge2019
 LisaMaggieMarge1970
 LisaMaggieMarge1971
 LisaMaggieMarge1972
@@ -30969,6 +31543,7 @@ LisaMaggieMarge2015
 LisaMaggieMarge2016
 LisaMaggieMarge2017
 LisaMaggieMarge2018
+LisaMaggieMarge2019
 LisaMaggieMargeHomer1970
 LisaMaggieMargeHomer1971
 LisaMaggieMargeHomer1972
@@ -31018,6 +31593,7 @@ LisaMaggieMargeHomer2015
 LisaMaggieMargeHomer2016
 LisaMaggieMargeHomer2017
 LisaMaggieMargeHomer2018
+LisaMaggieMargeHomer2019
 LisaMaggieMargeHomerBart1970
 LisaMaggieMargeHomerBart1971
 LisaMaggieMargeHomerBart1972
@@ -31067,6 +31643,7 @@ LisaMaggieMargeHomerBart2015
 LisaMaggieMargeHomerBart2016
 LisaMaggieMargeHomerBart2017
 LisaMaggieMargeHomerBart2018
+LisaMaggieMargeHomerBart2019
 LisaMaggieMargeBart1970
 LisaMaggieMargeBart1971
 LisaMaggieMargeBart1972
@@ -31116,6 +31693,7 @@ LisaMaggieMargeBart2015
 LisaMaggieMargeBart2016
 LisaMaggieMargeBart2017
 LisaMaggieMargeBart2018
+LisaMaggieMargeBart2019
 LisaMaggieMargeBartHomer1970
 LisaMaggieMargeBartHomer1971
 LisaMaggieMargeBartHomer1972
@@ -31165,6 +31743,7 @@ LisaMaggieMargeBartHomer2015
 LisaMaggieMargeBartHomer2016
 LisaMaggieMargeBartHomer2017
 LisaMaggieMargeBartHomer2018
+LisaMaggieMargeBartHomer2019
 LisaMaggieBart1970
 LisaMaggieBart1971
 LisaMaggieBart1972
@@ -31214,6 +31793,7 @@ LisaMaggieBart2015
 LisaMaggieBart2016
 LisaMaggieBart2017
 LisaMaggieBart2018
+LisaMaggieBart2019
 LisaMaggieBartHomer1970
 LisaMaggieBartHomer1971
 LisaMaggieBartHomer1972
@@ -31263,6 +31843,7 @@ LisaMaggieBartHomer2015
 LisaMaggieBartHomer2016
 LisaMaggieBartHomer2017
 LisaMaggieBartHomer2018
+LisaMaggieBartHomer2019
 LisaMaggieBartHomerMarge1970
 LisaMaggieBartHomerMarge1971
 LisaMaggieBartHomerMarge1972
@@ -31312,6 +31893,7 @@ LisaMaggieBartHomerMarge2015
 LisaMaggieBartHomerMarge2016
 LisaMaggieBartHomerMarge2017
 LisaMaggieBartHomerMarge2018
+LisaMaggieBartHomerMarge2019
 LisaMaggieBartMarge1970
 LisaMaggieBartMarge1971
 LisaMaggieBartMarge1972
@@ -31361,6 +31943,7 @@ LisaMaggieBartMarge2015
 LisaMaggieBartMarge2016
 LisaMaggieBartMarge2017
 LisaMaggieBartMarge2018
+LisaMaggieBartMarge2019
 LisaMaggieBartMargeHomer1970
 LisaMaggieBartMargeHomer1971
 LisaMaggieBartMargeHomer1972
@@ -31410,6 +31993,7 @@ LisaMaggieBartMargeHomer2015
 LisaMaggieBartMargeHomer2016
 LisaMaggieBartMargeHomer2017
 LisaMaggieBartMargeHomer2018
+LisaMaggieBartMargeHomer2019
 Maggie1970
 Maggie1971
 Maggie1972
@@ -31459,6 +32043,7 @@ Maggie2015
 Maggie2016
 Maggie2017
 Maggie2018
+Maggie2019
 MaggieHomer1970
 MaggieHomer1971
 MaggieHomer1972
@@ -31508,6 +32093,7 @@ MaggieHomer2015
 MaggieHomer2016
 MaggieHomer2017
 MaggieHomer2018
+MaggieHomer2019
 MaggieHomerMarge1970
 MaggieHomerMarge1971
 MaggieHomerMarge1972
@@ -31557,6 +32143,7 @@ MaggieHomerMarge2015
 MaggieHomerMarge2016
 MaggieHomerMarge2017
 MaggieHomerMarge2018
+MaggieHomerMarge2019
 MaggieHomerMargeBart1970
 MaggieHomerMargeBart1971
 MaggieHomerMargeBart1972
@@ -31606,6 +32193,7 @@ MaggieHomerMargeBart2015
 MaggieHomerMargeBart2016
 MaggieHomerMargeBart2017
 MaggieHomerMargeBart2018
+MaggieHomerMargeBart2019
 MaggieHomerMargeBartLisa1970
 MaggieHomerMargeBartLisa1971
 MaggieHomerMargeBartLisa1972
@@ -31655,6 +32243,7 @@ MaggieHomerMargeBartLisa2015
 MaggieHomerMargeBartLisa2016
 MaggieHomerMargeBartLisa2017
 MaggieHomerMargeBartLisa2018
+MaggieHomerMargeBartLisa2019
 MaggieHomerMargeLisa1970
 MaggieHomerMargeLisa1971
 MaggieHomerMargeLisa1972
@@ -31704,6 +32293,7 @@ MaggieHomerMargeLisa2015
 MaggieHomerMargeLisa2016
 MaggieHomerMargeLisa2017
 MaggieHomerMargeLisa2018
+MaggieHomerMargeLisa2019
 MaggieHomerMargeLisaBart1970
 MaggieHomerMargeLisaBart1971
 MaggieHomerMargeLisaBart1972
@@ -31753,6 +32343,7 @@ MaggieHomerMargeLisaBart2015
 MaggieHomerMargeLisaBart2016
 MaggieHomerMargeLisaBart2017
 MaggieHomerMargeLisaBart2018
+MaggieHomerMargeLisaBart2019
 MaggieHomerBart1970
 MaggieHomerBart1971
 MaggieHomerBart1972
@@ -31802,6 +32393,7 @@ MaggieHomerBart2015
 MaggieHomerBart2016
 MaggieHomerBart2017
 MaggieHomerBart2018
+MaggieHomerBart2019
 MaggieHomerBartMarge1970
 MaggieHomerBartMarge1971
 MaggieHomerBartMarge1972
@@ -31851,6 +32443,7 @@ MaggieHomerBartMarge2015
 MaggieHomerBartMarge2016
 MaggieHomerBartMarge2017
 MaggieHomerBartMarge2018
+MaggieHomerBartMarge2019
 MaggieHomerBartMargeLisa1970
 MaggieHomerBartMargeLisa1971
 MaggieHomerBartMargeLisa1972
@@ -31900,6 +32493,7 @@ MaggieHomerBartMargeLisa2015
 MaggieHomerBartMargeLisa2016
 MaggieHomerBartMargeLisa2017
 MaggieHomerBartMargeLisa2018
+MaggieHomerBartMargeLisa2019
 MaggieHomerBartLisa1970
 MaggieHomerBartLisa1971
 MaggieHomerBartLisa1972
@@ -31949,6 +32543,7 @@ MaggieHomerBartLisa2015
 MaggieHomerBartLisa2016
 MaggieHomerBartLisa2017
 MaggieHomerBartLisa2018
+MaggieHomerBartLisa2019
 MaggieHomerBartLisaMarge1970
 MaggieHomerBartLisaMarge1971
 MaggieHomerBartLisaMarge1972
@@ -31998,6 +32593,7 @@ MaggieHomerBartLisaMarge2015
 MaggieHomerBartLisaMarge2016
 MaggieHomerBartLisaMarge2017
 MaggieHomerBartLisaMarge2018
+MaggieHomerBartLisaMarge2019
 MaggieHomerLisa1970
 MaggieHomerLisa1971
 MaggieHomerLisa1972
@@ -32047,6 +32643,7 @@ MaggieHomerLisa2015
 MaggieHomerLisa2016
 MaggieHomerLisa2017
 MaggieHomerLisa2018
+MaggieHomerLisa2019
 MaggieHomerLisaMarge1970
 MaggieHomerLisaMarge1971
 MaggieHomerLisaMarge1972
@@ -32096,6 +32693,7 @@ MaggieHomerLisaMarge2015
 MaggieHomerLisaMarge2016
 MaggieHomerLisaMarge2017
 MaggieHomerLisaMarge2018
+MaggieHomerLisaMarge2019
 MaggieHomerLisaMargeBart1970
 MaggieHomerLisaMargeBart1971
 MaggieHomerLisaMargeBart1972
@@ -32145,6 +32743,7 @@ MaggieHomerLisaMargeBart2015
 MaggieHomerLisaMargeBart2016
 MaggieHomerLisaMargeBart2017
 MaggieHomerLisaMargeBart2018
+MaggieHomerLisaMargeBart2019
 MaggieHomerLisaBart1970
 MaggieHomerLisaBart1971
 MaggieHomerLisaBart1972
@@ -32194,6 +32793,7 @@ MaggieHomerLisaBart2015
 MaggieHomerLisaBart2016
 MaggieHomerLisaBart2017
 MaggieHomerLisaBart2018
+MaggieHomerLisaBart2019
 MaggieHomerLisaBartMarge1970
 MaggieHomerLisaBartMarge1971
 MaggieHomerLisaBartMarge1972
@@ -32243,6 +32843,7 @@ MaggieHomerLisaBartMarge2015
 MaggieHomerLisaBartMarge2016
 MaggieHomerLisaBartMarge2017
 MaggieHomerLisaBartMarge2018
+MaggieHomerLisaBartMarge2019
 MaggieMarge1970
 MaggieMarge1971
 MaggieMarge1972
@@ -32292,6 +32893,7 @@ MaggieMarge2015
 MaggieMarge2016
 MaggieMarge2017
 MaggieMarge2018
+MaggieMarge2019
 MaggieMargeHomer1970
 MaggieMargeHomer1971
 MaggieMargeHomer1972
@@ -32341,6 +32943,7 @@ MaggieMargeHomer2015
 MaggieMargeHomer2016
 MaggieMargeHomer2017
 MaggieMargeHomer2018
+MaggieMargeHomer2019
 MaggieMargeHomerBart1970
 MaggieMargeHomerBart1971
 MaggieMargeHomerBart1972
@@ -32390,6 +32993,7 @@ MaggieMargeHomerBart2015
 MaggieMargeHomerBart2016
 MaggieMargeHomerBart2017
 MaggieMargeHomerBart2018
+MaggieMargeHomerBart2019
 MaggieMargeHomerBartLisa1970
 MaggieMargeHomerBartLisa1971
 MaggieMargeHomerBartLisa1972
@@ -32439,6 +33043,7 @@ MaggieMargeHomerBartLisa2015
 MaggieMargeHomerBartLisa2016
 MaggieMargeHomerBartLisa2017
 MaggieMargeHomerBartLisa2018
+MaggieMargeHomerBartLisa2019
 MaggieMargeHomerLisa1970
 MaggieMargeHomerLisa1971
 MaggieMargeHomerLisa1972
@@ -32488,6 +33093,7 @@ MaggieMargeHomerLisa2015
 MaggieMargeHomerLisa2016
 MaggieMargeHomerLisa2017
 MaggieMargeHomerLisa2018
+MaggieMargeHomerLisa2019
 MaggieMargeHomerLisaBart1970
 MaggieMargeHomerLisaBart1971
 MaggieMargeHomerLisaBart1972
@@ -32537,6 +33143,7 @@ MaggieMargeHomerLisaBart2015
 MaggieMargeHomerLisaBart2016
 MaggieMargeHomerLisaBart2017
 MaggieMargeHomerLisaBart2018
+MaggieMargeHomerLisaBart2019
 MaggieMargeBart1970
 MaggieMargeBart1971
 MaggieMargeBart1972
@@ -32586,6 +33193,7 @@ MaggieMargeBart2015
 MaggieMargeBart2016
 MaggieMargeBart2017
 MaggieMargeBart2018
+MaggieMargeBart2019
 MaggieMargeBartHomer1970
 MaggieMargeBartHomer1971
 MaggieMargeBartHomer1972
@@ -32635,6 +33243,7 @@ MaggieMargeBartHomer2015
 MaggieMargeBartHomer2016
 MaggieMargeBartHomer2017
 MaggieMargeBartHomer2018
+MaggieMargeBartHomer2019
 MaggieMargeBartHomerLisa1970
 MaggieMargeBartHomerLisa1971
 MaggieMargeBartHomerLisa1972
@@ -32684,6 +33293,7 @@ MaggieMargeBartHomerLisa2015
 MaggieMargeBartHomerLisa2016
 MaggieMargeBartHomerLisa2017
 MaggieMargeBartHomerLisa2018
+MaggieMargeBartHomerLisa2019
 MaggieMargeBartLisa1970
 MaggieMargeBartLisa1971
 MaggieMargeBartLisa1972
@@ -32733,6 +33343,7 @@ MaggieMargeBartLisa2015
 MaggieMargeBartLisa2016
 MaggieMargeBartLisa2017
 MaggieMargeBartLisa2018
+MaggieMargeBartLisa2019
 MaggieMargeBartLisaHomer1970
 MaggieMargeBartLisaHomer1971
 MaggieMargeBartLisaHomer1972
@@ -32782,6 +33393,7 @@ MaggieMargeBartLisaHomer2015
 MaggieMargeBartLisaHomer2016
 MaggieMargeBartLisaHomer2017
 MaggieMargeBartLisaHomer2018
+MaggieMargeBartLisaHomer2019
 MaggieMargeLisa1970
 MaggieMargeLisa1971
 MaggieMargeLisa1972
@@ -32831,6 +33443,7 @@ MaggieMargeLisa2015
 MaggieMargeLisa2016
 MaggieMargeLisa2017
 MaggieMargeLisa2018
+MaggieMargeLisa2019
 MaggieMargeLisaHomer1970
 MaggieMargeLisaHomer1971
 MaggieMargeLisaHomer1972
@@ -32880,6 +33493,7 @@ MaggieMargeLisaHomer2015
 MaggieMargeLisaHomer2016
 MaggieMargeLisaHomer2017
 MaggieMargeLisaHomer2018
+MaggieMargeLisaHomer2019
 MaggieMargeLisaHomerBart1970
 MaggieMargeLisaHomerBart1971
 MaggieMargeLisaHomerBart1972
@@ -32929,6 +33543,7 @@ MaggieMargeLisaHomerBart2015
 MaggieMargeLisaHomerBart2016
 MaggieMargeLisaHomerBart2017
 MaggieMargeLisaHomerBart2018
+MaggieMargeLisaHomerBart2019
 MaggieMargeLisaBart1970
 MaggieMargeLisaBart1971
 MaggieMargeLisaBart1972
@@ -32978,6 +33593,7 @@ MaggieMargeLisaBart2015
 MaggieMargeLisaBart2016
 MaggieMargeLisaBart2017
 MaggieMargeLisaBart2018
+MaggieMargeLisaBart2019
 MaggieMargeLisaBartHomer1970
 MaggieMargeLisaBartHomer1971
 MaggieMargeLisaBartHomer1972
@@ -33027,6 +33643,7 @@ MaggieMargeLisaBartHomer2015
 MaggieMargeLisaBartHomer2016
 MaggieMargeLisaBartHomer2017
 MaggieMargeLisaBartHomer2018
+MaggieMargeLisaBartHomer2019
 MaggieBart1970
 MaggieBart1971
 MaggieBart1972
@@ -33076,6 +33693,7 @@ MaggieBart2015
 MaggieBart2016
 MaggieBart2017
 MaggieBart2018
+MaggieBart2019
 MaggieBartHomer1970
 MaggieBartHomer1971
 MaggieBartHomer1972
@@ -33125,6 +33743,7 @@ MaggieBartHomer2015
 MaggieBartHomer2016
 MaggieBartHomer2017
 MaggieBartHomer2018
+MaggieBartHomer2019
 MaggieBartHomerMarge1970
 MaggieBartHomerMarge1971
 MaggieBartHomerMarge1972
@@ -33174,6 +33793,7 @@ MaggieBartHomerMarge2015
 MaggieBartHomerMarge2016
 MaggieBartHomerMarge2017
 MaggieBartHomerMarge2018
+MaggieBartHomerMarge2019
 MaggieBartHomerMargeLisa1970
 MaggieBartHomerMargeLisa1971
 MaggieBartHomerMargeLisa1972
@@ -33223,6 +33843,7 @@ MaggieBartHomerMargeLisa2015
 MaggieBartHomerMargeLisa2016
 MaggieBartHomerMargeLisa2017
 MaggieBartHomerMargeLisa2018
+MaggieBartHomerMargeLisa2019
 MaggieBartHomerLisa1970
 MaggieBartHomerLisa1971
 MaggieBartHomerLisa1972
@@ -33272,6 +33893,7 @@ MaggieBartHomerLisa2015
 MaggieBartHomerLisa2016
 MaggieBartHomerLisa2017
 MaggieBartHomerLisa2018
+MaggieBartHomerLisa2019
 MaggieBartHomerLisaMarge1970
 MaggieBartHomerLisaMarge1971
 MaggieBartHomerLisaMarge1972
@@ -33321,6 +33943,7 @@ MaggieBartHomerLisaMarge2015
 MaggieBartHomerLisaMarge2016
 MaggieBartHomerLisaMarge2017
 MaggieBartHomerLisaMarge2018
+MaggieBartHomerLisaMarge2019
 MaggieBartMarge1970
 MaggieBartMarge1971
 MaggieBartMarge1972
@@ -33370,6 +33993,7 @@ MaggieBartMarge2015
 MaggieBartMarge2016
 MaggieBartMarge2017
 MaggieBartMarge2018
+MaggieBartMarge2019
 MaggieBartMargeHomer1970
 MaggieBartMargeHomer1971
 MaggieBartMargeHomer1972
@@ -33419,6 +34043,7 @@ MaggieBartMargeHomer2015
 MaggieBartMargeHomer2016
 MaggieBartMargeHomer2017
 MaggieBartMargeHomer2018
+MaggieBartMargeHomer2019
 MaggieBartMargeHomerLisa1970
 MaggieBartMargeHomerLisa1971
 MaggieBartMargeHomerLisa1972
@@ -33468,6 +34093,7 @@ MaggieBartMargeHomerLisa2015
 MaggieBartMargeHomerLisa2016
 MaggieBartMargeHomerLisa2017
 MaggieBartMargeHomerLisa2018
+MaggieBartMargeHomerLisa2019
 MaggieBartMargeLisa1970
 MaggieBartMargeLisa1971
 MaggieBartMargeLisa1972
@@ -33517,6 +34143,7 @@ MaggieBartMargeLisa2015
 MaggieBartMargeLisa2016
 MaggieBartMargeLisa2017
 MaggieBartMargeLisa2018
+MaggieBartMargeLisa2019
 MaggieBartMargeLisaHomer1970
 MaggieBartMargeLisaHomer1971
 MaggieBartMargeLisaHomer1972
@@ -33566,6 +34193,7 @@ MaggieBartMargeLisaHomer2015
 MaggieBartMargeLisaHomer2016
 MaggieBartMargeLisaHomer2017
 MaggieBartMargeLisaHomer2018
+MaggieBartMargeLisaHomer2019
 MaggieBartLisa1970
 MaggieBartLisa1971
 MaggieBartLisa1972
@@ -33615,6 +34243,7 @@ MaggieBartLisa2015
 MaggieBartLisa2016
 MaggieBartLisa2017
 MaggieBartLisa2018
+MaggieBartLisa2019
 MaggieBartLisaHomer1970
 MaggieBartLisaHomer1971
 MaggieBartLisaHomer1972
@@ -33664,6 +34293,7 @@ MaggieBartLisaHomer2015
 MaggieBartLisaHomer2016
 MaggieBartLisaHomer2017
 MaggieBartLisaHomer2018
+MaggieBartLisaHomer2019
 MaggieBartLisaHomerMarge1970
 MaggieBartLisaHomerMarge1971
 MaggieBartLisaHomerMarge1972
@@ -33713,6 +34343,7 @@ MaggieBartLisaHomerMarge2015
 MaggieBartLisaHomerMarge2016
 MaggieBartLisaHomerMarge2017
 MaggieBartLisaHomerMarge2018
+MaggieBartLisaHomerMarge2019
 MaggieBartLisaMarge1970
 MaggieBartLisaMarge1971
 MaggieBartLisaMarge1972
@@ -33762,6 +34393,7 @@ MaggieBartLisaMarge2015
 MaggieBartLisaMarge2016
 MaggieBartLisaMarge2017
 MaggieBartLisaMarge2018
+MaggieBartLisaMarge2019
 MaggieBartLisaMargeHomer1970
 MaggieBartLisaMargeHomer1971
 MaggieBartLisaMargeHomer1972
@@ -33811,6 +34443,7 @@ MaggieBartLisaMargeHomer2015
 MaggieBartLisaMargeHomer2016
 MaggieBartLisaMargeHomer2017
 MaggieBartLisaMargeHomer2018
+MaggieBartLisaMargeHomer2019
 MaggieLisa1970
 MaggieLisa1971
 MaggieLisa1972
@@ -33860,6 +34493,7 @@ MaggieLisa2015
 MaggieLisa2016
 MaggieLisa2017
 MaggieLisa2018
+MaggieLisa2019
 MaggieLisaHomer1970
 MaggieLisaHomer1971
 MaggieLisaHomer1972
@@ -33909,6 +34543,7 @@ MaggieLisaHomer2015
 MaggieLisaHomer2016
 MaggieLisaHomer2017
 MaggieLisaHomer2018
+MaggieLisaHomer2019
 MaggieLisaHomerMarge1970
 MaggieLisaHomerMarge1971
 MaggieLisaHomerMarge1972
@@ -33958,6 +34593,7 @@ MaggieLisaHomerMarge2015
 MaggieLisaHomerMarge2016
 MaggieLisaHomerMarge2017
 MaggieLisaHomerMarge2018
+MaggieLisaHomerMarge2019
 MaggieLisaHomerMargeBart1970
 MaggieLisaHomerMargeBart1971
 MaggieLisaHomerMargeBart1972
@@ -34007,6 +34643,7 @@ MaggieLisaHomerMargeBart2015
 MaggieLisaHomerMargeBart2016
 MaggieLisaHomerMargeBart2017
 MaggieLisaHomerMargeBart2018
+MaggieLisaHomerMargeBart2019
 MaggieLisaHomerBart1970
 MaggieLisaHomerBart1971
 MaggieLisaHomerBart1972
@@ -34056,6 +34693,7 @@ MaggieLisaHomerBart2015
 MaggieLisaHomerBart2016
 MaggieLisaHomerBart2017
 MaggieLisaHomerBart2018
+MaggieLisaHomerBart2019
 MaggieLisaHomerBartMarge1970
 MaggieLisaHomerBartMarge1971
 MaggieLisaHomerBartMarge1972
@@ -34105,6 +34743,7 @@ MaggieLisaHomerBartMarge2015
 MaggieLisaHomerBartMarge2016
 MaggieLisaHomerBartMarge2017
 MaggieLisaHomerBartMarge2018
+MaggieLisaHomerBartMarge2019
 MaggieLisaMarge1970
 MaggieLisaMarge1971
 MaggieLisaMarge1972
@@ -34154,6 +34793,7 @@ MaggieLisaMarge2015
 MaggieLisaMarge2016
 MaggieLisaMarge2017
 MaggieLisaMarge2018
+MaggieLisaMarge2019
 MaggieLisaMargeHomer1970
 MaggieLisaMargeHomer1971
 MaggieLisaMargeHomer1972
@@ -34203,6 +34843,7 @@ MaggieLisaMargeHomer2015
 MaggieLisaMargeHomer2016
 MaggieLisaMargeHomer2017
 MaggieLisaMargeHomer2018
+MaggieLisaMargeHomer2019
 MaggieLisaMargeHomerBart1970
 MaggieLisaMargeHomerBart1971
 MaggieLisaMargeHomerBart1972
@@ -34252,6 +34893,7 @@ MaggieLisaMargeHomerBart2015
 MaggieLisaMargeHomerBart2016
 MaggieLisaMargeHomerBart2017
 MaggieLisaMargeHomerBart2018
+MaggieLisaMargeHomerBart2019
 MaggieLisaMargeBart1970
 MaggieLisaMargeBart1971
 MaggieLisaMargeBart1972
@@ -34301,6 +34943,7 @@ MaggieLisaMargeBart2015
 MaggieLisaMargeBart2016
 MaggieLisaMargeBart2017
 MaggieLisaMargeBart2018
+MaggieLisaMargeBart2019
 MaggieLisaMargeBartHomer1970
 MaggieLisaMargeBartHomer1971
 MaggieLisaMargeBartHomer1972
@@ -34350,6 +34993,7 @@ MaggieLisaMargeBartHomer2015
 MaggieLisaMargeBartHomer2016
 MaggieLisaMargeBartHomer2017
 MaggieLisaMargeBartHomer2018
+MaggieLisaMargeBartHomer2019
 MaggieLisaBart1970
 MaggieLisaBart1971
 MaggieLisaBart1972
@@ -34399,6 +35043,7 @@ MaggieLisaBart2015
 MaggieLisaBart2016
 MaggieLisaBart2017
 MaggieLisaBart2018
+MaggieLisaBart2019
 MaggieLisaBartHomer1970
 MaggieLisaBartHomer1971
 MaggieLisaBartHomer1972
@@ -34448,6 +35093,7 @@ MaggieLisaBartHomer2015
 MaggieLisaBartHomer2016
 MaggieLisaBartHomer2017
 MaggieLisaBartHomer2018
+MaggieLisaBartHomer2019
 MaggieLisaBartHomerMarge1970
 MaggieLisaBartHomerMarge1971
 MaggieLisaBartHomerMarge1972
@@ -34497,6 +35143,7 @@ MaggieLisaBartHomerMarge2015
 MaggieLisaBartHomerMarge2016
 MaggieLisaBartHomerMarge2017
 MaggieLisaBartHomerMarge2018
+MaggieLisaBartHomerMarge2019
 MaggieLisaBartMarge1970
 MaggieLisaBartMarge1971
 MaggieLisaBartMarge1972
@@ -34546,6 +35193,7 @@ MaggieLisaBartMarge2015
 MaggieLisaBartMarge2016
 MaggieLisaBartMarge2017
 MaggieLisaBartMarge2018
+MaggieLisaBartMarge2019
 MaggieLisaBartMargeHomer1970
 MaggieLisaBartMargeHomer1971
 MaggieLisaBartMargeHomer1972
@@ -34595,7 +35243,7 @@ MaggieLisaBartMargeHomer2015
 MaggieLisaBartMargeHomer2016
 MaggieLisaBartMargeHomer2017
 MaggieLisaBartMargeHomer2018
-homer12
+MaggieLisaBartMargeHomer2019
 homer12marge12
 homer12marge12bart12
 homer12marge12bart12lisa12
@@ -34660,7 +35308,6 @@ homer12maggie12lisa12marge12
 homer12maggie12lisa12marge12bart12
 homer12maggie12lisa12bart12
 homer12maggie12lisa12bart12marge12
-marge12
 marge12homer12
 marge12homer12bart12
 marge12homer12bart12lisa12
@@ -34725,7 +35372,6 @@ marge12maggie12lisa12homer12
 marge12maggie12lisa12homer12bart12
 marge12maggie12lisa12bart12
 marge12maggie12lisa12bart12homer12
-bart12
 bart12homer12
 bart12homer12marge12
 bart12homer12marge12lisa12
@@ -34790,7 +35436,6 @@ bart12maggie12lisa12homer12
 bart12maggie12lisa12homer12marge12
 bart12maggie12lisa12marge12
 bart12maggie12lisa12marge12homer12
-lisa12
 lisa12homer12
 lisa12homer12marge12
 lisa12homer12marge12bart12
@@ -35050,7 +35695,6 @@ marge123maggie123lisa123homer123
 marge123maggie123lisa123homer123bart123
 marge123maggie123lisa123bart123
 marge123maggie123lisa123bart123homer123
-bart123
 bart123homer123
 bart123homer123marge123
 bart123homer123marge123lisa123
@@ -35115,7 +35759,6 @@ bart123maggie123lisa123homer123
 bart123maggie123lisa123homer123marge123
 bart123maggie123lisa123marge123
 bart123maggie123lisa123marge123homer123
-lisa123
 lisa123homer123
 lisa123homer123marge123
 lisa123homer123marge123bart123
@@ -35895,7 +36538,6 @@ maggie12345lisa12345bart12345homer12345
 maggie12345lisa12345bart12345homer12345marge12345
 maggie12345lisa12345bart12345marge12345
 maggie12345lisa12345bart12345marge12345homer12345
-Homer12
 Homer12Marge12
 Homer12Marge12Bart12
 Homer12Marge12Bart12Lisa12
@@ -35960,7 +36602,6 @@ Homer12Maggie12Lisa12Marge12
 Homer12Maggie12Lisa12Marge12Bart12
 Homer12Maggie12Lisa12Bart12
 Homer12Maggie12Lisa12Bart12Marge12
-Marge12
 Marge12Homer12
 Marge12Homer12Bart12
 Marge12Homer12Bart12Lisa12
@@ -36025,7 +36666,6 @@ Marge12Maggie12Lisa12Homer12
 Marge12Maggie12Lisa12Homer12Bart12
 Marge12Maggie12Lisa12Bart12
 Marge12Maggie12Lisa12Bart12Homer12
-Bart12
 Bart12Homer12
 Bart12Homer12Marge12
 Bart12Homer12Marge12Lisa12
@@ -36090,7 +36730,6 @@ Bart12Maggie12Lisa12Homer12
 Bart12Maggie12Lisa12Homer12Marge12
 Bart12Maggie12Lisa12Marge12
 Bart12Maggie12Lisa12Marge12Homer12
-Lisa12
 Lisa12Homer12
 Lisa12Homer12Marge12
 Lisa12Homer12Marge12Bart12
@@ -36350,7 +36989,6 @@ Marge123Maggie123Lisa123Homer123
 Marge123Maggie123Lisa123Homer123Bart123
 Marge123Maggie123Lisa123Bart123
 Marge123Maggie123Lisa123Bart123Homer123
-Bart123
 Bart123Homer123
 Bart123Homer123Marge123
 Bart123Homer123Marge123Lisa123
@@ -36415,7 +37053,6 @@ Bart123Maggie123Lisa123Homer123
 Bart123Maggie123Lisa123Homer123Marge123
 Bart123Maggie123Lisa123Marge123
 Bart123Maggie123Lisa123Marge123Homer123
-Lisa123
 Lisa123Homer123
 Lisa123Homer123Marge123
 Lisa123Homer123Marge123Bart123
