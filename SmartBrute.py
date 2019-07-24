@@ -4,7 +4,10 @@ class SmartBrute():
 
     def __init__(self, OutputFile):
         self.OutFile = open(OutputFile, 'w+')
-        self.FilterOut = False
+        self.MaxLength = [False, 0]
+        self.MinLength = [False, 0]
+        self.ForbidChars = [False, []]
+        self.PrintPass = True
 
     def setFilter(self, Rules):
         # Set maximum length if given.
@@ -26,10 +29,10 @@ class SmartBrute():
     def add(self, keys):
         for key in keys:
             # Max length check.
-            if (self.MaxLength[0] and key > self.MaxLength[1]): continue
+            if (self.MaxLength[0] and len(key) > self.MaxLength[1]): continue
             
             # Min Length check.
-            if (self.MinLength[0] and key < self.MaxLength[1]): continue
+            if (self.MinLength[0] and len(key) < self.MaxLength[1]): continue
 
             # Forbidden characters check.
             if self.ForbidChars[0]:

@@ -1,4 +1,4 @@
-from smartbrute import *
+from SmartBrute import *
 
 SB = SmartBrute('example01.txt')
 SB.setFilter({
