@@ -4,11 +4,9 @@ SB = SmartBrute('example01.txt')
 SB.setFilter({
     "max-length": 63,
     "min-length": 8,
-    'forbidden-characters': ['O'],
+    'forbidden-characters': ['@','#'],
     'echo-generated-passwords-in-terminal': True
 })
-
-SB.add(['WHYYYY???'])
 
 NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']
 SURNAME = 'Simpson'
