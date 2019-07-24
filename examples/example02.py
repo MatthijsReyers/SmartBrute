@@ -1,4 +1,4 @@
-from smartbrute import *
+from SmartBrute import *
 
 # Variables
 NAMES = ['homer', 'marge', 'bart', 'lisa', 'maggie']

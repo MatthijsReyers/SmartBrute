@@ -32,7 +32,7 @@ class SmartBrute():
             if (self.MaxLength[0] and len(key) > self.MaxLength[1]): continue
             
             # Min Length check.
-            if (self.MinLength[0] and len(key) < self.MaxLength[1]): continue
+            if (self.MinLength[0] and len(key) < self.MinLength[1]): continue
 
             # Forbidden characters check.
             if self.ForbidChars[0]:
