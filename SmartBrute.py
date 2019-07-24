@@ -12,7 +12,7 @@ class SmartBrute():
             self.MaxLength = Rules['max-length']
             self.MinLength = Rules['min-length']
         except:
-            print('ERROR: Please give the minimum and maxiumum length (as integers).')
+            print('ERROR: Please give the minimum and maximum length (as integers).')
 
     def add(self, keys):
         for key in keys:
