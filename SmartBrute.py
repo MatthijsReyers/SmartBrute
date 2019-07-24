@@ -7,22 +7,46 @@ class SmartBrute():
         self.FilterOut = False
 
     def setFilter(self, Rules):
-        self.FilterOut = True
-        try: 
-            self.MaxLength = Rules['max-length']
-            self.MinLength = Rules['min-length']
-        except:
-            print('ERROR: Please give the minimum and maximum length (as integers).')
+        # Set maximum length if given.
+        try: self.MaxLength = [True, int(Rules['max-length'])]
+        except: self.MaxLength = [False, 0]
+
+        # Set minimum length if given.
+        try: self.MinLength = [True, int(Rules['min-length'])]
+        except: self.MinLength = [False, 0]
+
+        # Set forbidden characters if given.
+        try: self.ForbidChars = [True, Rules['forbidden-characters']]
+        except: self.ForbidChars = [False, []]
+
+        # Set whether to print generated passwords to terminal.
+        try: self.PrintPass = bool(Rules['echo-generated-passwords-in-terminal'])
+        except: self.PrintPass = True
 
     def add(self, keys):
         for key in keys:
-            if self.FilterOut:
-                if (len(key) >= self.MinLength) and (len(key) <= self.MaxLength):
-                    self.OutFile.write(key+"\n")
-                    print(key)
-            else:
-                self.OutFile.write(key+"\n")
-                print(key)
+
+            # Max length check.
+            if (self.MaxLength[0] and key > self.MaxLength[1]): continue
+            
+            # Min Length check.
+            if (self.MinLength[0] and key < self.MaxLength[1]): continue
+
+            # Forbidden characters check.
+            if self.ForbidChars[0]:
+                dirtyCheck = True
+                for char in self.ForbidChars[1]:
+                    if char in key:
+                        break
+                else: 
+                    dirtyCheck = False
+                if dirtyCheck: continue
+
+            # Print keys check
+            if self.PrintPass: print(key)
+
+            # Actually add the key to output file.
+            self.OutFile.write(key+'\n')
 
     def stop(self):
         self.OutFile.close()
