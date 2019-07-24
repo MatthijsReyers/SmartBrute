@@ -25,7 +25,6 @@ class SmartBrute():
 
     def add(self, keys):
         for key in keys:
-
             # Max length check.
             if (self.MaxLength[0] and key > self.MaxLength[1]): continue
             
