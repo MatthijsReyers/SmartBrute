@@ -124,11 +124,11 @@ def AddString(keys, string):
         OutKeys.append(key+string)
     return OutKeys
 
-def AddForEach(keys, strings):
+def AddForEach(keys1, keys2):
     OutKeys = []
-    for string in strings:
-        for key in keys:
-            OutKeys.append(key+string)
+    for key in keys1:
+        for add in keys2:
+            OutKeys.append(key+add)
     return OutKeys
 
 def ReplaceString(keys, replace, new):
