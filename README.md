@@ -137,7 +137,11 @@ The AddForEach function will add the given keys to the end of every .
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```AddString(NAMES, 'Simpson')``` | `['HomerSimpson', 'MargeSimpson', 'BartSimpson']` |
 
 ### 2.10 ReplaceString(keys, replace, new)
+The ReplaceString function will replace parts of the given keys with a new string.
 
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```ReplaceString(NAMES, 'e', '3')``` | `['Hom3r', 'Marg3', 'Bart']` |
 
 ### 2.11 CapFirstChar(keys)
 
