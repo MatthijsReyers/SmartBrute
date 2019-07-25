@@ -87,63 +87,56 @@ The GetAllTrueComb function returns all possible ways in which the given keys/st
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
 
-### 2.3 GetAllCombForEach(keys1, keys2)
-The GetAllCombForEach function returns all possible combinations that can be made by combining two keys/strings from the two given arrays/lists.
-
-| Example       | Output        |
-| ------------- |:-------------:|
-| `NAMES = ['bart', 'lisa', 'maggie']`<br>`YEARS = ['2000', '2001', '2002']`<br>`GetAllCombForEach(NAMES,YEARS)` | `['bart2000', 'bart2001', 'bart2002',`<br>`'lisa2000', 'lisa2001', 'lisa2002',`<br>`'maggie2000', 'maggie2001', 'maggie2002']` |
-
-### 2.4 GetFirstN(keys, N)
+### 2.3 GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys/strings. PLEASE NOTE: the GetFirstN function does not filter for doubles, it is therefore recommended to pass the output of this function through the RemoveDoubles function to avoid duplicates.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart', 'Lisa', 'Maggie']```<br>```GetFirst(NAMES, 2)``` | `['Ho', 'Ma', 'Ba', 'Li', 'Ma']` |
 
-### 2.5 RepeatN(keys, N)
+### 2.4 RepeatN(keys, N)
 The RepeatN function repeats the given keys N times.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```RepeatN(NAMES, 3)``` | `['homerhomerhomer', 'margemargemarge', 'bartbartbart']` |
 
-### 2.6 RepeatTillN(keys, N)
+### 2.5 RepeatTillN(keys, N)
 The RepeatN function repeats the given keys N times till.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```RepeatTillN(NAMES, 3)``` | `['homer', 'homerhomer', 'homerhomerhomer',`<br>`'marge', 'margemarge', 'margemargemarge',`<br>`'bart', 'bartbart', 'bartbartbart']` |
 
-### 2.7 GenYears(start, stop)
+### 2.6 GenYears(start, stop)
 The GenYears function returns all the years between the start and the stop year.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```GenYears(1995,2008)``` | `['1995', '1996', '1997', '1998', '1999', '2000', '2001',`<br>`'2002', '2003', '2004', '2005', '2006', '2007', '2008']` |
 
-### 2.8 AddString(keys, string)
+### 2.7 AddString(keys, string)
 The AddString function will add a given string to the end of every given key.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```AddString(NAMES, 'Simpson')``` | `['HomerSimpson', 'MargeSimpson', 'BartSimpson']` |
 
-### 2.9 AddForEach(keys1, keys2)
-The AddForEach function will add the given keys to the end of every .
+### 2.8 AddForEach(keys1, keys2)
+Bro you need to add text here
 
 | Example       | Output        |
 | ------------- |:-------------:|
-| ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```AddString(NAMES, 'Simpson')``` | `['HomerSimpson', 'MargeSimpson', 'BartSimpson']` |
+| `NAMES = ['bart', 'lisa', 'maggie']`<br>`YEARS = ['2000', '2001', '2002']`<br>`AddForEach(NAMES,YEARS)` | `['bart2000', 'bart2001', 'bart2002',`<br>`'lisa2000', 'lisa2001', 'lisa2002',`<br>`'maggie2000', 'maggie2001', 'maggie2002']` |
 
-### 2.10 ReplaceString(keys, replace, new)
+### 2.9 ReplaceString(keys, replace, new)
 The ReplaceString function will replace parts of the given keys with a new string.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```ReplaceString(NAMES, 'e', '3')``` | `['Hom3r', 'Marg3', 'Bart']` |
 
-### 2.11 RemoveDoubles(keys)
+### 2.10 RemoveDoubles(keys)
 
 
 ### 2.11 CapFirstChar(keys)
