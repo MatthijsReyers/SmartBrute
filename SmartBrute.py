@@ -138,6 +138,13 @@ def ReplaceString(keys, replace, new):
         OutKeys.append(out)
     return OutKeys
 
+def RemoveDoubles(keys):
+    OutKeys = []
+    for key in keys:
+        if key not in OutKeys:
+            OutKeys.append(key)
+    return OutKeys
+
 def CapFirstChar(keys):
     OutKeys = []
     for key in keys:
