@@ -88,7 +88,7 @@ The GetAllTrueComb function returns all possible ways in which the given keys/st
 | ```ALFB = ['A','B','C']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
 
 ### 2.3 GetFirstN(keys, N)
-The GetFirstN function returns the first N characters of the given keys/strings. PLEASE NOTE: the GetFirstN function does not filter for doubles, it is therefore recommended to pass the output of this function through the RemoveDoubles function to avoid duplicates.
+The GetFirstN function returns the first N characters of the given keys/strings. PLEASE NOTE: the GetFirstN function does not filter its output for doubles, it is therefore recommended to pass the output of this function through the RemoveDoubles function to avoid duplicates.
 
 | Example       | Output        |
 | ------------- |:-------------:|
