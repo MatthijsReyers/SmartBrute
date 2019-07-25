@@ -107,7 +107,7 @@ def RepeatTillN(keys, N):
     for key in keys:
         for step in range(N):
             AddKey = ''
-            for more in range(step+1):
+            for step2 in range(step+1):
                 AddKey = AddKey+key
             OutKeys.append(AddKey)
     return OutKeys
