@@ -95,7 +95,7 @@ The GetAllCombForEach function returns all possible combinations that can be mad
 | `NAMES = ['bart', 'lisa', 'maggie']`<br>`YEARS = ['2000', '2001', '2002']`<br>`GetAllCombForEach(NAMES,YEARS)` | `['bart2000', 'bart2001', 'bart2002',`<br>`'lisa2000', 'lisa2001', 'lisa2002',`<br>`'maggie2000', 'maggie2001', 'maggie2002']` |
 
 ### 2.4 GetFirstN(keys, N)
-The GetFirstN function returns the first N characters of the given keys/strings.
+The GetFirstN function returns the first N characters of the given keys/strings. PLEASE NOTE: the GetFirstN function does not filter for doubles, it is therefore recommended to pass the output of this function through the RemoveDoubles function to avoid duplicates.
 
 | Example       | Output        |
 | ------------- |:-------------:|
@@ -142,6 +142,9 @@ The ReplaceString function will replace parts of the given keys with a new strin
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```ReplaceString(NAMES, 'e', '3')``` | `['Hom3r', 'Marg3', 'Bart']` |
+
+### 2.11 RemoveDoubles(keys)
+
 
 ### 2.11 CapFirstChar(keys)
 
