@@ -6,3 +6,5 @@ I have also deprecated the GetAllCombForEach() function after realizing that it 
 
 ### 24/07/2019 - New options in the settings dict
 It is now possible to filter the generated passwords for certain characters, and you can also disable the previewing of generated passwords in the console, because it significatnly slows down the program.
+
+
