@@ -137,7 +137,11 @@ The ReplaceString function will replace parts of the given keys with a new strin
 | ```NAMES = ['Homer', 'Marge', 'Bart']```<br>```ReplaceString(NAMES, 'e', '3')``` | `['Hom3r', 'Marg3', 'Bart']` |
 
 ### 2.10 RemoveDoubles(keys)
+The RemoveDoubles function will filter the given keys for duplicate keys.
 
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```CHARS = ['a','a','b','b','b','c',]```<br>```RemoveDoubles(CHARS)``` | `['a', 'b', 'c']` |
 
 ### 2.11 CapFirstChar(keys)
 
