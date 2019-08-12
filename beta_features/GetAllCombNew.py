@@ -3,6 +3,9 @@ class GetAll:
         self.current = low
         self.high = high
 
+    def __getitem__(self, s):
+        return 2
+
     def __iter__(self):
         return self
 
@@ -12,7 +15,4 @@ class GetAll:
         else:
             self.current += 1
             return self.current - 1
-    
-    def __getitem__(self, s):
-        return 2
 
