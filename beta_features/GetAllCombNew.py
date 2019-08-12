@@ -21,3 +21,4 @@ class GetAllCombNew:
 
 for i in GetAllCombNew(['a','b','c','d'],1,3):
     print(i)
+
