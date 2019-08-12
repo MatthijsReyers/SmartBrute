@@ -1,16 +1,20 @@
 
 from SmartBrute import *
 
-SB = SmartBrute('example03.txt')
+SB = SmartBrute('voetbal.txt')
 
 SB.setFilter({
-    "max-length": 63,
-    "min-length": 8,
+    # "max-length": 63,
+    # "min-length": 8,
     'echo-generated-passwords-in-terminal': False
 })
 
-def GetAllTrueCombEdit(keys):
+def GetAllTrueCombEdit(keys, minKeys:int, maxKeys:int, start=None):
     OutKeys = []
+
+    if start: MainKeysLen = int(start)
+    else: MainKeysLen = len(keys)
+
     for key in keys:
         OtherKeys = keys[:]
         OtherKeys.remove(key)
@@ -18,12 +22,23 @@ def GetAllTrueCombEdit(keys):
         if len(OtherKeys) == 1:
             OutKeys.append(key+OtherKeys[0])
         else:
-            for rkey in GetAllTrueComb(OtherKeys):
-                OutKeys.append(key+rkey)
+            if (MainKeysLen - len(keys) == maxKeys-1):
+                pass
+            else:
+                for rkey in GetAllTrueCombEdit(OtherKeys, int(minKeys), int(maxKeys), start=MainKeysLen):
+                    OutKeys.append(key+rkey)
     return OutKeys
 
+def GenNumbers(minLen:int, maxLen:int, nums=[0,1,2,3,4,5,6,7,8,9]):
+    OutKeys = []
+    numsLen = len(nums)
+    counter = maxLen - minLen
+    for i in range(counter):
+        print(i)
+
+
 years = GenYears(1900,2000)
-nums = GetAllTrueCombEdit(['0','1','2','3','4','5','6','7','8','9'])
+nums = GetAllTrueCombEdit(['0','1','2','3','4','5','6','7','8','9'],1,6)
 footballClubs = ['ajax','feyenoord','PSV','psv','AZ','az','fctwente','fcTwente','FCtwente','fcutrecht','fcUtrecht','FCutrecht']
 
 # 'voetbal' + common years
