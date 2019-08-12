@@ -2,3 +2,9 @@
 # FOLDERS
 # -----------------------
 __pycache__/
+examples/dutch_lists/__pycache__/
+
+# -----------------------
+# FILES
+# -----------------------
+examples/dutch_lists/SmartBrute.py
