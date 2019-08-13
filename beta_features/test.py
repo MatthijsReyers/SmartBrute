@@ -12,25 +12,12 @@ def convertToBin(num:int, bits:int):
     out.reverse()
     return out
 
-def convertToBase(num:int, bits:int, bas:int):
+def convertToBase(num:int, bits:int, base:int):
 
-    for base in reversed(range(bas)):
+    for bit in reversed(range(bits)):
+        for power in reversed(range(base)):
 
-        for i in reversed(range(bits)):
-
-            print('base: ', base, '   i: ', i, '  value: ', (base+1)**(i+1))
+            print( bit * (base**power) )
 
 
-# print(
-#     convertToBase(300, 8, 4)
-# )
-
-# convertToBase(0, 4, 3)
-
-# for i in range(0,251):
-#     for bit in convertToBin(i, 8):
-#         print(bit, end='')
-#     print(' - ', i)
-#     time.sleep(0.3)
-
-for i in range()
+convertToBase(12,4,3)
