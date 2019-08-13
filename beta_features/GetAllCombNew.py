@@ -5,6 +5,21 @@ class GetAllCombNew:
         self.keysLen =  len(keys)
         self.keys = keys
         self.current = 0
+        self.len = 0
+        for i in range(minKeys, maxKeys+1):
+            self.len = self.len + (i**self.keysLen)
+
+    def convertToBase(self, number:int, bits:int, base:int):
+        out = [0 for i in range(bits)]
+        for bit in reversed(range(bits)):
+            for power in reversed(range(1,base)):
+                testnum = power * (base**bit)
+                if (number >= testnum):
+                    number = number - testnum
+                    out[bit] = power
+                    break
+        out.reverse()
+        return out
 
     def __getitem__(self, s):
         return 2
@@ -13,12 +28,13 @@ class GetAllCombNew:
         return self
 
     def __next__(self):
-        if self.current > self.max:
+        if self.current > self.len:
             raise StopIteration
         else:
             self.current += 1
-            return self.current - 1
+            return self.__getitem__(self.current)
 
-for i in GetAllCombNew(['a','b','c','d'],1,3):
-    print(i)
+if __name__ == '__main__':
+
+    GetAllCombNew(['test'],3,5)
 
