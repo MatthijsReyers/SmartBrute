@@ -52,8 +52,3 @@ class GetAllCombNew:
         else:
             self.current += 1
             return self.__getitem__(self.current - 1)
-
-if __name__ == '__main__':
-
-    for i in GetAllCombNew(['AA','BB','CC'],1,4):
-        print(i)

@@ -73,19 +73,19 @@ SimpsonGuest
 SmartBrute includes a bunch of different functions to manipulate and generate arrays/lists of strings. All of them are listed below along with some explanation and usages examples. Please keep in mind that most of these functions can be nested/combined to generate some pretty complex passwords.
 If you don't feel like making your own generation script or need some insperation, check out the `example02.py` file, which generates a whole bunch of passwords based on research and stastics into common passwords patterns.
 
-### 2.1 GetAllComb(keys)
-The GetAllComb function returns all possible ways in which the given keys/strings can be combined, while always using every given key, and never using a key twice. *PLEASE NOTE:* For performance reasons I do not recommned using this function on extremely large arrays, or to nesting this function multiple times. As your computer may run out of RAM.
-
-| Example       | Output        |
-| ------------- |:-------------:|
-| ```ALFB = ['A','B','C','D']```<br>`GetAllComb(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
-
-### 2.2 GetAllTrueComb(keys)
-The GetAllTrueComb function returns all possible ways in which the given keys/strings can be combined, while never using the same key twice, but not necessarily using every key for every combination. *PLEASE NOTE:* For performance reasons I do not recommned using this function on extremely large arrays, or to nesting this function multiple times. As your computer may run out of RAM.
+### 2.1 GetAllComb(keys, minKeys, maxKeys)
+This description is now outdated. please write a new one.
 
 | Example       | Output        |
 | ------------- |:-------------:|
 | ```ALFB = ['A','B','C']```<br>`GetAllComb(ALFB)` | `['A', 'AB', 'ABC', 'AC', 'ACB',`<br>`'B', 'BA', 'BAC', 'BC', 'BCA',`<br>` 'C', 'CA', 'CAB', 'CB', 'CBA']` |
+
+### 2.2 GetAllCombNoDoubles(keys)
+The GetAllComb function returns all possible ways in which the given keys/strings can be combined, while always using every given key, and never using a key twice. *PLEASE NOTE:* For performance reasons I do not recommned using this function on extremely large arrays, or to nesting this function multiple times. As your computer may run out of RAM.
+
+| Example       | Output        |
+| ------------- |:-------------:|
+| ```ALFB = ['A','B','C','D']```<br>`GetAllCombNoDoubles(ALFB)` | `['ABCD', 'ABDC', 'ACBD', 'ACDB', 'ADBC', 'ADCB', 'BACD', 'BADC',`<br> `'BCAD', 'BCDA', 'BDAC', 'BDCA', 'CABD', 'CADB', 'CBAD', 'CBDA',`<br>`'CDAB', 'CDBA', 'DABC', 'DACB', 'DBAC', 'DBCA', 'DCAB', 'DCBA']` |
 
 ### 2.3 GetFirstN(keys, N)
 The GetFirstN function returns the first N characters of the given keys/strings. PLEASE NOTE: the GetFirstN function does not filter its output for doubles, it is therefore recommended to pass the output of this function through the RemoveDoubles function to avoid duplicates.

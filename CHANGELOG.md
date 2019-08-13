@@ -1,8 +1,9 @@
 # SmartBrute changelog
 
 ### 12/08/2019 - GetAllComb() optimalization and new features
-The GetAllComb() function now no longer generates a list with all possible combinations but instead returns an object that will generate the required string when asked for or itterated over (similarly to how python's build-in range function works). This means that python no longer needs to store giant amounts of data in RAM when working with multiple nested GetAllComb() functions or when the GetAllComb() function is given a large list.
-I have also added the ```minKeys``` & ```maxKeys``` arguments which allow the user to choose how many keys to combine, which was previously not possible.
+The GetAllComb() function now no longer generates a list with all possible combinations but instead returns an object that will generate the required string when asked for or itterated over (similarly to how python's build-in range() function works). This means that python no longer needs to store giant amounts of data in RAM when working with multiple nested GetAllComb() functions or when the GetAllComb() function is given a large list.
+I have also added the `minKeys` & `maxKeys` arguments which allow the user to choose how many keys to combine, which was previously not possible.
+The previous GetAllComb() function has now been renamed to GetAllCombNoDoubles() and the GetAllTrueComb() function has been depricated because the same thing can now be doen with the new GetAllComb() function.
 
 ### 12/06/2019 - Dutch password list examples
 I wanted to 
@@ -20,3 +21,4 @@ It is now possible to filter the generated passwords for certain characters, and
 
 - Filtering generated passwords with regex/regular expressions.
 - The ability to load in a password list from a file for manipulation in with SmartBrute.
+- Optimalization treatment for GetAllComb
