@@ -36,5 +36,6 @@ class GetAllCombNew:
 
 if __name__ == '__main__':
 
-    GetAllCombNew(['test'],3,5)
+    for test in GetAllCombNew(['test','wow'],4,4):
 
+        print(test)
