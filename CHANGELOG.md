@@ -21,4 +21,4 @@ It is now possible to filter the generated passwords for certain characters, and
 
 - Filtering generated passwords with regex/regular expressions.
 - The ability to load in a password list from a file for manipulation in with SmartBrute.
-- Optimalization treatment for GetAllComb
+- Optimalization treatment for GetAllCombNoDoubles()
