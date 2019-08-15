@@ -105,6 +105,32 @@ class GetAllComb:
 
     def __next__(self):
         if self.current >= self.len:
+            self.current = 0
+            raise StopIteration
+        else:
+            self.current += 1
+            return self.__getitem__(self.current - 1)
+
+class GetAllCombForEach:
+    def __init__(self, keys, toadd):
+        self.keys = keys
+        self.toadd = toadd
+
+        OutKeys = []
+        for key in keys:
+            for add in toadd:
+                OutKeys.append(key+add)
+        return OutKeys
+
+    def __getitem__(self, itemIndex):
+        pass
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self.current >= self.len:
+            self.current = 0
             raise StopIteration
         else:
             self.current += 1
