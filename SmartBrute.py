@@ -152,9 +152,14 @@ def GetAllCombNoDoubles(keys):
 
 def GetAllCombForEach(keys, toadd):
     OutKeys = []
-    for key in keys:
+    if type(toadd) == type([]):
+        for key in keys:
+            for add in toadd:
+                OutKeys.append(key+add)
+    else:
         for add in toadd:
-            OutKeys.append(key+add)
+            for key in keys:
+                OutKeys.append(key+add)
     return OutKeys
 
 def GetFirstN(keys, n):
