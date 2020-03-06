@@ -3,6 +3,7 @@
 # -----------------------
 __pycache__/
 examples/dutch_lists/__pycache__/
+.vscode
 
 # -----------------------
 # FILES

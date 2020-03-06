@@ -1,69 +1,76 @@
 #!/usr/bin/python3
 
-class SmartBrute():
-
+class SmartList():
     def __init__(self, OutputFile):
         self.OutFile = open(OutputFile, 'w+')
-        self.MaxLength = [False, 0]
-        self.MinLength = [False, 0]
-        self.ForbidChars = [False, []]
-        self.PrintPass = True
+        self.maxLength = -1
+        self.minLength = -1
+        self.forbidenChars = []
+        self.echoKeys = False
 
-    def setFilter(self, Rules):
+    def __enter__(self):
+        pass
+
+    def __exit__(self, *unused):
+        self.OutFile.close()
+
+    def setFilter(self, Rules:dict) -> None:
         # Set maximum length if given.
-        try: self.MaxLength = [True, int(Rules['max-length'])]
-        except: self.MaxLength = [False, 0]
+        try: self.maxLength = int(Rules['max-length'])
+        except: self.maxLength = 0
 
         # Set minimum length if given.
-        try: self.MinLength = [True, int(Rules['min-length'])]
-        except: self.MinLength = [False, 0]
+        try: self.minLength = int(Rules['min-length'])
+        except: self.minLength = 0
 
         # Set forbidden characters if given.
-        try: self.ForbidChars = [True, Rules['forbidden-characters']]
-        except: self.ForbidChars = [False, []]
+        try: self.forbidenChars = Rules['forbidden-characters']
+        except: self.forbidenChars = []
 
         # Set whether to print generated passwords to terminal.
-        try: self.PrintPass = bool(Rules['echo-generated-passwords-in-terminal'])
-        except: self.PrintPass = True
+        try: self.echoKeys = bool(Rules['echo-generated-passwords-in-terminal'])
+        except: self.echoKeys = False
 
-    def add(self, keys):
+    def addKeys(self, keys:list) -> None:
         for key in keys:
-            # Max length check.
-            if (self.MaxLength[0] and len(key) > self.MaxLength[1]): continue
-            
-            # Min Length check.
-            if (self.MinLength[0] and len(key) < self.MinLength[1]): continue
+            self.addKey(key)
 
-            # Forbidden characters check.
-            if self.ForbidChars[0]:
-                dirtyCheck = True
-                for char in self.ForbidChars[1]:
-                    if char in key:
-                        break
-                else: 
-                    dirtyCheck = False
-                if dirtyCheck: continue
+    def addKey(self, key:str) -> None:
+        # Max length check.
+        if self.xaxLength and (len(key) > self.maxLength): 
+            return
+        
+        # Min Length check.
+        if self.minLength and (len(key) < self.minLength): 
+            return
 
-            # Print keys check
-            if self.PrintPass: print(key)
+        # Forbidden characters check.
+        if self.forbidenChars and any(char in key for char in self.forbidenChars):
+            return
 
-            # Actually add the key to output file.
-            self.OutFile.write(key+'\n')
+        # Print keys check
+        if self.echoKeys: 
+            print(key)
 
-    def stop(self):
-        self.OutFile.close()
-        # Exit application to prevent anymore calling of add() function.
-        exit(0)
+        # Actually add the key to output file.
+        self.OutFile.write(key+'\n')
 
-class GetAllComb:
-    def __init__(self, keys, minKeys, maxKeys):
+    def close(self) -> None:
+        self.__exit__()
+
+class KeyGenerator():
+    def __init__(self):
+        pass
+
+class GetAllComb(KeyGenerator):
+    def __init__(self, keys, minKeys=1, maxKeys=0):
         self.min = minKeys
-        self.max = maxKeys
+        self.max = maxKeys or len(keys)
         self.keysLen =  len(keys)
         self.keys = keys
         self.current = 0
         self.len = 0
-        for i in range(minKeys, maxKeys+1):
+        for i in range(self.min, self.max+1):
             self.len = self.len + (self.keysLen**i)
 
     def convertToBase(self, number:int, bits:int, base:int):
@@ -110,33 +117,6 @@ class GetAllComb:
         else:
             self.current += 1
             return self.__getitem__(self.current - 1)
-
-# class GetAllCombForEach:
-#     def __init__(self, keys, toadd):
-#         self.keys = keys
-#         self.toadd = toadd
-#         self.current = 0
-#         self.len = len(keys) * len(toadd)
-
-#         # OutKeys = []
-#         # for key in keys:
-#         #     for add in toadd:
-#         #         OutKeys.append(key+add)
-#         # return OutKeys
-
-#     def __getitem__(self, itemIndex):
-#         pass
-
-#     def __iter__(self):
-#         return self
-
-#     def __next__(self):
-#         if self.current >= self.len:
-#             self.current = 0
-#             raise StopIteration
-#         else:
-#             self.current += 1
-#             return self.__getitem__(self.current - 1)
 
 def GetAllCombNoDoubles(keys):
     OutKeys = []
@@ -187,11 +167,25 @@ def RepeatTillN(keys, N):
             OutKeys.append(AddKey)
     return OutKeys
 
-def GenYears(start, stop):
-    OutKeys = []
-    for year in range(int(start), int(stop)+1):
-        OutKeys.append(str(year))
-    return OutKeys
+class genYears(KeyGenerator):
+    def __init__(self, start:int, stop:int):
+        self.start = start
+        self.stop = stop + 1
+        self.current = 0
+
+    def __getitem__(self, i:int) -> str:
+        return str(self.start+i)
+
+    def __iter__(self):
+        return self
+
+    def __next__(self) -> str:
+        self.current += 1
+        if (self.current > self.stop - self.start):
+            self.current = 0
+            raise StopIteration
+        else:
+            return self.__getitem__(self.current-1)
 
 def AddString(keys, string):
     OutKeys = []
