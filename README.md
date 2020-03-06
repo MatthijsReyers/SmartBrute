@@ -1,5 +1,7 @@
 # SmartBrute - Bruteforce smarter with Python
-Although password lists like 'rockyou.txt' are pretty good when bruteforcing several passwords from relatively unknown targets, in many situations you do know information about the target. And because many people (previously myself included) use passwords that are partially or entirely made out of publicly available information, I decided to create a simple tool in Python that can be used to generate password lists with information about a target.
+Although password lists like 'rockyou.txt' can provided decent results when bruteforcing passwords from unknown targets, in most real world situations there is likely 
+
+you do know information about the target. And because many people (previously myself included) use passwords that are partially or entirely made out of publicly available information, I decided to create a simple tool in Python that can be used to generate password lists with information about a target.
 
 If you have any suggestions on how to improve the code or want to share any of the scripts that you've come up with, please do contact me.
 
@@ -13,9 +15,9 @@ from smartbrute import *
 ```
 
 ### 1.2 Initialize the SmartBrute object
-You can then make a SmartBrute object, which I will call `SB`. Please note that the `'example01.txt'` string is the name of the file you want to put the generated password list into and giving the name of a file that already exists will overwrite that file.
+You can then make a SmartList object, which I will call `SB`. The `'example01.txt'` string is the name of the file you want to put the generated password list into and giving the name of a file that already exists will overwrite that file.
 ```python
-SB = SmartBrute('example01.txt')
+SB = SmartList('example01.txt')
 ```
 
 ### 1.3 Filtering the generated passwords (optional step)

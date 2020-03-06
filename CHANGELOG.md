@@ -1,7 +1,7 @@
 # SmartBrute changelog
 
 ### 06/03/2020 - Lazy evaluation and type hinting.
-
+Today work has started on refactoring the SmartBrute codebase to make all password/key generators lazily evaluated. Additionally I am also working on adding type hinting to all functions and variables.
 
 ### 12/08/2019 - GetAllComb() optimalization and new features
 The GetAllComb() function now no longer generates a list with all possible combinations but instead returns an object that will generate the required string when asked for or itterated over (similarly to how python's build-in range() function works). This means that python no longer needs to store giant amounts of data in RAM when working with multiple nested GetAllComb() functions or when the GetAllComb() function is given a large list.
@@ -21,7 +21,7 @@ It is now possible to filter the generated passwords for certain characters, and
 
 
 # Upcomming/requested/suggested features
-
+- Proper docstrings for all functions.
 - Proper type hinting for all functions and variables.
 - All Key generators will be made lazy.
 - GetAllCombNoDoubles() will be replaced with the more general filterDoubles().
